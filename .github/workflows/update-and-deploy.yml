@@ -27,6 +27,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,6 +47,8 @@ jobs:
           git add docs/feed.json
           if ! git diff --staged --quiet; then
             git commit -m "chore: publish updated Daily Signal feed"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase -X theirs "origin/${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           else
             echo "No feed changes"
