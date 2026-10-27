@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "retentionHours": 48,
+  "sections": ["immigration", "us", "india", "world", "technology", "football", "cricket", "f1"],
+  "articles": []
+}
