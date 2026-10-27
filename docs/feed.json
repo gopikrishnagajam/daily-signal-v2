@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T21:47:52.310531Z",
+  "updatedAt": "2026-10-27T22:01:51.822872Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -13,6 +13,16 @@
     "f1"
   ],
   "articles": [
+    {
+      "id": "f536de488a90eea8fbb1",
+      "section": "us",
+      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+      "excerpt": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T21:46:43Z",
+      "officialSource": false
+    },
     {
       "id": "2098c9f8c38de4d9fc33",
       "section": "football",
@@ -94,12 +104,12 @@
       "officialSource": false
     },
     {
-      "id": "89c3123e9896e81d0a37",
+      "id": "8346efbd8e2d19c7b5e7",
       "section": "technology",
       "title": "Tech Life",
       "excerpt": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T20:30:00Z",
       "officialSource": false
     },
@@ -144,6 +154,16 @@
       "officialSource": false
     },
     {
+      "id": "1f12017e6f34f2974559",
+      "section": "immigration",
+      "title": "International students dump Australia as visa uncertainty bites - Times Higher Education",
+      "excerpt": "International students dump Australia as visa uncertainty bites Times Higher Education",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGlkRzRkWjdYZnpHSUpxVHdJekFEY21JTXB6cVhoeTZWOXVJbmlsU092OC1rSWtwdzVkWTNIdEYyVWxCZlhCMVZ4ZjJPbVFVRHVmRGlhUGsyWUZMNjBNSWdtLUJvOTh5YmI5cGg0akE5dExPeDRzblZRLW12QXV0Mmh4QVlYdkFGdGM4Um95WmJweTRlMFo0cVFTQnBxaURhWC0xVw?oc=5",
+      "publishedAt": "2026-10-27T20:11:50Z",
+      "officialSource": false
+    },
+    {
       "id": "8b4d9dcd99286ab058a4",
       "section": "us",
       "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
@@ -176,7 +196,7 @@
     {
       "id": "edea632a5379f83cdabe",
       "section": "world",
-      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
       "excerpt": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
@@ -191,6 +211,16 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c64g17jqy5ddo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T19:20:13Z",
+      "officialSource": false
+    },
+    {
+      "id": "1bf49dba07e1fb4f3226",
+      "section": "immigration",
+      "title": "New Zealand Announces 4 Major Student Visa Changes - Bloom Pakistan",
+      "excerpt": "New Zealand Announces 4 Major Student Visa Changes Bloom Pakistan",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Njd2SUo0cEVxQjZmMi1QXzBCU0lhU05YRHJZRUljbXgwY0lDQ0M1RkpGTnNXX1lFNllDek9IVkMzdEl3YnR6Q2lQTmc0VVVEVXdhbEtEMjNETjF6OFlxdzA1Rlcyc1dQUEtPY1g2MXNFZw?oc=5",
+      "publishedAt": "2026-10-27T19:18:45Z",
       "officialSource": false
     },
     {
@@ -374,6 +404,26 @@
       "officialSource": false
     },
     {
+      "id": "d36ede0e3b776e5ec451",
+      "section": "immigration",
+      "title": "New Zealand introduces new rules for student visa - ARYnews.tv",
+      "excerpt": "New Zealand introduces new rules for student visa ARYnews.tv",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53WlQ0S1lDNnh4dmNSQUlZVXVLUkNBcTNpR18ySnVGby1XR1JOWnNvTkpQZDQyZDFoU2FPYXFuRUxPeEdzQmg5dEV2ZkFjQVFzLUk0azcwMFFSVzkySDNIdTdVOUdyNGlEM1hkMTFSc25LXzJOLXBR?oc=5",
+      "publishedAt": "2026-10-27T16:32:30Z",
+      "officialSource": false
+    },
+    {
+      "id": "8bb3053fb08e67c19695",
+      "section": "immigration",
+      "title": "Minister must act on Gaza student visas after High Court ruling – Harmon - The Labour Party",
+      "excerpt": "Minister must act on Gaza student visas after High Court ruling – Harmon The Labour Party",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFg1NzEyRFYxTlMxcmZjSnV5Z1R5WUYwZUtYSE9ZbER6NTJGaFhzLU1RWGppckJXY1pzb2tfdXpUaVZLNkMwM3lwT2JmZG02Wk5PbUlZUUc2eldPTkQ3WUlvNG1aMzl2amVQNUNFbmplTVdPNjdQUGg0dG1RQmtXaDM1Ykh0YTMwZ1o5dzJSMEtZSE8ybXdZQk1BaTVpUzVMeFJWQWh3d2w?oc=5",
+      "publishedAt": "2026-10-27T16:26:26Z",
+      "officialSource": false
+    },
+    {
       "id": "83999bb0ad06feeb7ee7",
       "section": "technology",
       "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
@@ -524,6 +574,16 @@
       "officialSource": false
     },
     {
+      "id": "375a930d57a4d5076ab7",
+      "section": "immigration",
+      "title": "New Zealand Introduces Four Changes to Student Visa Rules - TechJuice",
+      "excerpt": "New Zealand Introduces Four Changes to Student Visa Rules TechJuice",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0NqTVNBalRJNVJJajdFSWlNZmQ4MGZnclBtTlNlMXBkOTRIV2pJTDZyN1VTUm91d3hJWEphMkdUYXlzSXk5MWRsdDZxRE9GaFZNNl9DUmxibzRJMTJzWDEtTTV5ejVCMm1fcFFfdzRxX3doaTZvZXVwd2JKc3ZwX3ZsNXhnT0ZrN2JV?oc=5",
+      "publishedAt": "2026-10-27T13:47:27Z",
+      "officialSource": false
+    },
+    {
       "id": "394a6978fc806c2ecf1f",
       "section": "technology",
       "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
@@ -584,16 +644,6 @@
       "officialSource": false
     },
     {
-      "id": "712224d0199af12b2aa5",
-      "section": "immigration",
-      "title": "Kenyan students left out as Australia reduces student visa fees for 23 countries - Education News",
-      "excerpt": "Kenyan students left out as Australia reduces student visa fees for 23 countries Education News",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW04RG5vc20zU3d2SGs4TnVQN2Z0VlpkcmljTV9KRmE2QzlMWWR2SUpKckpmaFpXLWZpVXFVY0lCRlNOeEw1Z19NMmNZVjNseUlHR1F0MlFud3FJaXd2UTNhTWhZbFJacWVsa09WcHEzUjZRbm1RcUcwb1FCVFdWQUFsWDJYUHJ0ZDFyWmdoVmZ2Tm1zd2tfX0hxUUFLLU0wRm9EVThCTUYyaTBScHlmcTF4bw?oc=5",
-      "publishedAt": "2026-10-27T12:38:28Z",
-      "officialSource": false
-    },
-    {
       "id": "019232e22400663c70c2",
       "section": "cricket",
       "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
@@ -611,56 +661,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T09:37:55Z",
-      "officialSource": false
-    },
-    {
-      "id": "36409457e11538b19d4d",
-      "section": "immigration",
-      "title": "New Zealand updates student visa regulations, reducing research students' work rights significantly - The Economic Times",
-      "excerpt": "New Zealand updates student visa regulations, reducing research students' work rights significantly The Economic Times",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeDd1VU1STTdvdjVIbVVDU1cyaTdseXZlejBsaUpMZ3Z6NTAwRmJjZ2k3VHZGRkRUSFJCTW1BVENKX1RXMk9zQ0F1UFliMUdfWFR1d1o4MlNxaU1rVTBQRGlFRldIcFhWaWg3WjdZa09vUUhEbWRHVHpXMXNJTnFaa245R2tvd3ROcHFYUEx4T0VVejQxa09JQjQxc1dVZFd5WkpyNGl0YXBkcXAtMURKNU96S0diOWdWRE50X1dHdjdOcUdLXzFzdjFwYl8zLVlFVm44VnJFNEgwOElnR1l2bXpFZmVHV1l0cTVEZ2RoSXVNckliSG44WlcwWTJCeWPSAYQCQVVfeXFMUHdPZTNjZ3VyaVhTSmJkd1dxZUVvakF1OHJSUTdPLVZkSmYyaERZNEJvU0pGOURwd2stbGl6Mmx4aXdfMDBjUDlFM1A3VHBkcmdCT0hfOVdDZndMS0FhTlp5bzI3VERhUW5FWlVRSHlLZTdJRU9DM2dEQkVQeko5Z25SamhvXzFEMDdvY3REb1ZEdG4wWWpJZXh2VHFnSURzU0Y1LTRQaDFYa0xxSWc2UnFiaTZsUG8wZzBITXhLazlDMFUwVjNGNFRMbVVVU0NTYmNCM1JFYXJiREZiNHNwcnRIUmI3V1lSY3VlT29jemhUdEM4R2Rqdl9RRnRWZHRSbXVSMzE?oc=5",
-      "publishedAt": "2026-10-27T09:26:31Z",
-      "officialSource": false
-    },
-    {
-      "id": "80bd91c0ef88d404f0f7",
-      "section": "immigration",
-      "title": "Australia tightens student visas again: What Indian students, parents should do now - India Today",
-      "excerpt": "Australia tightens student visas again: What Indian students, parents should do now India Today",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb3A2UjFvVHVlc1ZOVDVCbUJTMkJvS0h4S3lpVEFoaXBpYVc5NFNNcDFoaDlrWXpINzRVZU5vRG5rbkVvRmhkcEZreDFJMlcwZWlyNlZ0Q2c3aEFUUXBOdEtLZ2hsdGQzVk8zdGJiRjltdk1nc0VIYTNMbnRVZDlfdzNfOGUxdk5UcXhJYU82WGZUTXRnTEloaWsxSHFqZV9FYTlqeURRTGwwMlhocnJGTjZhYm52T09uVGpCbEpadVZVS1RQQmMydVJ3MWdLdndIVm5tLW9sNmxjUzY5dkQ5V3ZRelFUaHN5cTM1M21ZRlJPRmZQSks1X21hSHk2a1QwclNDMV9QSW14ZDJIV1ZySFVsbERQN3PSAZwCQVVfeXFMUDEtUGs1VFp5T29LUVJ6b0xqME1kUE5Jc0tjQkVnZnM3d0FBLWFjMHhvOHRtTWxOOERHaVl2ZVQ5QnEwemhpTU5lbEFUbDVLRzF0WUdOaENKXzkzYVBwX1VfQWRUTjRBNXJnVVlCLVlGTFhWdjRaYlpBUTFSSTlyMDMzUG81UEN4RGo0bHo1akxrLWxvRU5TSDdQbTZ4WmlPNDJJbGl6dmwwUXJnZk1pa0djVTloX3JibHBoM0dCend5bmdfWjJGSWZTNzZ3MlBMQksyQ0pRUHFjOFFPNnZVLThiRkM2TGpySnQyRnZ4NjlDTWxEUjdBYWxOSlEtX2lja09QOEdwdjRLY1BlLXlIRGpxaHJhMjdwLTBiTmk?oc=5",
-      "publishedAt": "2026-10-27T08:46:45Z",
-      "officialSource": false
-    },
-    {
-      "id": "c67fda803648ed683bcd",
-      "section": "us",
-      "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-      "excerpt": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T06:15:24Z",
-      "officialSource": false
-    },
-    {
-      "id": "8f14a616c4137b7c94ad",
-      "section": "us",
-      "title": "Donald Trump's biggest economic problem looks strangely familiar",
-      "excerpt": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T06:01:11Z",
-      "officialSource": false
-    },
-    {
-      "id": "ce05360d5d90600be597",
-      "section": "us",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "excerpt": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T05:05:15Z",
       "officialSource": false
     }
   ]
