@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T22:01:51.822872Z",
+  "updatedAt": "2026-10-28T06:51:43.450327Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -14,6 +14,226 @@
   ],
   "articles": [
     {
+      "id": "048e7d016ca7788470cd",
+      "section": "immigration",
+      "title": "UK raises student visa living cost requirements from November 30 - OnlineKhabar English News",
+      "excerpt": "UK raises student visa living cost requirements from November 30 OnlineKhabar English News",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkxia1JpMEhTN28yT1RBeDU0LVVrdXRFUEtrM1ozdmFBbDY0SjFGamVMWTJuVENSRTFwdUJaUXVncHhwemgyLUlTYi03OHBZQUllWlRkcXNheVpKUzVrbUJ6b05icUN1X2ZZbVFOdUg1S1BqZEktSk4zYjc4OFNJdjhoZVp2M0tBSzZYWGEyVUpPMnh2NGtKZnpIdmt2aUhnd0Y3bg?oc=5",
+      "publishedAt": "2026-10-28T06:48:35Z",
+      "officialSource": false
+    },
+    {
+      "id": "b4e5ff20dcfa9f0b77c5",
+      "section": "football",
+      "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
+      "excerpt": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T06:33:14Z",
+      "officialSource": false
+    },
+    {
+      "id": "66cb1d39a7366577585d",
+      "section": "immigration",
+      "title": "Australia tightens student visa rules: 5 changes Indian students must know before studying abroad - Education Times",
+      "excerpt": "Australia tightens student visa rules: 5 changes Indian students must know before studying abroad Education Times",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdDAtWE1uaV9iNnJiaXROQUdJOFcwZXI0SVJ1cDVTaXM0R1lpMkpVb3FsN0VmZWItZmMtUWE5Znd3Umcwd0xuLUZDbTJ4dDJvQ2ZHYV9QX3lxcDd2c0dJc3pVNjVUdjdEVGVkcUh4cFcxRWVnY183NTJiOVF6RnR3VXBwNG9EYXc4Ul9JT05xdGxIZ0NvNDczNkdUWjRsaTA1b29vZnVNbUI3Qk5EcF9rdjFFS3Y1WEY5SDNoMXAxbzVQdHZEMkhJQUtGM1V2eFpmYzB3UzVkcWFwaXQwT2pkYXdacXltQUR0ZV9yLXFDSzUzS2VlQzZCcENR?oc=5",
+      "publishedAt": "2026-10-28T06:25:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "580e41e76b28b03c7bd5",
+      "section": "world",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "excerpt": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T04:22:59Z",
+      "officialSource": false
+    },
+    {
+      "id": "8b4d9dcd99286ab058a4",
+      "section": "us",
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "excerpt": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T02:51:25Z",
+      "officialSource": false
+    },
+    {
+      "id": "c0334e402a8821004866",
+      "section": "us",
+      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+      "excerpt": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T02:47:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "1e7097c9e10846ac4fb7",
+      "section": "us",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "excerpt": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T02:20:25Z",
+      "officialSource": false
+    },
+    {
+      "id": "f659714cff086c9edd95",
+      "section": "immigration",
+      "title": "Understanding proposed changes to Optional Practical Training (OPT) - American Physical Society",
+      "excerpt": "Understanding proposed changes to Optional Practical Training (OPT) American Physical Society",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFFka01DZDJKaGJZbVg4QUxSWFFfaXMxTm1Na2ZQY0gydTN1Nzg2dFpEcF9qb19qMGpNOXB1dUx0NDk0dFNiWWtIWXlWWnpjMDZacHNZSndRUWJlY0FPVi1XZjVzYVRqNURpdU5acWpuYmMyMW9pWEJPUy1VNkNKbktmWHlOMWZveW1SVXE0STFzeWZKNkQ2Y1VNZFhSTlJCaFE?oc=5",
+      "publishedAt": "2026-10-28T00:57:25Z",
+      "officialSource": false
+    },
+    {
+      "id": "fa65dc0a0ef00cb132d9",
+      "section": "football",
+      "title": "'Biggest night in club's history' for fearless Fleetwood",
+      "excerpt": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:39:30Z",
+      "officialSource": false
+    },
+    {
+      "id": "7bbe875a3a9ee71ebf02",
+      "section": "football",
+      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+      "excerpt": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:34:31Z",
+      "officialSource": false
+    },
+    {
+      "id": "1bf49dba07e1fb4f3226",
+      "section": "immigration",
+      "title": "New Zealand Announces 4 Major Student Visa Changes - Bloom Pakistan",
+      "excerpt": "New Zealand Announces 4 Major Student Visa Changes Bloom Pakistan",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Njd2SUo0cEVxQjZmMi1QXzBCU0lhU05YRHJZRUljbXgwY0lDQ0M1RkpGTnNXX1lFNllDek9IVkMzdEl3YnR6Q2lQTmc0VVVEVXdhbEtEMjNETjF6OFlxdzA1Rlcyc1dQUEtPY1g2MXNFZw?oc=5",
+      "publishedAt": "2026-10-28T00:07:34Z",
+      "officialSource": false
+    },
+    {
+      "id": "7461ce67b25291d40b30",
+      "section": "india",
+      "title": "India and China were easing tensions - then a border official spoke out",
+      "excerpt": "India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:06:27Z",
+      "officialSource": false
+    },
+    {
+      "id": "2c43e290abc0f3c1dd86",
+      "section": "technology",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "excerpt": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:01:10Z",
+      "officialSource": false
+    },
+    {
+      "id": "c99d753c198f71b8be03",
+      "section": "cricket",
+      "title": "Bangladesh v West Indies - first Test scorecard",
+      "excerpt": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "97d901cb58b1d1cf659c",
+      "section": "football",
+      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+      "excerpt": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T23:54:14Z",
+      "officialSource": false
+    },
+    {
+      "id": "88f6ceec762f8679c458",
+      "section": "football",
+      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+      "excerpt": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T23:35:11Z",
+      "officialSource": false
+    },
+    {
+      "id": "c56458dd612a89c1fddd",
+      "section": "technology",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "excerpt": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "publishedAt": "2026-10-27T22:37:30Z",
+      "officialSource": false
+    },
+    {
+      "id": "6a119660be7e9aada83e",
+      "section": "football",
+      "title": "Blackpool beat Villa and Vale thrash Man City in Trophy",
+      "excerpt": "Blackpool beat Aston Villa and Port Vale put five past Manchester City's youngsters, plus Tuesday's EFL Trophy round-up.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly0zyd15jqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T22:31:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "8c13645a5495df2dbe0b",
+      "section": "technology",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "excerpt": "International travel used to be the main risk of measles cases in the US—not anymore.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "publishedAt": "2026-10-27T22:22:32Z",
+      "officialSource": false
+    },
+    {
+      "id": "f1415d1a806a666bf0eb",
+      "section": "world",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "excerpt": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T22:11:08Z",
+      "officialSource": false
+    },
+    {
+      "id": "ca4603f34f23831e3ca7",
+      "section": "technology",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "excerpt": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "publishedAt": "2026-10-27T22:04:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "f45c7980de26dbce15c0",
+      "section": "technology",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "excerpt": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "publishedAt": "2026-10-27T21:50:04Z",
+      "officialSource": false
+    },
+    {
       "id": "f536de488a90eea8fbb1",
       "section": "us",
       "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
@@ -21,6 +241,16 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T21:46:43Z",
+      "officialSource": false
+    },
+    {
+      "id": "72aaea2db690212fb140",
+      "section": "immigration",
+      "title": "Australia's appeal to international students plunges over six months as visa rules bite - SBS",
+      "excerpt": "Australia's appeal to international students plunges over six months as visa rules bite SBS",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdm51cHMzaWxkMmhKREVDOGlvZ25KYnhYVG1CVExGU3Rndm5PdlBYRktZU09IT1JjME9lZUNJMlUwSkZNNWkzOUotUXZFUEFzY2VSWDBxdGgwamhXcU5hODc0RzZ2cjh5N0MtTUh6UFlhRlh3QXl6STVUOFRzM0NVYXAyVGk4TmtCUi1WQ2hvc0h6Uy0yRUpJVGV6RXRyQ3A1bzgxejEzc294Zm5GWEVBZw?oc=5",
+      "publishedAt": "2026-10-27T21:46:19Z",
       "officialSource": false
     },
     {
@@ -44,13 +274,13 @@
       "officialSource": false
     },
     {
-      "id": "1e7097c9e10846ac4fb7",
-      "section": "us",
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-      "excerpt": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T21:12:39Z",
+      "id": "8b2d32a128d5af0502cf",
+      "section": "technology",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "excerpt": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "publishedAt": "2026-10-27T21:31:14Z",
       "officialSource": false
     },
     {
@@ -104,6 +334,16 @@
       "officialSource": false
     },
     {
+      "id": "2f49a9ed1eb90354feaa",
+      "section": "world",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "excerpt": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T20:42:38Z",
+      "officialSource": false
+    },
+    {
       "id": "8346efbd8e2d19c7b5e7",
       "section": "technology",
       "title": "Tech Life",
@@ -124,33 +364,13 @@
       "officialSource": false
     },
     {
-      "id": "97d901cb58b1d1cf659c",
-      "section": "football",
-      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-      "excerpt": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T20:26:31Z",
-      "officialSource": false
-    },
-    {
       "id": "041404daf6ce6d0bf281",
       "section": "technology",
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "excerpt": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "publishedAt": "2026-10-27T20:25:55Z",
-      "officialSource": false
-    },
-    {
-      "id": "f1415d1a806a666bf0eb",
-      "section": "world",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "excerpt": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T20:19:53Z",
       "officialSource": false
     },
     {
@@ -164,16 +384,6 @@
       "officialSource": false
     },
     {
-      "id": "8b4d9dcd99286ab058a4",
-      "section": "us",
-      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-      "excerpt": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T20:02:01Z",
-      "officialSource": false
-    },
-    {
       "id": "ee3fda65133b84cc688c",
       "section": "us",
       "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
@@ -181,6 +391,16 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T19:56:02Z",
+      "officialSource": false
+    },
+    {
+      "id": "375a930d57a4d5076ab7",
+      "section": "immigration",
+      "title": "New Zealand Introduces Four Changes to Student Visa Rules - TechJuice",
+      "excerpt": "New Zealand Introduces Four Changes to Student Visa Rules TechJuice",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0NqTVNBalRJNVJJajdFSWlNZmQ4MGZnclBtTlNlMXBkOTRIV2pJTDZyN1VTUm91d3hJWEphMkdUYXlzSXk5MWRsdDZxRE9GaFZNNl9DUmxibzRJMTJzWDEtTTV5ejVCMm1fcFFfdzRxX3doaTZvZXVwd2JKc3ZwX3ZsNXhnT0ZrN2JV?oc=5",
+      "publishedAt": "2026-10-27T19:47:27Z",
       "officialSource": false
     },
     {
@@ -211,16 +431,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c64g17jqy5ddo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T19:20:13Z",
-      "officialSource": false
-    },
-    {
-      "id": "1bf49dba07e1fb4f3226",
-      "section": "immigration",
-      "title": "New Zealand Announces 4 Major Student Visa Changes - Bloom Pakistan",
-      "excerpt": "New Zealand Announces 4 Major Student Visa Changes Bloom Pakistan",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Njd2SUo0cEVxQjZmMi1QXzBCU0lhU05YRHJZRUljbXgwY0lDQ0M1RkpGTnNXX1lFNllDek9IVkMzdEl3YnR6Q2lQTmc0VVVEVXdhbEtEMjNETjF6OFlxdzA1Rlcyc1dQUEtPY1g2MXNFZw?oc=5",
-      "publishedAt": "2026-10-27T19:18:45Z",
       "officialSource": false
     },
     {
@@ -324,26 +534,6 @@
       "officialSource": false
     },
     {
-      "id": "dc0ec1b2fcafdede340a",
-      "section": "football",
-      "title": "Wenger's 'daylight' offside trial unlikely to be extended",
-      "excerpt": "Arsene Wenger's \"daylight\" offside trial is unlikely to be extended after receiving a lack of support at the Ifab assessment panels.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:21:26Z",
-      "officialSource": false
-    },
-    {
-      "id": "72f1675e60fe8caca181",
-      "section": "football",
-      "title": "Where are Celtic & O'Neill a year after Rodgers exit?",
-      "excerpt": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:15:11Z",
-      "officialSource": false
-    },
-    {
       "id": "e0e9a7569737b5d8975e",
       "section": "world",
       "title": "Watch: The Mbappé-Chairman Mao controversy explained",
@@ -371,36 +561,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T17:10:04Z",
-      "officialSource": false
-    },
-    {
-      "id": "2c5c2a35afa6220cf802",
-      "section": "football",
-      "title": "Captain Xhaka allowed to play for Switzerland again",
-      "excerpt": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:00:58Z",
-      "officialSource": false
-    },
-    {
-      "id": "730a0da935ded376408e",
-      "section": "football",
-      "title": "When is the EFL Cup quarter-final draw?",
-      "excerpt": "The quarter-final draw of the EFL Cup takes place on Wednesday, 28 October.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T16:55:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "950125d61247e8b84168",
-      "section": "football",
-      "title": "Milan derby to be shown live on BBC Two",
-      "excerpt": "The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T16:38:17Z",
       "officialSource": false
     },
     {
@@ -434,16 +594,6 @@
       "officialSource": false
     },
     {
-      "id": "5fb7508ef46583473fd1",
-      "section": "technology",
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "excerpt": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "publishedAt": "2026-10-27T16:00:22Z",
-      "officialSource": false
-    },
-    {
       "id": "506b16207279b4b18536",
       "section": "cricket",
       "title": "Ireland fall behind in series after Namibia defeat",
@@ -451,26 +601,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T15:58:01Z",
-      "officialSource": false
-    },
-    {
-      "id": "f659714cff086c9edd95",
-      "section": "immigration",
-      "title": "Understanding proposed changes to Optional Practical Training (OPT) - American Physical Society",
-      "excerpt": "Understanding proposed changes to Optional Practical Training (OPT) American Physical Society",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFFka01DZDJKaGJZbVg4QUxSWFFfaXMxTm1Na2ZQY0gydTN1Nzg2dFpEcF9qb19qMGpNOXB1dUx0NDk0dFNiWWtIWXlWWnpjMDZacHNZSndRUWJlY0FPVi1XZjVzYVRqNURpdU5acWpuYmMyMW9pWEJPUy1VNkNKbktmWHlOMWZveW1SVXE0STFzeWZKNkQ2Y1VNZFhSTlJCaFE?oc=5",
-      "publishedAt": "2026-10-27T15:51:41Z",
-      "officialSource": false
-    },
-    {
-      "id": "8f31e731770ca5c5bdfe",
-      "section": "technology",
-      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "excerpt": "Huge price hikes force loyal users to reconsider their favorite apps.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-      "publishedAt": "2026-10-27T15:50:19Z",
       "officialSource": false
     },
     {
@@ -504,26 +634,6 @@
       "officialSource": false
     },
     {
-      "id": "49f9b59bf81b15866d9c",
-      "section": "world",
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "excerpt": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T14:29:39Z",
-      "officialSource": false
-    },
-    {
-      "id": "010584282f7d22aee303",
-      "section": "technology",
-      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "excerpt": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-      "publishedAt": "2026-10-27T14:20:26Z",
-      "officialSource": false
-    },
-    {
       "id": "30227be21c4c305a58cc",
       "section": "cricket",
       "title": "Essex wicketkeeper Bell feared career was over",
@@ -544,123 +654,13 @@
       "officialSource": false
     },
     {
-      "id": "f5a5fbb929536e61cb30",
-      "section": "technology",
-      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-      "excerpt": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "publishedAt": "2026-10-27T14:00:49Z",
-      "officialSource": false
-    },
-    {
       "id": "ee0e40b62fc6e8583b72",
       "section": "us",
-      "title": "Trump vs Obama - which president has the star power to get out the vote?",
-      "excerpt": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "title": "Trump v Obama - which president has the star power to get out the vote?",
+      "excerpt": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T13:59:22Z",
-      "officialSource": false
-    },
-    {
-      "id": "93fdd589ac724c1f3ed0",
-      "section": "immigration",
-      "title": "High Court overturns decision to deny Gazan student visa - RTE.ie",
-      "excerpt": "High Court overturns decision to deny Gazan student visa RTE.ie",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XRVdkb0pad0ZWaHE2TXZ0N3hfdU1hWU1lWTlaRE5ueXRNQWRQbkNhenNrcUMtdHhYbW9vbmdpTkloV0hQaURrcXc4Z2hnbE1fWlBSbUloTkxPa2wxN1g5a2ctanJiRlFLWU56cDVRRF9Velc1bVMtWXU5Tms0UQ?oc=5",
-      "publishedAt": "2026-10-27T13:51:02Z",
-      "officialSource": false
-    },
-    {
-      "id": "375a930d57a4d5076ab7",
-      "section": "immigration",
-      "title": "New Zealand Introduces Four Changes to Student Visa Rules - TechJuice",
-      "excerpt": "New Zealand Introduces Four Changes to Student Visa Rules TechJuice",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0NqTVNBalRJNVJJajdFSWlNZmQ4MGZnclBtTlNlMXBkOTRIV2pJTDZyN1VTUm91d3hJWEphMkdUYXlzSXk5MWRsdDZxRE9GaFZNNl9DUmxibzRJMTJzWDEtTTV5ejVCMm1fcFFfdzRxX3doaTZvZXVwd2JKc3ZwX3ZsNXhnT0ZrN2JV?oc=5",
-      "publishedAt": "2026-10-27T13:47:27Z",
-      "officialSource": false
-    },
-    {
-      "id": "394a6978fc806c2ecf1f",
-      "section": "technology",
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "excerpt": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "publishedAt": "2026-10-27T13:32:35Z",
-      "officialSource": false
-    },
-    {
-      "id": "4fc5953b2bfdb1bd13e7",
-      "section": "world",
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "excerpt": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T13:25:54Z",
-      "officialSource": false
-    },
-    {
-      "id": "5a64346a893a1a98da5a",
-      "section": "technology",
-      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-      "excerpt": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-      "publishedAt": "2026-10-27T13:22:16Z",
-      "officialSource": false
-    },
-    {
-      "id": "400c0f44d9e5d0e05939",
-      "section": "cricket",
-      "title": "England out of tri-series after Sri Lanka beat Pakistan",
-      "excerpt": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T13:01:11Z",
-      "officialSource": false
-    },
-    {
-      "id": "1dd98bf7d577d793c5c3",
-      "section": "immigration",
-      "title": "New OECD data underlines growing competition for graduate-level international students - ICEF Monitor",
-      "excerpt": "New OECD data underlines growing competition for graduate-level international students ICEF Monitor",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkRhLXVJdWVIRVdFV3h0b0dwaEVEVktPWUFuaVpjQkhpOFRCcUQyZ2lTRXlJTVpNVWRjc3VRbUdRRDZOMnc4WXhmeFhrUk85MnF1VFRrS2VDbU40TDU1OEdnNXBZdzd4ODVqSkdGb21jbnpWTDRCUFNOWlBsYmFsRk9WZUJSazlNVDMxTGw4dWthSnZUUTBiMzdLeHFtREMwWG9Uek9vYkJGVTM3TzJYbjdJc0tZOVBXNkdGVA?oc=5",
-      "publishedAt": "2026-10-27T12:57:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "ebba78c93a5136c6c3e4",
-      "section": "immigration",
-      "title": "New Zealand Introduces 4 Changes to Student Visa Rules - ProPakistani",
-      "excerpt": "New Zealand Introduces 4 Changes to Student Visa Rules ProPakistani",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkJNdWpsaVpsbTRsY3JzbENBUGVRdjExSTQ2Y0lLeTNLWG0wYnhIWTEta0VGM3hudmtlb3NDMHROdThBdExHanp6bDEtR0RjV0YwR3FTenhOMU1fMXZBdXFvLVE4QXBZdzBfSDlUZkhCNy1fUGRVVi0wdWF5OGxYVElQTXpuS0JGbTc1eFNkUTVpQzRs0gGaAUFVX3lxTE1vZkhkUEphT1RzYnlTakpKTC15ZkFhTkQ1SkZDOUJidUl1cDJSMnNoNnRYcUxnSEJNRUh5dVk3bEgtV25Xa19Nb00tc0dwTFZ1aWplbUNCeTBWZXlCWi1nQmMzM0I1UFl4ZUNmOFAxZ1F6OTJ4aWVuVlBJdzRlZmJ3aFlXZTl0MTZVc0dXNXVQb1VXRnZycHgzd0E?oc=5",
-      "publishedAt": "2026-10-27T12:47:49Z",
-      "officialSource": false
-    },
-    {
-      "id": "019232e22400663c70c2",
-      "section": "cricket",
-      "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
-      "excerpt": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T11:26:17Z",
-      "officialSource": false
-    },
-    {
-      "id": "ce36f5af847f2b1a2246",
-      "section": "us",
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "excerpt": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T09:37:55Z",
       "officialSource": false
     }
   ]
