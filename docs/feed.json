@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T17:43:07.911361Z",
+  "updatedAt": "2026-11-01T07:31:49.804198Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -14,43 +14,333 @@
   ],
   "articles": [
     {
-      "id": "3d9984cfbe6e6cec5633",
-      "section": "football",
-      "title": "'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row",
-      "excerpt": "Real Madrid head coach Jose Mourinho says the \"best thing is to keep your mouth shut\" but backs Kylian Mbappe following reaction to his Mao Zedong remark.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T17:40:41Z",
+      "id": "f845da07825410f4870f",
+      "section": "world",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "excerpt": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T07:05:50Z",
       "officialSource": false
     },
     {
-      "id": "0589523826a9411e4a62",
-      "section": "football",
-      "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
-      "excerpt": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T17:27:06Z",
+      "id": "9fdd859de5445198a141",
+      "section": "india",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "excerpt": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T07:00:55Z",
       "officialSource": false
     },
     {
-      "id": "c1a8c61e834b4e237670",
+      "id": "7c3c51845ece9f68c04e",
       "section": "football",
-      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
-      "excerpt": "Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.",
+      "title": "Who am I? Guess WSL star No 10",
+      "excerpt": "Work out the identity of today's player in as few attempts as possible.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T16:34:42Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgyqrw90nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T06:56:19Z",
+      "officialSource": false
+    },
+    {
+      "id": "1a822e21fc72682ce51b",
+      "section": "football",
+      "title": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T06:54:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "0b39731b0a4e0853b341",
+      "section": "cricket",
+      "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
+      "excerpt": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T06:29:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "c71dce269c2d8a0108f3",
+      "section": "world",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "excerpt": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T06:03:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "dee8666c86012a0c6541",
+      "section": "world",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "excerpt": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T05:26:02Z",
+      "officialSource": false
+    },
+    {
+      "id": "c76aaf89933308c0aeac",
+      "section": "immigration",
+      "title": "Rising student visa fees are making international student exchange programs in Australia more difficult. - Vietnam.vn",
+      "excerpt": "Rising student visa fees are making international student exchange programs in Australia more difficult. Vietnam.vn",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzhiM3pqNGVyOEZpQ0ZaeGJhWjByT3NaVXhmbUJ5NHNRQ2Z6QVFrX2h2clRYRVFNSEhJTUJrcWsxbUtjdENzYWw3V0J1d2d3QUtwdlVtSEdURl9iWnlIZ3pkYXJxdXpYSWlSMGU5cnR4a1FkcE1EcnhLZG5OY3BBR2ZwSVhiTTNQV2NsSG1vUGZFZUk4YmFZVXNSV1VveU1mQlNsY3d2cVdGVW5MNW9Zaw?oc=5",
+      "publishedAt": "2026-11-01T04:01:37Z",
+      "officialSource": false
+    },
+    {
+      "id": "2cbe7b3f46c23a848c20",
+      "section": "f1",
+      "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+      "excerpt": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T01:37:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "de7377484e8d562198bd",
+      "section": "world",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "excerpt": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T01:37:26Z",
+      "officialSource": false
+    },
+    {
+      "id": "3d0b2fff5c42fbabf1c9",
+      "section": "immigration",
+      "title": "Lewis Hamilton Takes First Ferrari F1 Pole in Mexico City - Autoweek",
+      "excerpt": "Lewis Hamilton Takes First Ferrari F1 Pole in Mexico City Autoweek",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY0FTaUZPcXh3dG5kczJRRnB1OU9MeUhjNG9aX1JjRUp4X0xHMkwzT3IzUzdzN04tOFJqTV8tWVZZcDJjX3h5eW5WUGZBY2Nral82UjQ1dm9teVZDaGNmcXBkUFRIdVJkd2xTX0U1QjdjQUlETk14UmVoOXBwOGJyZ2RaUmFpMkFlcTN5Q0ZjSjN2dHpTNEd3OUNEeGcteVRhZ000OFdoR0g?oc=5",
+      "publishedAt": "2026-11-01T01:20:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "fea61251420c3db95997",
+      "section": "world",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "excerpt": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:55:06Z",
+      "officialSource": false
+    },
+    {
+      "id": "e015812667bd44acecc9",
+      "section": "us",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "excerpt": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:46:12Z",
+      "officialSource": false
+    },
+    {
+      "id": "e76c56fc7c5f8fe63a68",
+      "section": "f1",
+      "title": "On 'tense' Antonelli's big weekend, this was Hamilton's day",
+      "excerpt": "As Kimi Antonelli bids to become F1's youngest world champion, veteran Lewis Hamilton rolled back the years to take his first Ferrari pole.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:35:28Z",
+      "officialSource": false
+    },
+    {
+      "id": "cfa7458e9d0030fa4873",
+      "section": "cricket",
+      "title": "New Zealand v India - fifth T20 scorecard",
+      "excerpt": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "f7b2fcd5dd6fbebaca28",
+      "section": "cricket",
+      "title": "Namibia v Ireland - fifth ODI scorecard",
+      "excerpt": "Latest scorecard from the fifth and final one-day international between Namibia and Ireland in Windhoek.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244988?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "b7361e4d65da98b435df",
+      "section": "cricket",
+      "title": "Sydney Thunder v Brisbane Heat - WBBL scorecard",
+      "excerpt": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Brisbane Heat at Sydney's Drummoyne Oval.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "c99da5e58435de056173",
+      "section": "football",
+      "title": "How 'brave & balanced' Brighton beat Man City",
+      "excerpt": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the Seagulls squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:59:24Z",
+      "officialSource": false
+    },
+    {
+      "id": "abec77f280f54d30e380",
+      "section": "football",
+      "title": "Has Martinez become a liability for Man Utd?",
+      "excerpt": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:59:22Z",
+      "officialSource": false
+    },
+    {
+      "id": "db97503d2fb0884caccf",
+      "section": "football",
+      "title": "Are Manchester United really at risk of a relegation scrap?",
+      "excerpt": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:52:28Z",
+      "officialSource": false
+    },
+    {
+      "id": "332cc8d65db501769070",
+      "section": "f1",
+      "title": "Ocon denies reports of physical altercation behind dropping",
+      "excerpt": "Esteban Ocon denies reports that his being dropped by Haas at the Mexico City Grand Prix was a consequence of a row with team principal Ayao Komatsu descending into a physical confrontation.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n04vjjpkv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:43:41Z",
+      "officialSource": false
+    },
+    {
+      "id": "5ad00211a201c4dfae6a",
+      "section": "f1",
+      "title": "How to follow Mexico City Grand Prix on the BBC",
+      "excerpt": "All the key BBC coverage details for the Mexico City Grand Prix, which takes place from 30 October to 1 November.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyrgejp0w8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:23:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "9b76873c38d28cea878d",
+      "section": "football",
+      "title": "Coventry, Ipswich, Hull - promoted trio enjoy positive starts",
+      "excerpt": "The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:08:07Z",
+      "officialSource": false
+    },
+    {
+      "id": "2242e01731c6e881b891",
+      "section": "world",
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "excerpt": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:06:13Z",
+      "officialSource": false
+    },
+    {
+      "id": "21a58409499af22853d5",
+      "section": "football",
+      "title": "Kane misses Bayern penalty before late Dortmund goal earns draw",
+      "excerpt": "Harry Kane misses from the spot as Bayern Muich are held to a 2-2 draw with Borussia Dortmund in Der Klassiker after Fabio Silva's late equaliser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:05:55Z",
+      "officialSource": false
+    },
+    {
+      "id": "bc8c41b3d492a5bdc31c",
+      "section": "football",
+      "title": "McInnes demands more after delivering Rangers' trophy chance",
+      "excerpt": "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c83vqypr511po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T22:40:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "e737a5db370b87eac0eb",
+      "section": "football",
+      "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+      "excerpt": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T22:30:16Z",
+      "officialSource": false
+    },
+    {
+      "id": "88d8434236133cc52eb2",
+      "section": "football",
+      "title": "Brighton pick up first away league victory over Man City",
+      "excerpt": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T22:30:05Z",
+      "officialSource": false
+    },
+    {
+      "id": "16515e4b23ef146840bb",
+      "section": "football",
+      "title": "Coventry out of bottom three with win over struggling Sunderland",
+      "excerpt": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T22:29:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "b6eeda5ec1fb6a9d5aa9",
+      "section": "football",
+      "title": "Enciso's stunning goal earns Ipswich draw at Hull",
+      "excerpt": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the MKM Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T22:29:40Z",
       "officialSource": false
     },
     {
       "id": "1620a9d27876be6cf1b2",
       "section": "world",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "excerpt": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "excerpt": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T16:32:08Z",
+      "publishedAt": "2026-10-31T22:11:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "c1e60918b29464db3610",
+      "section": "world",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "excerpt": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T21:29:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "2eb9ed0951b88425f1ea",
+      "section": "world",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "excerpt": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T19:22:26Z",
       "officialSource": false
     },
     {
@@ -60,27 +350,17 @@
       "excerpt": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T15:50:41Z",
+      "publishedAt": "2026-10-31T17:53:35Z",
       "officialSource": false
     },
     {
-      "id": "1298633faa0b790c77bc",
-      "section": "football",
-      "title": "Kane beat Mbappe to Ballon d'Or by just 28 points",
-      "excerpt": "Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T15:21:24Z",
-      "officialSource": false
-    },
-    {
-      "id": "5723df6090d25716080d",
-      "section": "football",
-      "title": "Alonso praises Estevao response to lack of gametime",
-      "excerpt": "Chelsea manager Xabi Alonso praises the performance and response of winger Estevao in his side's 2-0 win over struggling Manchester United in the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynzdpjnn9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T15:20:53Z",
+      "id": "eda8479e11ea57b72402",
+      "section": "world",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "excerpt": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T16:55:47Z",
       "officialSource": false
     },
     {
@@ -91,16 +371,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T15:16:20Z",
-      "officialSource": false
-    },
-    {
-      "id": "4c5f4c977890198ddcb1",
-      "section": "football",
-      "title": "Carrick bemoans Man Utd defending in Chelsea loss",
-      "excerpt": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T15:13:43Z",
       "officialSource": false
     },
     {
@@ -124,26 +394,6 @@
       "officialSource": false
     },
     {
-      "id": "98015a62a0967e38b14c",
-      "section": "football",
-      "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-      "excerpt": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T14:35:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "f1e04e3b7f91dcbe3d34",
-      "section": "world",
-      "title": "Ethiopian PM puts ministers through military training",
-      "excerpt": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T14:28:15Z",
-      "officialSource": false
-    },
-    {
       "id": "62e42cc08e4d499e2802",
       "section": "immigration",
       "title": "F1-Arvid Lindblad-Liam Lawson-2026-Mexico City Grand Prix-FP2 - Auto Action",
@@ -154,16 +404,6 @@
       "officialSource": false
     },
     {
-      "id": "8d07cf00aaf015f01885",
-      "section": "football",
-      "title": "Carragher apologises to Villa for 'wrong' language",
-      "excerpt": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T13:51:00Z",
-      "officialSource": false
-    },
-    {
       "id": "89137f91c61cf5bdfddf",
       "section": "cricket",
       "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
@@ -171,16 +411,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T13:23:15Z",
-      "officialSource": false
-    },
-    {
-      "id": "1d5ea41d792e7b0cde1c",
-      "section": "world",
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "excerpt": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T12:50:45Z",
       "officialSource": false
     },
     {
@@ -201,16 +431,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T12:21:25Z",
-      "officialSource": false
-    },
-    {
-      "id": "52548295c95f545bfd25",
-      "section": "football",
-      "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
-      "excerpt": "BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T11:18:53Z",
       "officialSource": false
     },
     {
@@ -251,16 +471,6 @@
       "source": "Google News (aggregator)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFFka01DZDJKaGJZbVg4QUxSWFFfaXMxTm1Na2ZQY0gydTN1Nzg2dFpEcF9qb19qMGpNOXB1dUx0NDk0dFNiWWtIWXlWWnpjMDZacHNZSndRUWJlY0FPVi1XZjVzYVRqNURpdU5acWpuYmMyMW9pWEJPUy1VNkNKbktmWHlOMWZveW1SVXE0STFzeWZKNkQ2Y1VNZFhSTlJCaFE?oc=5",
       "publishedAt": "2026-10-31T09:51:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "db48d32b350343ac89e7",
-      "section": "football",
-      "title": "Stewart caught in Swansea rules limbo - gossip",
-      "excerpt": "Ross Stewart's lack of game time with Swansea City is explained as Rangers reportedly want Lyall Cameron in their first-team squad after his season with Dundee United.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g17m1dzjdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T09:24:21Z",
       "officialSource": false
     },
     {
@@ -314,36 +524,6 @@
       "officialSource": false
     },
     {
-      "id": "6d2ea33b02a1e5a28455",
-      "section": "football",
-      "title": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T06:54:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "f0cf589e4e31ab961377",
-      "section": "football",
-      "title": "AC Milan v Inter and the tale of an iconic image",
-      "excerpt": "AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T06:44:38Z",
-      "officialSource": false
-    },
-    {
-      "id": "0783a78dc33abe0d4e99",
-      "section": "world",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "excerpt": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T05:44:21Z",
-      "officialSource": false
-    },
-    {
       "id": "065295d092560f631d3f",
       "section": "immigration",
       "title": "UK Student Visa Rules To Change: Indians Must Show Up To Rs 18 Lakh For Living Expenses - NDTV Profit",
@@ -364,26 +544,6 @@
       "officialSource": false
     },
     {
-      "id": "a1195745e9d3bf55f028",
-      "section": "world",
-      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "excerpt": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T04:32:07Z",
-      "officialSource": false
-    },
-    {
-      "id": "d3c27123df0f16db0585",
-      "section": "immigration",
-      "title": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization - INDIA New England News",
-      "excerpt": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization INDIA New England News",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2FRblNZYVZhbXhWOTBBcW1icW9BNVV4ZTFpdDJvRzZpcDlFbVJ3dTVTSzBCQzRpS2N0MXptLUNtNlVlNWJsd2xpVVNHVjFJazJ5dl9CUnNpbWZVd0htUnVZUFJQZVRVaWxnN3hqNFJjTjZtd2M0czJDam1kUXdIV202VV9PbzkweU8tX3d1SlJfMFJxMjdiSmVkVGJuTzUwOUhPSDE5NjU3emZHNXVHT0JvYjBHRGNKMi1QNQ?oc=5",
-      "publishedAt": "2026-10-31T03:29:58Z",
-      "officialSource": false
-    },
-    {
       "id": "e4611143e2833579cd69",
       "section": "f1",
       "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
@@ -391,16 +551,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T03:18:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "32d687043fcef117a83e",
-      "section": "immigration",
-      "title": "F1 Mexico Grand Prix: Full Friday practice results - Crash.net",
-      "excerpt": "F1 Mexico Grand Prix: Full Friday practice results Crash.net",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlI3M1JBemFyWFg4TnUyMktWYmM3blh6bGxWX2MxOXU0cko0cFljd0gweThWc1huaDVMYkQzQkM2emhHbHNWbml6SFRrY0p2NENCM3VlWmNvWWNITF92Z0huS2ZCQzY0aS0xcWl1SDE3R3lFVjFzNGtwNGNTekF1S09YUldKd2Q2YjdRQ3BhV2ZYVm1ZRmNV?oc=5",
-      "publishedAt": "2026-10-31T02:45:49Z",
       "officialSource": false
     },
     {
@@ -415,7 +565,7 @@
     },
     {
       "id": "d13e42607d018e9c885a",
-      "section": "world",
+      "section": "technology",
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
       "excerpt": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
       "source": "BBC News",
@@ -431,46 +581,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T02:02:16Z",
-      "officialSource": false
-    },
-    {
-      "id": "4456aecfa6ef096c3b33",
-      "section": "world",
-      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "excerpt": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:32:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "b0b7c3efd75243fd6b1e",
-      "section": "world",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "excerpt": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:27:05Z",
-      "officialSource": false
-    },
-    {
-      "id": "a1794eefe13088e146ee",
-      "section": "world",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "excerpt": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:11:43Z",
-      "officialSource": false
-    },
-    {
-      "id": "e015812667bd44acecc9",
-      "section": "us",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "excerpt": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T00:29:58Z",
       "officialSource": false
     },
     {
@@ -524,16 +634,6 @@
       "officialSource": false
     },
     {
-      "id": "3999dc5cd2275f3d6c93",
-      "section": "world",
-      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-      "excerpt": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T23:26:16Z",
-      "officialSource": false
-    },
-    {
       "id": "5b6d8305857a270fc259",
       "section": "us",
       "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
@@ -561,106 +661,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
       "publishedAt": "2026-10-30T22:21:05Z",
-      "officialSource": false
-    },
-    {
-      "id": "1bd41cf39892ab87bb2c",
-      "section": "us",
-      "title": "Manhunt under way after Toronto CEO and family violently attacked in home invasion",
-      "excerpt": "The real estate mogul and his two daughters were shot, while his wife was assaulted with a hammer, in an attack that has shocked the city.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ewepng9ky5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T22:13:46Z",
-      "officialSource": false
-    },
-    {
-      "id": "03f161c6332a2077b435",
-      "section": "us",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "excerpt": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T22:11:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "0e01c469a202efbe19b2",
-      "section": "technology",
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "excerpt": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "publishedAt": "2026-10-30T21:41:54Z",
-      "officialSource": false
-    },
-    {
-      "id": "2af7125a123051cddcb1",
-      "section": "us",
-      "title": "Soaring cost of Halloween treats spooks shoppers",
-      "excerpt": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T21:34:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "3fb4687f4fd0b9d11645",
-      "section": "us",
-      "title": "Judge investigating whether Trump administration lied about golf course renovations",
-      "excerpt": "A judge grilled Trump lawyers about what they knew of plans to close the golf course next month and said .",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmj6jpn8px28o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T21:19:23Z",
-      "officialSource": false
-    },
-    {
-      "id": "b0d9b518e1b4ff65758e",
-      "section": "technology",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "excerpt": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "publishedAt": "2026-10-30T21:09:54Z",
-      "officialSource": false
-    },
-    {
-      "id": "71902cabc13f295e80cd",
-      "section": "technology",
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "excerpt": "People who love AI don't always love telling others they used it.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "publishedAt": "2026-10-30T20:40:13Z",
-      "officialSource": false
-    },
-    {
-      "id": "0de680b82ffb0bb69267",
-      "section": "us",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "excerpt": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T20:34:46Z",
-      "officialSource": false
-    },
-    {
-      "id": "9870c2b745f434586729",
-      "section": "technology",
-      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-      "excerpt": "Faked symptoms still point to infections that antibiotics don't treat.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-      "publishedAt": "2026-10-30T20:17:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "1692dbfc7287ca8b688d",
-      "section": "technology",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "excerpt": "But it's still early days for the relatively new e-commerce use case.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "publishedAt": "2026-10-30T19:30:52Z",
       "officialSource": false
     }
   ]
