@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T20:50:07.026617Z",
+  "updatedAt": "2026-11-05T09:29:23.438292Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -14,6 +14,426 @@
   ],
   "articles": [
     {
+      "id": "e0d76b8e43b043e67bf0",
+      "section": "india",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "excerpt": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T09:04:42Z",
+      "officialSource": false
+    },
+    {
+      "id": "543bbe669f0d23f8400b",
+      "section": "football",
+      "title": "England captain Kane signs new Bayern contract",
+      "excerpt": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T08:39:18Z",
+      "officialSource": false
+    },
+    {
+      "id": "ba30223fa9747aa4c1f8",
+      "section": "football",
+      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+      "excerpt": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T08:24:46Z",
+      "officialSource": false
+    },
+    {
+      "id": "b1a7a3701a9805643774",
+      "section": "world",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "excerpt": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T08:07:22Z",
+      "officialSource": false
+    },
+    {
+      "id": "bedc08f29df4ccbf0de8",
+      "section": "immigration",
+      "title": "USC must provide more career support to international students - Daily Trojan",
+      "excerpt": "USC must provide more career support to international students Daily Trojan",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSngxZ1o2VU5WUVF2emFqLUJrQWd1bHpzV0NxeDdIcERMbUdBa1VSTDhXbHNPS2tWdjcySndOSUhMSFp1LXNGcWllQ09DN2NoLXl2cjZSWndTczY1ZU00X1M0MzJmMnN5MndIR3lvVHp2Q2hBUktDdUNuOTRhX3ozUEZ5SjFsZFpZWVVMVWJnOEwtRmg1TlNsWnU3S2tSX2M?oc=5",
+      "publishedAt": "2026-11-05T08:04:53Z",
+      "officialSource": false
+    },
+    {
+      "id": "85390fe14eb5fda2e540",
+      "section": "football",
+      "title": "Podcast: Celtic under pressure & injury-hit Hearts head for Europe",
+      "excerpt": "Can Celtic stop their European slide and can injury-hit Hearts deliver in Switzerland?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pld9qb?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "f7bd3441dbd937db5fc0",
+      "section": "f1",
+      "title": "Former F1 champion Jones dies aged 80",
+      "excerpt": "Alan Jones, the last Australian and first Williams driver to win the Formula 1 world title, dies at the age of 80.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T07:57:44Z",
+      "officialSource": false
+    },
+    {
+      "id": "eb424bb46e56f189ad39",
+      "section": "world",
+      "title": "Italian chef fired after refusing to put pineapple on pizza",
+      "excerpt": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T07:56:53Z",
+      "officialSource": false
+    },
+    {
+      "id": "c0a67c92bb548a10902a",
+      "section": "football",
+      "title": "Ferguson harbours Rangers ambition - gossip",
+      "excerpt": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T07:27:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "87fe8a9d5f15a31d780c",
+      "section": "football",
+      "title": "World record 53 red cards shown in Brazilian youth game",
+      "excerpt": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T07:23:08Z",
+      "officialSource": false
+    },
+    {
+      "id": "28e74aaf1f650761f43a",
+      "section": "football",
+      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+      "excerpt": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T07:17:20Z",
+      "officialSource": false
+    },
+    {
+      "id": "a3461091f5f572a7e947",
+      "section": "immigration",
+      "title": "Indian students in US: Will Democrats challenge Trump’s proposed OPT fees and visa policies after midterm win? - WION",
+      "excerpt": "Indian students in US: Will Democrats challenge Trump’s proposed OPT fees and visa policies after midterm win? WION",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMEVGUVdJRFlsX29wU3k4dk15UDk1TnRqbkVrMWhCeWNJZXJsbS1ZR3BBaVBSMEktWENfdXRnZ3RhR19nelptRU9semhoeWhfeGxLcHZabHNxM3FnY3B1N0hodzJ3c0RfS21ETjNLekxad0UwRS00eHBwUlVGWUdRb01kbGg2aWplc0NZZnI4YmxsVHhsZHRuMzFCSEJXc0toNjRKZktsNG9jSk02aXRaWDFhajNaYXZwUnpEVGJCb09ITnk2TFJaVmYta2FRLXByLTN4Z08wb0FNWFdwWmgxbWU4clhMOFnSAewBQVVfeXFMTW9Od2YtWjF6V0RROFZTUjZobUJ0UnRYYWZubkZlQ2xSVGFYa2drRjhBbVBmU2piRzYxY001dGs5RVFUYjJsQW9XbHVVOGZVN01fQXV0ZHJ2V2lidXk3a3p3VjlWUTJuSk1lVjJlZjFEaC1NU3NuLWRYek5wS2VzbjROeWlaMmdoejd6ZmRGYmVXVjhocHNReWNkeDc1Ym5mVzZlcGRrMmNhZFdWMmgwd0E2ZGh5c3c1MVFxVWVsWTFYM1Y0QzZXUXNldV9lQVpWMDhqRm1KemVJRVdyRmcyZTBfSFM5QXhVZzkxRC0?oc=5",
+      "publishedAt": "2026-11-05T07:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "a9f9219f1376e4cbff13",
+      "section": "football",
+      "title": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T06:30:52Z",
+      "officialSource": false
+    },
+    {
+      "id": "9247cd097a48bd12d113",
+      "section": "football",
+      "title": "Meet the people set for key role in deciding Man City fate",
+      "excerpt": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T06:26:11Z",
+      "officialSource": false
+    },
+    {
+      "id": "8069ec729be7e6b33894",
+      "section": "us",
+      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+      "excerpt": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T06:01:05Z",
+      "officialSource": false
+    },
+    {
+      "id": "e6b199bf98c839793348",
+      "section": "us",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "excerpt": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T03:47:56Z",
+      "officialSource": false
+    },
+    {
+      "id": "e0ed817161a936a83402",
+      "section": "immigration",
+      "title": "Beyond H-1B: Why EB-5 is shaping long-term plans for Indian students and families - Education Times",
+      "excerpt": "Beyond H-1B: Why EB-5 is shaping long-term plans for Indian students and families Education Times",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdEZjTUxrbkhlTzlTa0ZhTmVTQUw3azBSN0tHMWlMVDRlbFpUUENlU3FUNnZlUC1xRFBDMWl2dE5hcmZlZlZHNE1HT3NxVTJvM0JtMVRyYkdXVkZlUG9jS3RZNGRTVHpJSFEtTElERC03UXJpWjc1bGFBd2N5SmZLbUthT1NidGJGNWJrbjNTMEN4TUhkQ2ppbkhwT1hUbm9PS09qQU9ERjhnSnkzQk9Dbi03dnZRTnhyUlJ1WF9ucTRFdjlTOWlReFo3OFVvRGxFRjhqYUFSUnBfQQ?oc=5",
+      "publishedAt": "2026-11-05T03:30:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "f0adda0821b828198eda",
+      "section": "world",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "excerpt": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T02:09:23Z",
+      "officialSource": false
+    },
+    {
+      "id": "a6902e63f4e7ad794a24",
+      "section": "us",
+      "title": "When to expect Senate results from the tight race in Mississippi",
+      "excerpt": "The BBC's Carl Nasman is in the state, where thousands of provisional ballots are still being counted.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6j9kx8j1x2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T01:21:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "c39ff71ee21f361d1df8",
+      "section": "us",
+      "title": "Democrat leads by dozens of votes in surprisingly tight Mississippi Senate race",
+      "excerpt": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rwxlx992o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T00:51:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "286902db8c81b0d46bfb",
+      "section": "immigration",
+      "title": "UK student visa regulation ‘needs greater coherence’ - Times Higher Education",
+      "excerpt": "UK student visa regulation ‘needs greater coherence’ Times Higher Education",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDdtbktYZGFQWjZ0Q0VIRlNzTC1xQUtRYkhEVHM2U2lWN1dPYVd6QTVhQWpTd1dZZWRnb0p4cXg4WnhjeExFX1pLdFBPeS13OGl4dUVmVlAweS0tOGFQaTY4QzhNSGp4YlBwT1lmN1lBX0Mtc25fTzBfME5sSWdtQ2VVR19fQXZuZnVHX2F0a2YwRFFSOUVJ?oc=5",
+      "publishedAt": "2026-11-05T00:12:33Z",
+      "officialSource": false
+    },
+    {
+      "id": "df8b9f9f7667258b7a57",
+      "section": "us",
+      "title": "Five reasons why Republicans lost so badly",
+      "excerpt": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T00:07:19Z",
+      "officialSource": false
+    },
+    {
+      "id": "4f8deceb9ccaad3f51d4",
+      "section": "cricket",
+      "title": "Bangladesh v West Indies - second Test scorecard",
+      "excerpt": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "cc3a346ca0eee308f300",
+      "section": "cricket",
+      "title": "Afghanistan v Zimbabwe - first Test scorecard",
+      "excerpt": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "76af2d14bcfc06065677",
+      "section": "cricket",
+      "title": "Knott century helps Heat beat Strikers - WBBL scorecard",
+      "excerpt": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "a169aa09b8956fedfd42",
+      "section": "us",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "excerpt": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T23:50:40Z",
+      "officialSource": false
+    },
+    {
+      "id": "71920b896744e17e1df5",
+      "section": "football",
+      "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+      "excerpt": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T23:18:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "63b80da325130f73a469",
+      "section": "world",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "excerpt": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T23:12:47Z",
+      "officialSource": false
+    },
+    {
+      "id": "3b8a6fe3199786adf400",
+      "section": "us",
+      "title": "With Congress flipped, what does Trump do next?",
+      "excerpt": "The BBC's Nada Tawfik breaks down what the president could do now after losing both chambers of Congress in the midterm elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwkg5xmlpj4jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:50:15Z",
+      "officialSource": false
+    },
+    {
+      "id": "16e3880f90bf900006e7",
+      "section": "world",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "excerpt": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:48:43Z",
+      "officialSource": false
+    },
+    {
+      "id": "7d01c5c4ee294cff992a",
+      "section": "technology",
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "excerpt": "And what that could mean for physical Switch game costs.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "publishedAt": "2026-11-04T22:47:51Z",
+      "officialSource": false
+    },
+    {
+      "id": "35ed3aed2f25c943c07f",
+      "section": "football",
+      "title": "Como score nine to make Champions League history",
+      "excerpt": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:45:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "df288263c981b4141ec6",
+      "section": "us",
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "excerpt": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:34:08Z",
+      "officialSource": false
+    },
+    {
+      "id": "152076763b1a3c9121ea",
+      "section": "football",
+      "title": "Dortmund take narrow win over Real Betis",
+      "excerpt": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:31:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "cea25fc8180f8064dbaa",
+      "section": "technology",
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "excerpt": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "publishedAt": "2026-11-04T22:26:49Z",
+      "officialSource": false
+    },
+    {
+      "id": "e571d7d09cccbd0697b5",
+      "section": "football",
+      "title": "Emphatic Porto thrash Napoli in second-half romp",
+      "excerpt": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:17:34Z",
+      "officialSource": false
+    },
+    {
+      "id": "8c075669aa62ac2fc7b3",
+      "section": "us",
+      "title": "Could Democrats in Congress end the war in Iran?",
+      "excerpt": "The BBC's Asma Khalid looks at how the two chambers of the US Congress could put an end to the months-long conflict, which began in February.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:14:41Z",
+      "officialSource": false
+    },
+    {
+      "id": "4797f2b4d7a4ccf59b52",
+      "section": "technology",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "excerpt": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "publishedAt": "2026-11-04T21:56:29Z",
+      "officialSource": false
+    },
+    {
+      "id": "5420898fdc120aaad0ca",
+      "section": "us",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "excerpt": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T21:41:15Z",
+      "officialSource": false
+    },
+    {
+      "id": "3a44cd769451fbe44a14",
+      "section": "technology",
+      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+      "excerpt": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+      "publishedAt": "2026-11-04T21:38:49Z",
+      "officialSource": false
+    },
+    {
+      "id": "a8da02734f0a78ddd200",
+      "section": "technology",
+      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+      "excerpt": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+      "publishedAt": "2026-11-04T21:29:46Z",
+      "officialSource": false
+    },
+    {
+      "id": "f3b52b53bfb0f560bf01",
+      "section": "technology",
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "excerpt": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "publishedAt": "2026-11-04T20:55:50Z",
+      "officialSource": false
+    },
+    {
       "id": "c77f6b6450bd345c1c93",
       "section": "immigration",
       "title": "WR Immigration Proposed $100,000 OPT Fee: What Students & Employers Need to Know - WR Immigration",
@@ -24,53 +444,43 @@
       "officialSource": false
     },
     {
-      "id": "16e3880f90bf900006e7",
-      "section": "world",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "excerpt": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T20:22:40Z",
+      "id": "326a856a9314040a7447",
+      "section": "technology",
+      "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+      "excerpt": "\"Data centers in space looking pretty appealing right now.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+      "publishedAt": "2026-11-04T20:36:05Z",
       "officialSource": false
     },
     {
-      "id": "6d124a940663be11fbe1",
+      "id": "1f63f862760f36a22bec",
       "section": "us",
-      "title": "Democrats 'got their wish': Voters react to midterm results",
-      "excerpt": "People in the US react after the Democrats won the Senate and the House, taking control of Congress for the rest of Donald Trump's presidency.",
+      "title": "Anthony Zurcher: Midterm carnage weakens Trump but he still wields power for now",
+      "excerpt": "Trump has given conflicting messages about how he might deal with Democrats in Congress after his party's resounding defeat.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqe8le668e13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T19:01:37Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdg093e589o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T20:35:07Z",
       "officialSource": false
     },
     {
-      "id": "728ae6faa571be98a5dd",
-      "section": "football",
-      "title": "Hearts lose Miller for two months as injuries mount",
-      "excerpt": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T19:00:49Z",
-      "officialSource": false
-    },
-    {
-      "id": "d5e37e13c761f3cb5c9a",
-      "section": "football",
-      "title": "An island in mourning: Tenerife processes death of De Miguel",
-      "excerpt": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T18:51:21Z",
-      "officialSource": false
-    },
-    {
-      "id": "7b67ecc7c35a1f003d4c",
+      "id": "0fd51f2a1107b6bf3822",
       "section": "us",
-      "title": "Trump's loss limits powers at home, but it will likely be different abroad",
-      "excerpt": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+      "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
+      "excerpt": "The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T18:35:07Z",
+      "url": "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T20:21:14Z",
+      "officialSource": false
+    },
+    {
+      "id": "86a508081fb52ca5c565",
+      "section": "technology",
+      "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+      "excerpt": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+      "publishedAt": "2026-11-04T19:08:23Z",
       "officialSource": false
     },
     {
@@ -84,19 +494,9 @@
       "officialSource": false
     },
     {
-      "id": "5d000570d3259a7547ad",
-      "section": "us",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "excerpt": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T18:01:31Z",
-      "officialSource": false
-    },
-    {
       "id": "56b9ffa8fd550eb4bd92",
-      "section": "us",
-      "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
+      "section": "world",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
       "excerpt": "Democrats can vote legislation through. But Trump still has veto power.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
@@ -111,46 +511,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
       "publishedAt": "2026-11-04T18:00:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "794cfcf50361dd6f8b6f",
-      "section": "football",
-      "title": "How landmark Everton compensation prevented Burnley record loss",
-      "excerpt": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T17:48:19Z",
-      "officialSource": false
-    },
-    {
-      "id": "5c6b5fff5d92513210e4",
-      "section": "football",
-      "title": "Ex-Burnley striker Rodriguez announces retirement",
-      "excerpt": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T17:28:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "b59271554ab23d42debb",
-      "section": "us",
-      "title": "The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas",
-      "excerpt": "Adam Hamilton, a pastor, has made history as the first Kansas Democrat to win the Senate in almost 100 years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx29rxkld84o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T17:21:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "8ec5434da269bce3be4f",
-      "section": "football",
-      "title": "Hearts record £2.4m loss in Bloom's first year",
-      "excerpt": "Heart of Midlothian record a loss of £2.4m for the year ending 30 June, despite a turnover of more than £23m the first 12 months of Brighton owner Tony Bloom's involvement.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T17:00:49Z",
       "officialSource": false
     },
     {
@@ -174,18 +534,8 @@
       "officialSource": false
     },
     {
-      "id": "66cca9fab90e526f3754",
-      "section": "football",
-      "title": "Rangers' McInnes eager for Penrice deal",
-      "excerpt": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T16:38:41Z",
-      "officialSource": false
-    },
-    {
       "id": "2b8c441fd0c398affd9d",
-      "section": "us",
+      "section": "world",
       "title": "The young politicians with African roots making history in the US midterms",
       "excerpt": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
       "source": "BBC News",
@@ -224,26 +574,6 @@
       "officialSource": false
     },
     {
-      "id": "7de1dc0a2ffbb13cf87e",
-      "section": "football",
-      "title": "72+: The EFL Podcast",
-      "excerpt": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pl9kk6?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T16:15:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "42f4350de0d451be5f48",
-      "section": "football",
-      "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-      "excerpt": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T16:12:46Z",
-      "officialSource": false
-    },
-    {
       "id": "ef01caaeb6037033e4cd",
       "section": "technology",
       "title": "Binance says hackers who stole billions in crypto spent months planning heist",
@@ -254,16 +584,6 @@
       "officialSource": false
     },
     {
-      "id": "025712afe984408df997",
-      "section": "football",
-      "title": "What are rules on loan players in Champions League?",
-      "excerpt": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T16:02:08Z",
-      "officialSource": false
-    },
-    {
       "id": "feef7a1755cac3b1ffba",
       "section": "immigration",
       "title": "How to Oppose DHS’s Proposal to Eliminate the 60-Day Grace Period (Free Comment Template Included) - Reddy Neumann Brown PC",
@@ -271,16 +591,6 @@
       "source": "Google News (aggregator)",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE5WZ3N6UG95RUNNbDZhbVJ3WnphajJyRHpSbVZyendEUEVkVWZMWUJfLW1acTN3TGxXaTJEVmN6dXl5TDFKUFF6VmduaTlMYlA4eS1xc2lsam51aEZqaVVpTHhqdG82MUNFdGtJLU5UODhHc3VNRjhDcVgyMDYtZ1ZpRThHeG5MM0Y5VG5kSXdkRXhPajVVdjUya0NDeGpKd2tyc09Ma3MzR0ZEV3FFRVk1eWxoUi0wNWlBWDgtQzM?oc=5",
       "publishedAt": "2026-11-04T15:53:46Z",
-      "officialSource": false
-    },
-    {
-      "id": "5420898fdc120aaad0ca",
-      "section": "us",
-      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-      "excerpt": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T15:51:37Z",
       "officialSource": false
     },
     {
@@ -304,16 +614,6 @@
       "officialSource": false
     },
     {
-      "id": "548d28627d434aa58eb9",
-      "section": "us",
-      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-      "excerpt": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T15:18:03Z",
-      "officialSource": false
-    },
-    {
       "id": "0b20e1c9a9ccaca97de7",
       "section": "technology",
       "title": "The DEA banned a drug some opioid users called a miracle",
@@ -321,16 +621,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
       "publishedAt": "2026-11-04T15:08:48Z",
-      "officialSource": false
-    },
-    {
-      "id": "6cc3608ac7305487586d",
-      "section": "us",
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "excerpt": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T15:01:10Z",
       "officialSource": false
     },
     {
@@ -344,116 +634,6 @@
       "officialSource": false
     },
     {
-      "id": "644d6479773719fbb617",
-      "section": "us",
-      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "excerpt": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T14:17:58Z",
-      "officialSource": false
-    },
-    {
-      "id": "3a0038a1a515bce70b89",
-      "section": "us",
-      "title": "Everything you need to know from the US midterm elections",
-      "excerpt": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T14:05:42Z",
-      "officialSource": false
-    },
-    {
-      "id": "7eb1efdc2101c6265f61",
-      "section": "us",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "excerpt": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:33:30Z",
-      "officialSource": false
-    },
-    {
-      "id": "1e593827d5e101c4b857",
-      "section": "world",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "excerpt": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:21:01Z",
-      "officialSource": false
-    },
-    {
-      "id": "d1a157383a21ee2f74c1",
-      "section": "world",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "excerpt": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T12:34:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "774a085031117017ab5d",
-      "section": "football",
-      "title": "West Ham confirm Parker as boss",
-      "excerpt": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:54:59Z",
-      "officialSource": false
-    },
-    {
-      "id": "623799a72473b3b13c12",
-      "section": "football",
-      "title": "Real Madrid reach verbal agreement to sign Gabriel",
-      "excerpt": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:49:23Z",
-      "officialSource": false
-    },
-    {
-      "id": "a2cf7e49d93e50080bb0",
-      "section": "world",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "excerpt": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:47:44Z",
-      "officialSource": false
-    },
-    {
-      "id": "cc6e34e4745db08d51ca",
-      "section": "world",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "excerpt": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:46:09Z",
-      "officialSource": false
-    },
-    {
-      "id": "cb8539e4e2f075f4886a",
-      "section": "football",
-      "title": "Wilson returns as Wales call up uncapped Duncan",
-      "excerpt": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T10:30:19Z",
-      "officialSource": false
-    },
-    {
-      "id": "faf2b866811252b85d0f",
-      "section": "world",
-      "title": "How America voted in maps and charts",
-      "excerpt": "See the maps and charts that show how America voted in the US midterm elections.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T09:53:18Z",
-      "officialSource": false
-    },
-    {
       "id": "d3b8c1137b086f65f18e",
       "section": "immigration",
       "title": "How was Q Manivannan able to be elected on a student visa? - The Spectator",
@@ -461,16 +641,6 @@
       "source": "Google News (aggregator)",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDdTWUdOM25yUWdUcGJjcjg3RGctVXdjZGdsOGlxOUg2ZExDdXYycV8ySUZfVW4xSGxIX1RyVkVPS0l2QmpxTTJLajI3S3g2WmZRN0J6a2RreU1aQktmOUUtaF8yMmNPcjdJa2xOX1l5UW5GbTRUemlSSm1KcEhZZG82UFhWM2Ftd2ZFMlU0b1Bpdw?oc=5",
       "publishedAt": "2026-11-04T08:55:15Z",
-      "officialSource": false
-    },
-    {
-      "id": "e86fdac192337a272f9e",
-      "section": "world",
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "excerpt": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T08:05:53Z",
       "officialSource": false
     },
     {
@@ -491,176 +661,6 @@
       "source": "Google News (aggregator)",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNy1MS2RQbHE2cmdBdWw4a2E1SngyOG9pX1NJaGYyOU82bXBFQ0t5SjdhLXVza3BhOEp0TUhxTFN6cWFPQ0lxeHdmRm9vM0w0RG5UTU1CMi1OVHJfMzIyQUdyOHQwMWdWV2RUYVRwQVhrVUtTcHhvTXRqNUh6YmExeEtXVDdFa0NNeGZoZHdiU2VDaEdFdF90WVZQeUhGdVo0alpsVEo4VFBJVk95RnBhSGJ6RmI1cE9aeG5PYUtwb0swUzhJb2FQYWhlSk5qbTNkYmdVU1hLRHY?oc=5",
       "publishedAt": "2026-11-04T06:39:30Z",
-      "officialSource": false
-    },
-    {
-      "id": "99f7e6cd33352dd58180",
-      "section": "f1",
-      "title": "More than the Score",
-      "excerpt": "The 20-year-old Italian is the youngest F1 world champion ever",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct9tp9?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T06:01:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "9ae08521ba35eefa8fce",
-      "section": "immigration",
-      "title": "US election results: What do Indian immigrants want amid green card delays, H-1B hurdles and political fati... - Firstpost",
-      "excerpt": "US election results: What do Indian immigrants want amid green card delays, H-1B hurdles and political fati... Firstpost",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWk1Vdno1aXZqUnlPNHhwc2lNcHBuZkFtSlR6NUdxNUNNU1hLTk9CbVpxelRFUW1NUW1LdTdoU2JORDBWZE9fVkpfWlpseGtrUEVjelFwd2lDY3ZpTGtGSUt1WnhHckthUXYyZWRKRDRKWFBtN1hfMXVSV2VLZm5WNVpSdkJHbmFjbjI0eEN3TEhNSGJqYlkteTVWU0JtY0pSUzVDYlZnMl9wdjhWVTBqa0Q3ZjNXVXJEZHJwaTQ1WDF1LTd0UDlnVEtR0gHPAUFVX3lxTE01a1U4bFRIeEJ5Sm12N1A3XzhBa1ZYQlE1WFFRdFFuU29fZmQzN0kxNmlCRHYyMkZEbENjZlhUR0h2Q0l5RjVfeUNCT1BJbGw4b3JvbmtzWUx3X2loSmVHZU1FclJKRXhtZmM3LXo1RzFHYy1aQ1NYWTRENVBBS28zY3BfZElzX21zMFVfTU9fOGhCc2JEWDBvQy1lbFVtN1hkV0ZaaWZPU2FIMENPcnpWSF9MajBoa3RXdnV4bldkeUFUZFJqS0FOeUE1cWlKUQ?oc=5",
-      "publishedAt": "2026-11-04T00:57:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "d2baafe45188d3a106b4",
-      "section": "immigration",
-      "title": "Gillian Murray: student visa refusals hit differently in Bradford - Times Higher Education",
-      "excerpt": "Gillian Murray: student visa refusals hit differently in Bradford Times Higher Education",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2FXc1BRR0hNckhRd29tb3dPRXhyQTRCbWRnX1VCa2FlTlRtRGJvcXNmbm5CdkJpLWlHT29qWjlXU3o4ZTVZeFVzaTBRV3dzVldKSDYzNW8zTElnQkYzZmZ5N2w2eDQ3ZXBFR0lnOVZNVHZMUm01dERoYmJFcUlGSGZNQkJUVDBsMl9Uc2dzNW45cDBQUjU5czg4OTVZNkRJLWF2bzN3?oc=5",
-      "publishedAt": "2026-11-04T00:06:02Z",
-      "officialSource": false
-    },
-    {
-      "id": "4f07d3c53b716ad9d069",
-      "section": "technology",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "excerpt": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:04:35Z",
-      "officialSource": false
-    },
-    {
-      "id": "bacf91c3107aa0b62901",
-      "section": "cricket",
-      "title": "Kohli leads India to victory over NZ - first ODI scorecard",
-      "excerpt": "Latest scorecard from the first one-day international between New Zealand and India in Auckland.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242113?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "3c60875f45dab0191780",
-      "section": "cricket",
-      "title": "Renegades beat Hurricanes by four wickets - WBBL scorecard",
-      "excerpt": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Melbourne Renegades in Hobart.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242423?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "15f9bc36763793777033",
-      "section": "immigration",
-      "title": "Destination Las Vegas: An F1 fan’s guide - Formula 1",
-      "excerpt": "Destination Las Vegas: An F1 fan’s guide Formula 1",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN09RSTAxVXFzZjlJVUdzaFdMNm9DUVhqVVV3OEhrZEZfengzOFJOdzVZandtU3lyUDh3UXlYaEN5c3pCZF94N2lQTnpHbjRYS2RhWkxUZmJGelRRd2NZbDhkSUgteWRScTRyS29GNmpRb2dGbnN1R0JoZlZWSkNNM3ZrM1p3T0lrZV9mTkFtcU1VV2ZtNUdzeDgxb2ZsVXR1TnBneFNR?oc=5",
-      "publishedAt": "2026-11-03T23:11:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "fd06ec21e8cb403e1d3b",
-      "section": "technology",
-      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-      "excerpt": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-      "publishedAt": "2026-11-03T22:39:37Z",
-      "officialSource": false
-    },
-    {
-      "id": "064106fb83b9ed00be15",
-      "section": "immigration",
-      "title": "Inside Audi’s Luxe First United States Grand Prix Weekend With F1 Academy Driver Emma Felbermayr - Cosmopolitan",
-      "excerpt": "Inside Audi’s Luxe First United States Grand Prix Weekend With F1 Academy Driver Emma Felbermayr Cosmopolitan",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZWNwM2kyNWNIQmNfYlAwN212c0oxUmZ0T2lhRGQ4Q0VxLW4wQXJXci03d09GRDBHOGVvc2hJT3RkSW16UmdCOWtBdG1fYkg5Y0VtTVJRaDdYM1d6YTFHV3JKSGhENnQweG12ZHhWd2RCUHdIVVZZeDhHUVBlTGFlMXlhYl9PNktxTGoyWHVWNHZSejBrREhQakF2UEVBbmthNkVINGFrU096dTJrWVBreURJeUZ3aGhWdEZjNFlEdw?oc=5",
-      "publishedAt": "2026-11-03T22:04:46Z",
-      "officialSource": false
-    },
-    {
-      "id": "a8f19226cdaabecba148",
-      "section": "f1",
-      "title": "Ocon dropped by Haas for rest of season after row",
-      "excerpt": "F1 team Haas says Estaban Ocon will \"no longer compete on its behalf in the 2026 world championship\" after he was dropped for the Mexico Grand Prix.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T21:15:53Z",
-      "officialSource": false
-    },
-    {
-      "id": "c172670df3bbada115fa",
-      "section": "technology",
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "excerpt": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "publishedAt": "2026-11-03T20:39:55Z",
-      "officialSource": false
-    },
-    {
-      "id": "974b9860edd3eb70b66f",
-      "section": "technology",
-      "title": "Tech Life",
-      "excerpt": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T20:30:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "7d2d3d4a9477c4075939",
-      "section": "technology",
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "excerpt": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "publishedAt": "2026-11-03T18:30:27Z",
-      "officialSource": false
-    },
-    {
-      "id": "0b1cafab2c4b3e3a650e",
-      "section": "immigration",
-      "title": "Tommy Hilfiger x Cadillac F1 Las Vegas Capsule - Modern Luxury",
-      "excerpt": "Tommy Hilfiger x Cadillac F1 Las Vegas Capsule Modern Luxury",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTg4NnFjU3VXVnpZT0p6MXQzYWU4YWRkU2dsRnpONWdhY182SVNDSzlBaWZ3M2F4cldIck5oUVI5RzYzalZlekZNLWowZ2g0S05ubGQ1bl9vd1g1MGc4akNHYTRHLXFzd09taW1LeUZqTERfM3FVU3NIc004YUpmbzJ3?oc=5",
-      "publishedAt": "2026-11-03T18:26:38Z",
-      "officialSource": false
-    },
-    {
-      "id": "de7d8e81fb600dfd1205",
-      "section": "immigration",
-      "title": "F1 Visa Plummets: Is It End of Indian Student Travel To USA? - Tupaki English",
-      "excerpt": "F1 Visa Plummets: Is It End of Indian Student Travel To USA? Tupaki English",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUF9YYUVleWIyZEkyNFptcWFRZGY4SU93RkYxSFp5d3VPWXgtaEZrRzU1Q2tjQzdVWEZHeWJrdloxYnBCNVJqcVZ6a0ZiaGZ1WVVsYW1xOVozSE5LZTRCWkdBZEx5TVN3b2RTT2VEbTNBV2FZTm5NOWJxbjFpU2Y0U0Y5b2lSeWJlYkx30gGQAUFVX3lxTE5vV1pzNlNGWWJyYm5aNjkzcXI2cTlCZUgtSVQ5X2xHd0pmVmNhSEFGWHVCcENzX2hQd3JZLUpoaWM4eGxKMGRmcThnZnhjUW5zMGVFaHM2aWZpNmktdTBVLXFqV1FCMFdHbzRtNS1TaHhSWWV1NmZKVjU5VVRMeWVSZHYyRHJCTlQ2cjRtLTZySw?oc=5",
-      "publishedAt": "2026-11-03T18:25:41Z",
-      "officialSource": false
-    },
-    {
-      "id": "56749c9c140f3f54d150",
-      "section": "technology",
-      "title": "Buttons are back and storage is king when it comes to car interiors",
-      "excerpt": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-      "publishedAt": "2026-11-03T18:19:31Z",
-      "officialSource": false
-    },
-    {
-      "id": "51e379588263dab124a9",
-      "section": "immigration",
-      "title": "Student Visa Holders Help Steal Over $10,000,000 From Elderly Americans With Fake Pop-Ups and Phony Federal Agents - The Daily Hodl",
-      "excerpt": "Student Visa Holders Help Steal Over $10,000,000 From Elderly Americans With Fake Pop-Ups and Phony Federal Agents The Daily Hodl",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY2tSMTctZGdEb3VwRUpSV1pFZ3dsWm03WEYxbEdWVHJxVmRZXy1URDNidVZXaUItSW9sRE5iUjY3UUZWdE1GZFhhQjQtcWpoeThHN1NqN2laRXlpekxreUFfeFNRMFo5eFJmc2k4UE1ZQ0F0MjFTeXB4OS1paTBBRURscTVyQ29fLUlOeW5YVWRVNWtzUkp4b2ZfUEJ6dWRPZUk3cW9HX3llYkt2MDhsZVJTRF95QldyRTlPMGJVTlc5Mk9xOG5rVEtUYUhESk9Yam50OGFmNnlwY0I4NnfSAeMBQVVfeXFMTUUzNTFUX0N0LTRGMjlCbHl2UnJDMjZZQi1pdk9QcGhOdXJrcExFSWllOG02Wml3OEt3MDJYelNMN1FLTDEyekVFLUxQNXdkMk5fcTctakNVbW5uempPRVVOeUVIZzJIRS0zZ3JSaGc5UHdhZFZsS1N5UzBSTmk4WHBiM3dISVZZTldfUC1WVnJ0LUV6RWd2eGMwUmtCZkpJRkQtZGdJNzJKMS1kQ0NvMVJBUF96MEluNlZEaGxBbkNRMUNSN0d2UHhJYzZlTWVRS2l2Q0V2TkJUelZrNmJZQXFuSG8?oc=5",
-      "publishedAt": "2026-11-03T17:59:49Z",
       "officialSource": false
     }
   ]
