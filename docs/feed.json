@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T09:23:40.746417Z",
+  "updatedAt": "2026-11-06T20:27:15.232557Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -13,6 +13,566 @@
     "f1"
   ],
   "articles": [
+    {
+      "id": "7a63c446a1eb6a167cc2",
+      "section": "us",
+      "title": "Trump names Stephen Miller as new White House chief of staff",
+      "excerpt": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T20:11:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "b23f34a374963fa336cf",
+      "section": "f1",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "excerpt": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T20:07:58Z",
+      "officialSource": false
+    },
+    {
+      "id": "1044966a560bc0a216da",
+      "section": "football",
+      "title": "Football Daily",
+      "excerpt": "John, Ian and Ali tell us what makes a good radio football summariser",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T19:52:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "072e6e262c7d3bc53a5f",
+      "section": "immigration",
+      "title": "'I don't know what else they want' Lawson says amid F1 uncertainty - 1News",
+      "excerpt": "'I don't know what else they want' Lawson says amid F1 uncertainty 1News",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSE1xVDZ6VEM5a1JnU05lNkJ6RUE1bnNzSUNSWE5RRU5yMll5MHVLQmFKa1k2cF9uQ2gyekhCQzZ4ZTU3Unh4Y083RHZGTXNjYTlNRkdjakZrQjNVeE1xaFlCTWpNSy15dzNfQ1NfZE9BV05jMTJoOTgxOVM0R3hlaDFaaUJQR3pzdzRJa1hMX1RUM0I0Tnk1eW5LdDlCQnkw?oc=5",
+      "publishedAt": "2026-11-06T19:39:27Z",
+      "officialSource": false
+    },
+    {
+      "id": "de0c28c9953fb6e77af4",
+      "section": "us",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "excerpt": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T19:37:10Z",
+      "officialSource": false
+    },
+    {
+      "id": "13b847b0ad69ca369be9",
+      "section": "cricket",
+      "title": "Anderson on potentially playing in 2027",
+      "excerpt": "News on Jimmy’s future (sort of)",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T18:38:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "01856f52ceb43a68949e",
+      "section": "us",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "excerpt": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T18:32:16Z",
+      "officialSource": false
+    },
+    {
+      "id": "7e8114761040ce5e4022",
+      "section": "technology",
+      "title": "The folks behind John Wick are back with Karōshi trailer",
+      "excerpt": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+      "publishedAt": "2026-11-06T18:30:19Z",
+      "officialSource": false
+    },
+    {
+      "id": "3b0242b5254bb47130b0",
+      "section": "us",
+      "title": "Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta",
+      "excerpt": "The newest residents of Zoo Atlanta are on loan from China as part of a six-year agreement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwm244x9dzy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T18:27:21Z",
+      "officialSource": false
+    },
+    {
+      "id": "84a88c7c4fe909538b60",
+      "section": "technology",
+      "title": "You know the launch market is tough when satellite companies start building rockets",
+      "excerpt": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+      "publishedAt": "2026-11-06T18:20:47Z",
+      "officialSource": false
+    },
+    {
+      "id": "76f72b5a66ac12246d4c",
+      "section": "us",
+      "title": "These are the federal charges Thomas Markle faces",
+      "excerpt": "The BBC's Ione Wells explains the charges facing the estranged father of Meghan, Duchess of Sussex.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/crje5515kv0xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T18:13:52Z",
+      "officialSource": false
+    },
+    {
+      "id": "562d9908327b6d6fb5d6",
+      "section": "technology",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "excerpt": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "publishedAt": "2026-11-06T17:43:02Z",
+      "officialSource": false
+    },
+    {
+      "id": "1298ab911e646bae166b",
+      "section": "world",
+      "title": "Nigerian court rules opposition candidate cannot stand in elections",
+      "excerpt": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T17:35:55Z",
+      "officialSource": false
+    },
+    {
+      "id": "2e0a667468a2e01ee4cb",
+      "section": "immigration",
+      "title": "USCIS confirms it: The form that lets you change immigration status and stay longer in the US - El Cronista",
+      "excerpt": "USCIS confirms it: The form that lets you change immigration status and stay longer in the US El Cronista",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1BRUnRueFJzdTkxQlJfemZJRUtEMGswbGNlQTFfY1Q5R3NMSG9IdElzY0xWcGlxdXo4M0x5dWdpVEJJV3ZzNmpaTVd5ODh3Z3oxb243Vl9JWVp2Q3praEVxQlFGVDJvVi1Jd05mb3pRNkRXVERJUVJSUm1IaHM0N3dCWV93a05RMUZRUVk2bTZ1ZUtGYjJHQnFnN3FBLUxLYXlybnBOVmZyMTB2T1VUVC0taDJOR0ZPOHlhQU1SSGJKTTJGMzlnMm1NakJQQQ?oc=5",
+      "publishedAt": "2026-11-06T17:22:33Z",
+      "officialSource": false
+    },
+    {
+      "id": "ac91f8bd6c4b4df861dc",
+      "section": "technology",
+      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+      "excerpt": "Next week, experts will determine if the US has lost its measles elimination status.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+      "publishedAt": "2026-11-06T17:06:32Z",
+      "officialSource": false
+    },
+    {
+      "id": "392621ddc0fab9582af9",
+      "section": "us",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "excerpt": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:51:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "bcfbfe05aee1c55eca07",
+      "section": "football",
+      "title": "James out for minimum of five games - Bompastor",
+      "excerpt": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:44:44Z",
+      "officialSource": false
+    },
+    {
+      "id": "41efcacf871c34f44700",
+      "section": "football",
+      "title": "Is Palmer's England career over under Tuchel?",
+      "excerpt": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:30:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "9e40c95d4da9e2b44ee7",
+      "section": "technology",
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "excerpt": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "publishedAt": "2026-11-06T16:19:12Z",
+      "officialSource": false
+    },
+    {
+      "id": "9345adcc936c06fed1bd",
+      "section": "us",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "excerpt": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:12:22Z",
+      "officialSource": false
+    },
+    {
+      "id": "ddd933581276a67e86f2",
+      "section": "football",
+      "title": "Euro Leagues",
+      "excerpt": "HJK assistant coach Erkka Lehtola ahead of a fascinating final weekend in Finland.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0plhlmm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "faf2b866811252b85d0f",
+      "section": "us",
+      "title": "How America voted in maps and charts",
+      "excerpt": "See the maps and charts that show how America voted in the US midterm elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:54:14Z",
+      "officialSource": false
+    },
+    {
+      "id": "d739f075b94203e2fd08",
+      "section": "immigration",
+      "title": "Newsletter: 3 days left to weigh in on OPT - NumbersUSA",
+      "excerpt": "Newsletter: 3 days left to weigh in on OPT NumbersUSA",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Hd2U5OVN1cDlnR2JGZ3dmTEQ5NnI0aURVYjE4NXd6LVJvSXdBazMwZ0h0SF9pWWRta2pMdmhiRVZzckEtdU1JeURYaE1EcTBOVW5PcTJZeHJaT3RKZEE?oc=5",
+      "publishedAt": "2026-11-06T15:37:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "bf1e47684d2f391cd784",
+      "section": "world",
+      "title": "Two dead after bus crashes in France, officials say",
+      "excerpt": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:33:52Z",
+      "officialSource": false
+    },
+    {
+      "id": "e9ffef40d8bab277939b",
+      "section": "us",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "excerpt": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:30:42Z",
+      "officialSource": false
+    },
+    {
+      "id": "e52dda216870c0abcb5d",
+      "section": "technology",
+      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
+      "excerpt": "It has the best laptop screen we've used, but there may be reasons to wait.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
+      "publishedAt": "2026-11-06T15:28:07Z",
+      "officialSource": false
+    },
+    {
+      "id": "55e7c02a81d113ed89ea",
+      "section": "world",
+      "title": "New wave of bomb threats hit European airlines",
+      "excerpt": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:25:35Z",
+      "officialSource": false
+    },
+    {
+      "id": "4723cea38d48f9c64767",
+      "section": "football",
+      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+      "excerpt": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:21:40Z",
+      "officialSource": false
+    },
+    {
+      "id": "8af314bb7a85de8c6d4b",
+      "section": "us",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "excerpt": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T15:02:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "6628f0dec7a2589ddadd",
+      "section": "world",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "excerpt": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:57:08Z",
+      "officialSource": false
+    },
+    {
+      "id": "efbeca1e8e750597e96f",
+      "section": "world",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "excerpt": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:46:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "fc58d323c2e9454fdeeb",
+      "section": "football",
+      "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
+      "excerpt": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:25:41Z",
+      "officialSource": false
+    },
+    {
+      "id": "2092de1b832cd979d75a",
+      "section": "football",
+      "title": "'A beautiful story' as Bellingham brothers called up",
+      "excerpt": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:16:34Z",
+      "officialSource": false
+    },
+    {
+      "id": "f5592dfe1d51ce2eb1b2",
+      "section": "cricket",
+      "title": "Northamptonshire all-rounder Kimber extends deal",
+      "excerpt": "Northamptonshire all-rounder Louis Kimber signs a contract extension that will keep him with the county until the end of the 2028 season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:16:18Z",
+      "officialSource": false
+    },
+    {
+      "id": "400f973a2207ac851aa0",
+      "section": "technology",
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "excerpt": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "publishedAt": "2026-11-06T14:13:32Z",
+      "officialSource": false
+    },
+    {
+      "id": "dd9d18e32273bc9261b1",
+      "section": "cricket",
+      "title": "Ireland name uncapped duo for T20 tournament",
+      "excerpt": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:12:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "fc0390390e0fbcd674ac",
+      "section": "football",
+      "title": "Harborough sign 6ft 9in striker Hudlin before FA Cup tie",
+      "excerpt": "Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T13:54:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "09ea3fb92203e6a854bd",
+      "section": "technology",
+      "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
+      "excerpt": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+      "publishedAt": "2026-11-06T13:50:20Z",
+      "officialSource": false
+    },
+    {
+      "id": "fae01ad52c006bc08140",
+      "section": "immigration",
+      "title": "ASUC calls on UC to oppose $100K international student work authorization fee - Daily Cal",
+      "excerpt": "ASUC calls on UC to oppose $100K international student work authorization fee Daily Cal",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVkZSbGRlTnVhekFudFVOc0gybHkwb1Y5NUViTnNHVGlLN01nRkNXSDhvVWwyeXRMdjdrY1hraEtrYVdSS0Q0U1VRX0s0M2lSTEcwLXJPa3ZucXh5alJhQ3lESEl0eTlrdzQzSjBwTW9VQy1NSU1iUXYzYS1HRl93Z0R4ZV96Qkl0V1dPRnY0WDJNdVhEeUk2Zk1Fd0hGOTRPRW8tcThPLWFiZFpTY1NCU3hkakdZRFZ2bzA0WnJNV21UUXk0cmxaR1MzOWl4akdiLURxdDMyZnAtZ3pBWkViSGNlVmhTYW5iY29iWDQ3MXFPSU1uS2xZdy1GNWM?oc=5",
+      "publishedAt": "2026-11-06T13:45:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "c90c7def34fc7306c0fc",
+      "section": "football",
+      "title": "Talking points as Premiership prepares for international break",
+      "excerpt": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T13:44:22Z",
+      "officialSource": false
+    },
+    {
+      "id": "010050e330d50e40dd83",
+      "section": "cricket",
+      "title": "Women's rights matter more than any league, say Afghan cricketers",
+      "excerpt": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T13:40:59Z",
+      "officialSource": false
+    },
+    {
+      "id": "3717024ac63681fd36f0",
+      "section": "technology",
+      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
+      "excerpt": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+      "publishedAt": "2026-11-06T13:33:20Z",
+      "officialSource": false
+    },
+    {
+      "id": "7f806f4d6ebc196f3a39",
+      "section": "technology",
+      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "excerpt": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T13:25:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "58522887ad7d0857825a",
+      "section": "world",
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "excerpt": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T13:23:44Z",
+      "officialSource": false
+    },
+    {
+      "id": "1e7e2c15ea8c7d5f0809",
+      "section": "immigration",
+      "title": "The real-life impact of foreign student visa changes - The Saturday Paper",
+      "excerpt": "The real-life impact of foreign student visa changes The Saturday Paper",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2pNYmVlQThCLW5WZ2w4dnZVbVRXTFdCQzJqOHdlWkJFblJ1cVlyQUhiSFVzVEo2ZkVZQjkwUWhGcElrdXBpU292cEU2ZHFVUlpFWnpnR1R1WWRkNFdGTTdhcHZfaFVaenVxam1MbGEyZXBwQl9rdUIwQ2lZZ3BZNE52cmZGa00tZFNLTy1xNUVfZkxxdHBLU05Va1BVTnJpTDhqLWlzRU9MYWpJa1E?oc=5",
+      "publishedAt": "2026-11-06T13:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "ca5031a28a3ec12396b0",
+      "section": "world",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "excerpt": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T12:51:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "311c85d3b2f4d1340d5b",
+      "section": "cricket",
+      "title": "Pretorius agrees to return to Somerset for 2027",
+      "excerpt": "South African all-rounder Migael Pretorius agrees a new deal with Somerset for the 2027 season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T12:43:59Z",
+      "officialSource": false
+    },
+    {
+      "id": "9a9c8dfa21aae238197e",
+      "section": "cricket",
+      "title": "Two-year ban for 'Clicky Ponting' cricketer",
+      "excerpt": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T12:00:21Z",
+      "officialSource": false
+    },
+    {
+      "id": "f8aeff5085cf65fd1238",
+      "section": "football",
+      "title": "Has Anderson lived up to the hype after Man City move?",
+      "excerpt": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T12:00:18Z",
+      "officialSource": false
+    },
+    {
+      "id": "b9a665b106ac00c5901c",
+      "section": "football",
+      "title": "Palmer misses too many chances to impress - Tuchel",
+      "excerpt": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T11:59:37Z",
+      "officialSource": false
+    },
+    {
+      "id": "988123f4c08798289d43",
+      "section": "f1",
+      "title": "Permane to stay as Racing Bulls team principal",
+      "excerpt": "Red Bull extend Alan Permane's contract as boss of their second team until the end of 2031.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw80zzd8jk1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T11:53:34Z",
+      "officialSource": false
+    },
+    {
+      "id": "af8a1a13119f64fe4f87",
+      "section": "football",
+      "title": "Wolves legend and ex-England defender Coady retires",
+      "excerpt": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T11:29:51Z",
+      "officialSource": false
+    },
+    {
+      "id": "d2b9303010106a593aca",
+      "section": "india",
+      "title": "Homes and temples glow across India as Diwali celebrations begin",
+      "excerpt": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T10:21:30Z",
+      "officialSource": false
+    },
+    {
+      "id": "6dd3acf578e4aa42b8ac",
+      "section": "world",
+      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
+      "excerpt": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T10:10:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "286a6f831de9f1279c7c",
+      "section": "cricket",
+      "title": "Head coach Domingo leaves Hampshire after one season",
+      "excerpt": "Hampshire head coach Russell Domingo leaves his position at the club less than a year into his two-year-deal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T10:02:54Z",
+      "officialSource": false
+    },
+    {
+      "id": "25cd541ca2207ece4c1d",
+      "section": "us",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T09:57:04Z",
+      "officialSource": false
+    },
     {
       "id": "89b5f6f07cd9652cf3d4",
       "section": "us",
@@ -34,16 +594,6 @@
       "officialSource": false
     },
     {
-      "id": "28fcbabd4c1ebb74d181",
-      "section": "football",
-      "title": "Lampard looks for Coventry progress as belief grows",
-      "excerpt": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T08:11:03Z",
-      "officialSource": false
-    },
-    {
       "id": "03d46a9127a8e6459020",
       "section": "cricket",
       "title": "Australia recruit Hussey for Ashes build-up",
@@ -51,16 +601,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T08:05:05Z",
-      "officialSource": false
-    },
-    {
-      "id": "92e51fa915171cbaa98b",
-      "section": "football",
-      "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
-      "excerpt": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pll0yb?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T08:00:00Z",
       "officialSource": false
     },
     {
@@ -74,26 +614,6 @@
       "officialSource": false
     },
     {
-      "id": "3b83bbe742f66d6b4fd8",
-      "section": "football",
-      "title": "How much prize money can teams win in FA Cup?",
-      "excerpt": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T07:50:11Z",
-      "officialSource": false
-    },
-    {
-      "id": "3ea092aaa7b6f6bfee1c",
-      "section": "football",
-      "title": "How to follow the FA Cup on the BBC this weekend",
-      "excerpt": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T07:47:46Z",
-      "officialSource": false
-    },
-    {
       "id": "a4fee0499c3a64e86d9b",
       "section": "world",
       "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
@@ -101,36 +621,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T07:33:41Z",
-      "officialSource": false
-    },
-    {
-      "id": "7f806f4d6ebc196f3a39",
-      "section": "us",
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "excerpt": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T07:27:26Z",
-      "officialSource": false
-    },
-    {
-      "id": "f703a576b45d044ba763",
-      "section": "football",
-      "title": "Goodwin keen but realistic over Cameron move - gossip",
-      "excerpt": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T07:27:05Z",
-      "officialSource": false
-    },
-    {
-      "id": "6ae644dcc887779360fd",
-      "section": "football",
-      "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
-      "excerpt": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:53:56Z",
       "officialSource": false
     },
     {
@@ -144,66 +634,6 @@
       "officialSource": false
     },
     {
-      "id": "a4b6bb824167af34b71f",
-      "section": "football",
-      "title": "From playing against Messi & Ronaldo to non-league",
-      "excerpt": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:42:07Z",
-      "officialSource": false
-    },
-    {
-      "id": "05a92b045733a23ea84a",
-      "section": "football",
-      "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
-      "excerpt": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:22:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "25a9cc5444a6d5d53a70",
-      "section": "football",
-      "title": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
-      "excerpt": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:17:13Z",
-      "officialSource": false
-    },
-    {
-      "id": "0cd237d3089801fbb464",
-      "section": "football",
-      "title": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:13:26Z",
-      "officialSource": false
-    },
-    {
-      "id": "7b014650a0356d3fdc0a",
-      "section": "world",
-      "title": "Did a data centre revolt affect the US mid-term election results?",
-      "excerpt": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:01:13Z",
-      "officialSource": false
-    },
-    {
-      "id": "e0b609f23f25c3183a35",
-      "section": "world",
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "excerpt": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T06:00:46Z",
-      "officialSource": false
-    },
-    {
       "id": "f416b08bfb9161f31554",
       "section": "immigration",
       "title": "Democrats Take Control of Congress: Will Indian H-1B Workers and F-1 Students Get Relief? - Tupaki English",
@@ -211,16 +641,6 @@
       "source": "Google News (aggregator)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYktiTkdlQ0cxbTZzejBXWWtiNzNUbFFabXFfcE5yNFluX0FLUEVkcVJCMWo2QUU0cGV3cEJJNHBfUlhELV9DQW9zNjR5aF9OZkpPWEtUVF9NUHBmOS1PaVVkdFFvRE9uQVRYSmJ5ZXJGZVBJQVFoQ01SNjYxRXltOUE5Rm1sYnVvdUFXZFNYR0otOFExSWJWWDVzUGJNTzjSAaQBQVVfeXFMT3Z1UDM3ajZyVWthNHo0V1pnQnlJcU55N0VBa1BFcXZFTnZkOENhTEg0V29oeTNMdk9BZE91NDNOVGpMMmtIUVJ3bFdxbm5KNTRFTHFJS1NpMEJieGlGVjMzT1VXekNndlJkRWhSblJkOFUyMGJhb2NlSExnNlBXaEJhOHhUaWJDSmZ4RjV6eFZCVFNKRWxReWlZcTlkVE9WZHd4eEQ?oc=5",
       "publishedAt": "2026-11-06T05:52:35Z",
-      "officialSource": false
-    },
-    {
-      "id": "e9ffef40d8bab277939b",
-      "section": "us",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "excerpt": "The Trump administration had hoped the building of the 250-foot arch could begin as early as this week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T05:31:59Z",
       "officialSource": false
     },
     {
@@ -234,26 +654,6 @@
       "officialSource": false
     },
     {
-      "id": "3d1809fe5e7d2a909bf8",
-      "section": "us",
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "excerpt": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T02:08:57Z",
-      "officialSource": false
-    },
-    {
-      "id": "2afbe0a37742b380f724",
-      "section": "world",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "excerpt": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T01:28:03Z",
-      "officialSource": false
-    },
-    {
       "id": "84fb227e770ff43f7222",
       "section": "technology",
       "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
@@ -261,406 +661,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
       "publishedAt": "2026-11-06T00:17:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "4e07b10cdc905f1da6b0",
-      "section": "football",
-      "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
-      "excerpt": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T00:10:28Z",
-      "officialSource": false
-    },
-    {
-      "id": "3880731809dbbf5e7ad5",
-      "section": "technology",
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "excerpt": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T00:06:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "c3be5729c60de2770991",
-      "section": "world",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "excerpt": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T00:02:57Z",
-      "officialSource": false
-    },
-    {
-      "id": "d32ed0838d4814f2cc21",
-      "section": "cricket",
-      "title": "Anderson could be given chance to join Surrey",
-      "excerpt": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T23:33:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "2a46dc0a00e65778f588",
-      "section": "india",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "excerpt": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T23:16:53Z",
-      "officialSource": false
-    },
-    {
-      "id": "b6cc61adf7e9fb2bd3e3",
-      "section": "technology",
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "excerpt": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "publishedAt": "2026-11-05T23:09:36Z",
-      "officialSource": false
-    },
-    {
-      "id": "ffff2886fc4b1906ffc9",
-      "section": "us",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "excerpt": "California has historically had the largest population of people on death row in the US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T23:09:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "4d87e75efb68c4fd3f4b",
-      "section": "football",
-      "title": "Deschamps not interested in Man Utd job - Friday's gossip",
-      "excerpt": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T22:49:23Z",
-      "officialSource": false
-    },
-    {
-      "id": "60e0cdcb036cddfd33ec",
-      "section": "technology",
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "excerpt": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "publishedAt": "2026-11-05T22:49:03Z",
-      "officialSource": false
-    },
-    {
-      "id": "2d504eb2f2cc9e4999b2",
-      "section": "us",
-      "title": "Canada's federal budget includes billions for sovereignty and tackling homelessness",
-      "excerpt": "Prime Minister Mark Carney plans to use an oil revenue windfall to bolster Canada's economic and cultural sovereignty and address cost of living concerns.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr87r8pjlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T22:40:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "072e6e262c7d3bc53a5f",
-      "section": "immigration",
-      "title": "'I don't know what else they want' Lawson says amid F1 uncertainty - 1News",
-      "excerpt": "'I don't know what else they want' Lawson says amid F1 uncertainty 1News",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSE1xVDZ6VEM5a1JnU05lNkJ6RUE1bnNzSUNSWE5RRU5yMll5MHVLQmFKa1k2cF9uQ2gyekhCQzZ4ZTU3Unh4Y083RHZGTXNjYTlNRkdjakZrQjNVeE1xaFlCTWpNSy15dzNfQ1NfZE9BV05jMTJoOTgxOVM0R3hlaDFaaUJQR3pzdzRJa1hMX1RUM0I0Tnk1eW5LdDlCQnkw?oc=5",
-      "publishedAt": "2026-11-05T22:06:15Z",
-      "officialSource": false
-    },
-    {
-      "id": "1298ab911e646bae166b",
-      "section": "world",
-      "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
-      "excerpt": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T22:00:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "e0272f10e3478250eda4",
-      "section": "technology",
-      "title": "Sony revives the original Walkman headphones, adds USB-C",
-      "excerpt": "Orange ear cushions included.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-      "publishedAt": "2026-11-05T21:56:36Z",
-      "officialSource": false
-    },
-    {
-      "id": "c73a8421f0de0a7da639",
-      "section": "technology",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "excerpt": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "publishedAt": "2026-11-05T21:40:36Z",
-      "officialSource": false
-    },
-    {
-      "id": "1ebc0fcad61a0f69173d",
-      "section": "technology",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "excerpt": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "publishedAt": "2026-11-05T21:39:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "bad6849423790aace9a7",
-      "section": "f1",
-      "title": "Antonelli says 2027 preparation starts now",
-      "excerpt": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T21:19:56Z",
-      "officialSource": false
-    },
-    {
-      "id": "f95880d64b0a9632bcc8",
-      "section": "technology",
-      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
-      "excerpt": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
-      "publishedAt": "2026-11-05T20:45:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "ef6f77c3581b551216a8",
-      "section": "us",
-      "title": "Inside Mississippi's ballot counting in tight Senate race",
-      "excerpt": "The BBC's Carl Nasman goes inside a county election commission building as votes are counted in the race between Democrat Scott Colom and Republican Cindy Hyde-Smith.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmj477d0dyxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T20:31:38Z",
-      "officialSource": false
-    },
-    {
-      "id": "f9a0778072180a9613e1",
-      "section": "immigration",
-      "title": "Stanford Rocket Scientist Hits State Department Wall In Student Visa Fight - Tampa Free Press",
-      "excerpt": "Stanford Rocket Scientist Hits State Department Wall In Student Visa Fight Tampa Free Press",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19HVjhBZmlBOGtCUWFrVkdabmFadU9NR0ZmbFF3bDBEV3NRQnlLMUVodnVuUHVMQU1HZ0tSOWpJczk2dlpzOUwyMWZpMHYwZjV2SUI0THV6VzNubEpTSHJmTE5lU0Z2ZDFtXzVKa3liMVBXb21hQ1Fsdng1LTN0T0JVVF9fUE9qX3Ezd2RjeVUzY2JJQjA4NUI5OHMwV1dP?oc=5",
-      "publishedAt": "2026-11-05T20:29:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "51dc1d2f6b3bd6dfbc4a",
-      "section": "technology",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "excerpt": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "publishedAt": "2026-11-05T20:23:21Z",
-      "officialSource": false
-    },
-    {
-      "id": "f93c3c74424d507fcb9b",
-      "section": "technology",
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "excerpt": "Software optimizes a physical model of the telescope to reduce noise.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "publishedAt": "2026-11-05T19:59:22Z",
-      "officialSource": false
-    },
-    {
-      "id": "56898cfb97b9aac836c2",
-      "section": "world",
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "excerpt": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T19:58:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "ecfc56fad8703261f088",
-      "section": "f1",
-      "title": "Russell to have 'deep, deep look in mirror'",
-      "excerpt": "Mercedes' George Russell speaks about his season after team-mate Kimi Antonelli won the championship",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr3wvvpxnx1wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T19:55:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "f5e66ca6ed6b71b0e179",
-      "section": "immigration",
-      "title": "'I don’t know what else they want’– Lawson on his F1 future - Formula 1",
-      "excerpt": "'I don’t know what else they want’– Lawson on his F1 future Formula 1",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ0VHVnhBR0IzSVdRd0JsdmlzUk9uTGxmNU9iNWw5ekdzVlRZR09vYl9OOVJDWW1hU3Npb3BESkh0VmctNElLZXRVMEJ3alROQk1wQWFCQVdlOElOTDFUX19vQUdFUUYyTDlnaWpOeWJCcFNVVnktZmktUjdKYjFZYlpfbk9GWDRYNzBNeTFEQTdleFNQMjBfN1F6QTdhTlBQM1ZiYndVWjJ6T21KNzk0ZU8yRFBwUmI4TXRfQklJQkowblQ1Tk9fMzBpX1FYZHJHaUhvTWk1SU9LXzJlS2JlNkg5amZOYUg3VUJ1Z1k2NURMUQ?oc=5",
-      "publishedAt": "2026-11-05T19:49:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "410d35f0bc7653f7225e",
-      "section": "technology",
-      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-      "excerpt": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
-      "publishedAt": "2026-11-05T19:46:37Z",
-      "officialSource": false
-    },
-    {
-      "id": "97436e8312b1a6e3d383",
-      "section": "immigration",
-      "title": "Global agent survey provides an early indication of how international student markets are taking shape this year - ICEF Monitor",
-      "excerpt": "Global agent survey provides an early indication of how international student markets are taking shape this year ICEF Monitor",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWHhJQkFEZWpSSTNXUVllZDJqbTJOLXBzZWdhVnJZY1JiUE9QWHl1blMzTHJQRUYyTmVWZi1LRkpHOG8wa1FJaWZCeTNERUF4M2dlSTkyYlVIUHltZERLdzJEOUw2aHJTNkFLTEgxZ1VuLXhyWEs1MGc3eHFOS2liT3U5QkVtSmkxS05GWS1nS1VRTjc4clRPbks1OXpOTlNZU3d6ekFhZm5YUnpXVUlpREhlcmdwWFZTU2RyNHV3bHlFZVJFNHQ1eUJrZUJfVzB3MFh1MHZvTXd4SW9hRFRB?oc=5",
-      "publishedAt": "2026-11-05T19:41:44Z",
-      "officialSource": false
-    },
-    {
-      "id": "cf91e8ba59594a0e1951",
-      "section": "world",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "excerpt": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T19:32:54Z",
-      "officialSource": false
-    },
-    {
-      "id": "b5866cfe70f0100a5d2e",
-      "section": "world",
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "excerpt": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T19:08:48Z",
-      "officialSource": false
-    },
-    {
-      "id": "13a4448641e54b7a2a76",
-      "section": "immigration",
-      "title": "Telugu F-1 Student Missing for 36+ Hours - M9.news",
-      "excerpt": "Telugu F-1 Student Missing for 36+ Hours M9.news",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GZENjQkdDR19LZDRDcmYtWGw0d0VzT044T3REZ2xOcnVrRGdHU09KUmM1VnBjWlI3bm9uN3AwbDZTU3dUTFRqUTVRN1NwZ3NUUGwtTXM1eFZNLWhKWlNHLVp4TkFEZG9wMXpxRnRBa3hpQ0pIa1M5a1pMSdIBgAFBVV95cUxNQzZxeU43cHhMQ2d3X1RtN0J0NnZpRXVTZ2pER2dCX2djMUFfWXM4M1dlSEJLWGZ6VUYzTXhMdU16RVUzbFNQbElvcW44c3R1T0Vta0ZfbnVvME56TU1QZVlkRUliUzJlcG5HLXpGZWMxMWVKN051MzFmYXZKazdmaA?oc=5",
-      "publishedAt": "2026-11-05T19:07:46Z",
-      "officialSource": false
-    },
-    {
-      "id": "37d0b75fa8c82e8050b2",
-      "section": "us",
-      "title": "Boebert, billionaires' tax and other midterms races still to watch",
-      "excerpt": "Democrats have taken control of the House and Senate, and are eyeing some more with several key races still too close to call.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg0y2nr445o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T19:02:17Z",
-      "officialSource": false
-    },
-    {
-      "id": "7ad6414128e013311ffb",
-      "section": "technology",
-      "title": "MAHA lost bigly in the midterms—is it at death's door?",
-      "excerpt": "RFK Jr.'s Make America Healthy Again movement was in trouble before voting began.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
-      "publishedAt": "2026-11-05T18:49:41Z",
-      "officialSource": false
-    },
-    {
-      "id": "f9fa881d42106c9bd4dd",
-      "section": "cricket",
-      "title": "Northants' Lynn served drugs ban after Blast final",
-      "excerpt": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T17:47:10Z",
-      "officialSource": false
-    },
-    {
-      "id": "e7b11731e0b66a1d3ff4",
-      "section": "immigration",
-      "title": "Temporary visa holders may have to leave the US to apply for a green card under new USCIS guidance - El Cronista",
-      "excerpt": "Temporary visa holders may have to leave the US to apply for a green card under new USCIS guidance El Cronista",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWXVTTTh2eWViOE9IMVZMZjV6bnhieUlraTF4NG5fdkoxdFBKczB0eHhXeUpvU1F5MkhvaFh2a0h5VWlsbW00RWhTOWFwdXVPZDFoYzV6cjJ6bUlYV1Jzb09GXzJ5bXlDTkFrcTdsanc0RUV5aGpCREJUaUctUHdSYmVsNEJyRWhjUmJuZnJGcldwR282aVg0dHlXVjFQekNHcXp5T2l4T3AxQVJLMzJSLU53YktoS0ZBN3R1ZW1sa2F4bnd0Qm1wdFRMNHhzUkVVMkxObVJB?oc=5",
-      "publishedAt": "2026-11-05T15:55:10Z",
-      "officialSource": false
-    },
-    {
-      "id": "faf2b866811252b85d0f",
-      "section": "us",
-      "title": "How America voted in maps and charts",
-      "excerpt": "See the maps and charts that show how America voted in the US midterm elections.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T15:52:04Z",
-      "officialSource": false
-    },
-    {
-      "id": "71e870c32453592e46e8",
-      "section": "cricket",
-      "title": "Stumped",
-      "excerpt": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T15:40:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "0c0a990da3b419ac0ff9",
-      "section": "f1",
-      "title": "How to follow Sao Paulo Grand Prix on the BBC",
-      "excerpt": "All the key BBC coverage details for the Sao Paulo Grand Prix, which takes place from 6-8 November.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw0k0ylj6lj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T15:03:34Z",
-      "officialSource": false
-    },
-    {
-      "id": "3d371f152b156df1695e",
-      "section": "us",
-      "title": "Six dead and others injured in fire at New York City building",
-      "excerpt": "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T15:00:12Z",
-      "officialSource": false
-    },
-    {
-      "id": "c943b56ea5ba2fb167b8",
-      "section": "immigration",
-      "title": "Alan Jones, Williams’ First F1 World Champion, Dies at 80 - Autoweek",
-      "excerpt": "Alan Jones, Williams’ First F1 World Champion, Dies at 80 Autoweek",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVhIVURycXJ1cGI3ZTFURkN1Nk5MMFZRWFlyU3poVWRuTzBDbVg2V3NXcC1HSHRTR0piUWhiYV9oV3ZuOVFrelpGYW9lX3lSc0VJbmJfSWxxbUdoSEtrSmhFOTBzc3ZraVpzUUR5eFptbURwczhMWHZLSXBGaFRyWndoeGNnN0MybjZJVUtKbXRFQmhQV3c3MGtTMzhMdkZXOHFV?oc=5",
-      "publishedAt": "2026-11-05T14:29:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "c39ff71ee21f361d1df8",
-      "section": "us",
-      "title": "Democrat leads by just over 1,000 votes in surprisingly tight Mississippi Senate race",
-      "excerpt": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rwxlx992o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T14:08:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "c09210bc3c1607fa90c8",
-      "section": "immigration",
-      "title": "How Columbia can support its international students - Columbia Daily Spectator",
-      "excerpt": "How Columbia can support its international students Columbia Daily Spectator",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkg2ODk3dWcyM0QtN2dVS2FJOW5SMlRCTE5TQVdyM3ZWQ3hvWHRPb3JTUUkxcjdqeWVKYVo2SDF2QkJIYklUWVFVbFZxY0dGdTlsZFVENGtoNUZsZWN6R2VReWNFU3ZkaVJmLUpZbnhLaFFpZ0NYR0NKVTZzT05LTE5mMFFleG5QM1lEMnoyUnlQSE9oek5teVR1ZVludHRoa3FlOXpUMXA?oc=5",
-      "publishedAt": "2026-11-05T13:11:14Z",
       "officialSource": false
     }
   ]
