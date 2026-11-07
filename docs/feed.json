@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T08:46:37.468440Z",
+  "updatedAt": "2026-11-07T18:47:38.559229Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -13,6 +13,276 @@
     "f1"
   ],
   "articles": [
+    {
+      "id": "cde850de3211cf13dd21",
+      "section": "football",
+      "title": "Chelsea surrender top spot after home draw with Everton",
+      "excerpt": "A Lucy Bronze own goal gives Everton a hard earned 1-1 draw at Stamford Bridge, as Chelsea drop to second in the WSL table.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:35:49Z",
+      "officialSource": false
+    },
+    {
+      "id": "513dc40baf206488aeb0",
+      "section": "football",
+      "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+      "excerpt": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the WSL table.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:35:43Z",
+      "officialSource": false
+    },
+    {
+      "id": "faa646b535ed0898f6d7",
+      "section": "football",
+      "title": "Argentina set to go to Cas after Fifa rejects appeals",
+      "excerpt": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:33:18Z",
+      "officialSource": false
+    },
+    {
+      "id": "612867f142c901aaf046",
+      "section": "football",
+      "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
+      "excerpt": "Jordan Thewlis scores a stoppage-time penalty to give seventh-tier Guiseley a dramatic 1-0 win over Sutton United in their FA Cup first round tie at Nethermoor Park.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:32:30Z",
+      "officialSource": false
+    },
+    {
+      "id": "8fb93dd0eaa06227b9cc",
+      "section": "football",
+      "title": "National League Carlisle upset League Two leaders Salford",
+      "excerpt": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:29:20Z",
+      "officialSource": false
+    },
+    {
+      "id": "bfb3d27a30fbbef40dba",
+      "section": "football",
+      "title": "Title race hots up before Chelsea v Man City showdown",
+      "excerpt": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:27:46Z",
+      "officialSource": false
+    },
+    {
+      "id": "d04570c52c8f8b018285",
+      "section": "world",
+      "title": "What we know about Krakow mass shooting so far",
+      "excerpt": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:22:11Z",
+      "officialSource": false
+    },
+    {
+      "id": "082aa9ac915444e4fc36",
+      "section": "world",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "excerpt": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:14:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "10ba262e2562384f79f3",
+      "section": "football",
+      "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
+      "excerpt": "Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:11:12Z",
+      "officialSource": false
+    },
+    {
+      "id": "ba830a755f9462b54fe5",
+      "section": "football",
+      "title": "Highlights: Burton ease past eighth-tier AFC Rushden & Diamonds",
+      "excerpt": "League One Burton avoid an FA Cup upset as they beat eighth-tier AFC Rushden & Diamonds to progress to the second round.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel01dkdno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:02:39Z",
+      "officialSource": false
+    },
+    {
+      "id": "89c41cb51671308533c8",
+      "section": "football",
+      "title": "Powell and Phillips star as Bradford put seven past Marine",
+      "excerpt": "Nick Powell and Adam Phillips both score a brace as Bradford City hammer National League North side Marine 7-0 in the first round of the FA Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:02:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "6f87cce88ee43aa9253c",
+      "section": "world",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "excerpt": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:58:41Z",
+      "officialSource": false
+    },
+    {
+      "id": "c2927c20839e9116b585",
+      "section": "football",
+      "title": "Salisbury put six past Sholing to advance to second round",
+      "excerpt": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:39:21Z",
+      "officialSource": false
+    },
+    {
+      "id": "28530a87cbb05ca3d9f4",
+      "section": "football",
+      "title": "Highlights: Shrewsbury edge past Eastleigh to reach round two",
+      "excerpt": "League Two side Shrewsbury Town defeat Eastleigh of the National League 2-1 in the first round of the FA Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:30:36Z",
+      "officialSource": false
+    },
+    {
+      "id": "a0cca9ed71a3c6bbdf36",
+      "section": "f1",
+      "title": "Hamilton & Verstappen to start from back in Brazil",
+      "excerpt": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:24:15Z",
+      "officialSource": false
+    },
+    {
+      "id": "3e4222b99bf5b54b319a",
+      "section": "football",
+      "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+      "excerpt": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:23:20Z",
+      "officialSource": false
+    },
+    {
+      "id": "6d8a06c4630839f61739",
+      "section": "world",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "excerpt": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:09:24Z",
+      "officialSource": false
+    },
+    {
+      "id": "c6ae51f0f919c58bd700",
+      "section": "world",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "excerpt": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T16:50:06Z",
+      "officialSource": false
+    },
+    {
+      "id": "a3a63a91f6daf1ab8843",
+      "section": "world",
+      "title": "No clear winner after tight New Zealand general election",
+      "excerpt": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T15:56:28Z",
+      "officialSource": false
+    },
+    {
+      "id": "062a70b67af36c2c56d7",
+      "section": "world",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "excerpt": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T15:19:35Z",
+      "officialSource": false
+    },
+    {
+      "id": "cf4780d2d58421a7233c",
+      "section": "immigration",
+      "title": "F1 Keeps The Party Going At Interlagos Through 2035 - Autoweek",
+      "excerpt": "F1 Keeps The Party Going At Interlagos Through 2035 Autoweek",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1NPaU1YQ25JeE1DSVllcXVZdjBjV3hJRDBhYkFkVEo0QnFXbjNZZmY3UlYzZDRBTDVWWEFidmROWHlqeDNxa0JMVVlwQzlzbHNNbnY0Q1dJQmJMbl9lWkJFdEV0QXgxd2ZoSHVOV0VzQVd5MWdzX1lYbkhTcHRBZmRYck5fbllsby1uTGlBYkJob3Rtb0s0d281cHZ1TFJueUQ5ZGl6VQ?oc=5",
+      "publishedAt": "2026-11-07T14:48:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "ff886d2cbfe7eda0093c",
+      "section": "cricket",
+      "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
+      "excerpt": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T14:41:04Z",
+      "officialSource": false
+    },
+    {
+      "id": "7bc889d73f785e593018",
+      "section": "world",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "excerpt": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:49:36Z",
+      "officialSource": false
+    },
+    {
+      "id": "9345adcc936c06fed1bd",
+      "section": "us",
+      "title": "Four things we learned this week about 2028 White House race",
+      "excerpt": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:23:28Z",
+      "officialSource": false
+    },
+    {
+      "id": "b62c9c03eb5f12028fe2",
+      "section": "technology",
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "excerpt": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "publishedAt": "2026-11-07T12:15:55Z",
+      "officialSource": false
+    },
+    {
+      "id": "ad36c2a7e444f2e2c06d",
+      "section": "technology",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "excerpt": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "publishedAt": "2026-11-07T11:00:34Z",
+      "officialSource": false
+    },
+    {
+      "id": "9598059b93268c66c6e3",
+      "section": "immigration",
+      "title": "Opinion: Driving away international students weakens U.S. economy - CT Insider",
+      "excerpt": "Opinion: Driving away international students weakens U.S. economy CT Insider",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX09Pc0FNdDZFbmFRVjNnU2JlcWwtTnBoMm1hSm93Q0NWQUJueGYxNEV6OGtnSFVuRzhUd19ZSE5Id3ZDbGV6MDhhZk9IeDY2V0xyeDFWcUpqbmszSldJY3pDVEFNVFJqUGJ6MFF0SnhtM3YxNHlkODlLSVAtWUpubTlOeGxPZWYyYnRLSERDeUhYVnZsOHJPSnRMRVdtdU9yYkdtOHpn?oc=5",
+      "publishedAt": "2026-11-07T09:08:03Z",
+      "officialSource": false
+    },
     {
       "id": "7ec4b19be3283c20a693",
       "section": "us",
@@ -34,16 +304,6 @@
       "officialSource": false
     },
     {
-      "id": "8e67001bd2498c31d94f",
-      "section": "football",
-      "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
-      "excerpt": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T07:27:40Z",
-      "officialSource": false
-    },
-    {
       "id": "8bd014409233113582f8",
       "section": "world",
       "title": "Paraguay's president impeached and under house arrest after bank collapse",
@@ -54,13 +314,13 @@
       "officialSource": false
     },
     {
-      "id": "646fe3a7f62ca3a8dec8",
-      "section": "football",
-      "title": "Not playing at Man City 'horrendous' - Trafford",
-      "excerpt": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T07:16:37Z",
+      "id": "bf8691a50f1bccbd0cdf",
+      "section": "immigration",
+      "title": "Ricciardo ‘grateful’ Red Bull made F1 exit decision for him - Formula 1",
+      "excerpt": "Ricciardo ‘grateful’ Red Bull made F1 exit decision for him Formula 1",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNy1MS2RQbHE2cmdBdWw4a2E1SngyOG9pX1NJaGYyOU82bXBFQ0t5SjdhLXVza3BhOEp0TUhxTFN6cWFPQ0lxeHdmRm9vM0w0RG5UTU1CMi1OVHJfMzIyQUdyOHQwMWdWV2RUYVRwQVhrVUtTcHhvTXRqNUh6YmExeEtXVDdFa0NNeGZoZHdiU2VDaEdFdF90WVZQeUhGdVo0alpsVEo4VFBJVk95RnBhSGJ6RmI1cE9aeG5PYUtwb0swUzhJb2FQYWhlSk5qbTNkYmdVU1hLRHY?oc=5",
+      "publishedAt": "2026-11-07T07:06:26Z",
       "officialSource": false
     },
     {
@@ -71,26 +331,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T06:59:48Z",
-      "officialSource": false
-    },
-    {
-      "id": "169a2ae5c5d61d4f84ca",
-      "section": "football",
-      "title": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:53:35Z",
-      "officialSource": false
-    },
-    {
-      "id": "d868f53d7738fdb2c691",
-      "section": "football",
-      "title": "Non-league's greatest giant-killers eye another scalp",
-      "excerpt": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:45:56Z",
       "officialSource": false
     },
     {
@@ -134,19 +374,19 @@
       "officialSource": false
     },
     {
-      "id": "d9c435520eca2748a681",
-      "section": "cricket",
-      "title": "Western Australia XI v England - warm-up scorecard",
-      "excerpt": "Latest scorecard from England's warm-up game against a Western Australia XI at the Waca in Perth.",
+      "id": "35a39aa90b7141b34ae7",
+      "section": "f1",
+      "title": "F1: Chequered Flag",
+      "excerpt": "Can Antonelli continue his championship celebrations with victory in Brazil?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244989?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T00:00:00Z",
+      "url": "https://www.bbc.co.uk/sounds/play/p0plrknf?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T00:15:00Z",
       "officialSource": false
     },
     {
       "id": "fe7acd7f8d5ce3efa42f",
       "section": "cricket",
-      "title": "New Zealand v India - second ODI scorecard",
+      "title": "India beat New Zealand by four runs - second ODI scorecard",
       "excerpt": "Latest scorecard from the second one-day international between New Zealand and India at Wellington's Hnry Stadium.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114?at_medium=RSS&at_campaign=rss",
@@ -154,9 +394,19 @@
       "officialSource": false
     },
     {
+      "id": "cbb8b31f10d4108d9d4e",
+      "section": "cricket",
+      "title": "Heat beat Hurricanes by four wickets - WBBL scorecard",
+      "excerpt": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Hobart Hurricanes at Brisbane's Allan Border Field.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "officialSource": false
+    },
+    {
       "id": "4f8deceb9ccaad3f51d4",
       "section": "cricket",
-      "title": "Bangladesh v West Indies - second Test scorecard",
+      "title": "West Indies v Bangladesh - second Test scorecard",
       "excerpt": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
@@ -174,13 +424,13 @@
       "officialSource": false
     },
     {
-      "id": "2f4f1fdc54caf398fc35",
-      "section": "football",
-      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
-      "excerpt": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+      "id": "d9c435520eca2748a681",
+      "section": "cricket",
+      "title": "Western Australia XI v England - warm-up scorecard",
+      "excerpt": "Latest scorecard from England's warm-up game against a Western Australia XI at the Waca in Perth.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:53:06Z",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244989?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T00:00:00Z",
       "officialSource": false
     },
     {
@@ -194,16 +444,6 @@
       "officialSource": false
     },
     {
-      "id": "098e151b9ca4fbaa483a",
-      "section": "football",
-      "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
-      "excerpt": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:37:23Z",
-      "officialSource": false
-    },
-    {
       "id": "f8449fa3d9901fd85b74",
       "section": "immigration",
       "title": "Arizona's public universities see steep drop in international student enrollment amid federal policies - ABC15 Arizona",
@@ -214,16 +454,6 @@
       "officialSource": false
     },
     {
-      "id": "c448fb4475e1983a3882",
-      "section": "football",
-      "title": "Bristol Rovers shock Cambridge United to reach round two",
-      "excerpt": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:26:39Z",
-      "officialSource": false
-    },
-    {
       "id": "6918e8874575f88f916b",
       "section": "us",
       "title": "With Stephen Miller pick, Trump readies for a battle",
@@ -231,16 +461,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T23:24:15Z",
-      "officialSource": false
-    },
-    {
-      "id": "4d89f4ea66f77c4b09eb",
-      "section": "football",
-      "title": "Lampard feels hair pull should have led to Coventry penalty",
-      "excerpt": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:22:21Z",
       "officialSource": false
     },
     {
@@ -294,36 +514,6 @@
       "officialSource": false
     },
     {
-      "id": "3a433e12a6d5396d16c5",
-      "section": "football",
-      "title": "'Big decisions' affected the game - Lampard",
-      "excerpt": "Coventry City head coach Frank Lampard is frustrated after three \"big decisions\" went against his side in their 3-1 defeat by Everton at the Hill Dickinson Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:40:58Z",
-      "officialSource": false
-    },
-    {
-      "id": "69b5609a163f1f1613fb",
-      "section": "football",
-      "title": "Not a good performance, but we got a result - Moyes",
-      "excerpt": "Everton manager David Moyes is pleased with his side's reaction to turn around a one goal deficit to win 3-1 against Coventry, but isn't pleased with their overall performance.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:40:56Z",
-      "officialSource": false
-    },
-    {
-      "id": "57c4f0d762b8760edea4",
-      "section": "football",
-      "title": "Barry scores twice as Everton fight back to beat Coventry",
-      "excerpt": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:30:12Z",
-      "officialSource": false
-    },
-    {
       "id": "ae4487c081c051acbdb0",
       "section": "us",
       "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
@@ -351,16 +541,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
       "publishedAt": "2026-11-06T22:08:47Z",
-      "officialSource": false
-    },
-    {
-      "id": "d43627b241742155b210",
-      "section": "football",
-      "title": "Raith Rovers go top with Dunfermline draw",
-      "excerpt": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:06:01Z",
       "officialSource": false
     },
     {
@@ -481,186 +661,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
       "publishedAt": "2026-11-06T19:12:28Z",
-      "officialSource": false
-    },
-    {
-      "id": "13b847b0ad69ca369be9",
-      "section": "cricket",
-      "title": "Anderson on potentially playing in 2027",
-      "excerpt": "News on Jimmy’s future (sort of)",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T18:38:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "01856f52ceb43a68949e",
-      "section": "us",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "excerpt": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T18:32:16Z",
-      "officialSource": false
-    },
-    {
-      "id": "7e8114761040ce5e4022",
-      "section": "technology",
-      "title": "The folks behind John Wick are back with Karōshi trailer",
-      "excerpt": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-      "publishedAt": "2026-11-06T18:30:19Z",
-      "officialSource": false
-    },
-    {
-      "id": "3b0242b5254bb47130b0",
-      "section": "us",
-      "title": "Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta",
-      "excerpt": "The newest residents of Zoo Atlanta are on loan from China as part of a six-year agreement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwm244x9dzy2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T18:27:21Z",
-      "officialSource": false
-    },
-    {
-      "id": "84a88c7c4fe909538b60",
-      "section": "technology",
-      "title": "You know the launch market is tough when satellite companies start building rockets",
-      "excerpt": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-      "publishedAt": "2026-11-06T18:20:47Z",
-      "officialSource": false
-    },
-    {
-      "id": "76f72b5a66ac12246d4c",
-      "section": "us",
-      "title": "These are the federal charges Thomas Markle faces",
-      "excerpt": "The BBC's Ione Wells explains the charges facing the estranged father of Meghan, Duchess of Sussex.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/crje5515kv0xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T18:13:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "1ac43336cbc52c0f7e0d",
-      "section": "world",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "excerpt": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T17:44:02Z",
-      "officialSource": false
-    },
-    {
-      "id": "562d9908327b6d6fb5d6",
-      "section": "technology",
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "excerpt": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "publishedAt": "2026-11-06T17:43:02Z",
-      "officialSource": false
-    },
-    {
-      "id": "1298ab911e646bae166b",
-      "section": "world",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "excerpt": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T17:35:55Z",
-      "officialSource": false
-    },
-    {
-      "id": "2e0a667468a2e01ee4cb",
-      "section": "immigration",
-      "title": "USCIS confirms it: The form that lets you change immigration status and stay longer in the US - El Cronista",
-      "excerpt": "USCIS confirms it: The form that lets you change immigration status and stay longer in the US El Cronista",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1BRUnRueFJzdTkxQlJfemZJRUtEMGswbGNlQTFfY1Q5R3NMSG9IdElzY0xWcGlxdXo4M0x5dWdpVEJJV3ZzNmpaTVd5ODh3Z3oxb243Vl9JWVp2Q3praEVxQlFGVDJvVi1Jd05mb3pRNkRXVERJUVJSUm1IaHM0N3dCWV93a05RMUZRUVk2bTZ1ZUtGYjJHQnFnN3FBLUxLYXlybnBOVmZyMTB2T1VUVC0taDJOR0ZPOHlhQU1SSGJKTTJGMzlnMm1NakJQQQ?oc=5",
-      "publishedAt": "2026-11-06T17:22:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "392621ddc0fab9582af9",
-      "section": "us",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "excerpt": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:51:01Z",
-      "officialSource": false
-    },
-    {
-      "id": "9345adcc936c06fed1bd",
-      "section": "world",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "excerpt": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:12:22Z",
-      "officialSource": false
-    },
-    {
-      "id": "d739f075b94203e2fd08",
-      "section": "immigration",
-      "title": "Newsletter: 3 days left to weigh in on OPT - NumbersUSA",
-      "excerpt": "Newsletter: 3 days left to weigh in on OPT NumbersUSA",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Hd2U5OVN1cDlnR2JGZ3dmTEQ5NnI0aURVYjE4NXd6LVJvSXdBazMwZ0h0SF9pWWRta2pMdmhiRVZzckEtdU1JeURYaE1EcTBOVW5PcTJZeHJaT3RKZEE?oc=5",
-      "publishedAt": "2026-11-06T15:37:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "bf1e47684d2f391cd784",
-      "section": "world",
-      "title": "Two dead after bus crashes in France, officials say",
-      "excerpt": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:33:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "e9ffef40d8bab277939b",
-      "section": "world",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "excerpt": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:30:42Z",
-      "officialSource": false
-    },
-    {
-      "id": "55e7c02a81d113ed89ea",
-      "section": "world",
-      "title": "New wave of bomb threats hit European airlines",
-      "excerpt": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:25:35Z",
-      "officialSource": false
-    },
-    {
-      "id": "8af314bb7a85de8c6d4b",
-      "section": "world",
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "excerpt": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:02:03Z",
-      "officialSource": false
-    },
-    {
-      "id": "6628f0dec7a2589ddadd",
-      "section": "world",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "excerpt": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T14:57:08Z",
       "officialSource": false
     }
   ]
