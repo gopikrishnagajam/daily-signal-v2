@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T08:59:04.118182Z",
+  "updatedAt": "2026-11-08T18:49:42.984755Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -14,6 +14,276 @@
   ],
   "articles": [
     {
+      "id": "cbdb986b4248fd54947b",
+      "section": "f1",
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
+      "excerpt": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T18:48:04Z",
+      "officialSource": false
+    },
+    {
+      "id": "c6571c51833d21cb80fd",
+      "section": "immigration",
+      "title": "F1 Brazil Grand Prix: Full race results - Crash.net",
+      "excerpt": "F1 Brazil Grand Prix: Full race results Crash.net",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDVSSXE2ZjFlbUQ4bHJGX3Q3TjFjNmpoOVV3MUFFcUtyTEpVSTRzNmxWbXB1OEM3ZlM5elpWcUJzWTNWamJMRkt1TjU2dW5aVWI1NXlQNlR6dndHcV9MbFEwWEhCcC11cW82M3Nja0k2TTdMenpaM2NfTXI2TmVMdzQyUUtHLTlF?oc=5",
+      "publishedAt": "2026-11-08T18:45:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "d3fdf3d02ef5a9fdc13b",
+      "section": "immigration",
+      "title": "Santa Barbara City College loses millions of dollars from the decline of international student enrollment - Santa Barbara News-Press",
+      "excerpt": "Santa Barbara City College loses millions of dollars from the decline of international student enrollment Santa Barbara News-Press",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGpuSEtFcV9RZ3NRTUlnZlFzVmhzcUdORVVBOUdxOExMUWV2aUN4aWRCQjJxdDZyV0RYSy0wQW5xdjdDTTgtY2ppOEhqRDFrdHVKZDBiNmcza0JZS2xxLWVwWTg5c0lpZ1lOc1czVWdnM3BNdEpiVE92WGtNTk91dXY1eDdYM04tV2FpeG1FYWV0X1pRZUdWQUdqcUhwZE1QTTJZSFAwQ053VDdFTkxfTnhWSmNKOWhocHNRWjNGVkhjR1VneENCdVY2bnlfTUVYbS1WX3gzdTY4WVU?oc=5",
+      "publishedAt": "2026-11-08T18:23:43Z",
+      "officialSource": false
+    },
+    {
+      "id": "379d0639d8e7925b4820",
+      "section": "world",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "excerpt": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T18:22:53Z",
+      "officialSource": false
+    },
+    {
+      "id": "fd68480bcec53e933a40",
+      "section": "football",
+      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+      "excerpt": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T18:20:56Z",
+      "officialSource": false
+    },
+    {
+      "id": "dea5c299aa6761d6037d",
+      "section": "football",
+      "title": "Russo double gives Arsenal win over Liverpool at Anfield",
+      "excerpt": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T17:45:27Z",
+      "officialSource": false
+    },
+    {
+      "id": "103fdb58184f1eefe2be",
+      "section": "football",
+      "title": "10-man Stockport come from behind to survive huge scare at Cray",
+      "excerpt": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T17:39:15Z",
+      "officialSource": false
+    },
+    {
+      "id": "07141ad7abea75515a89",
+      "section": "world",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "excerpt": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T17:35:13Z",
+      "officialSource": false
+    },
+    {
+      "id": "0bba299bf3aa5b189fef",
+      "section": "football",
+      "title": "London City thump Birmingham to close gap on second",
+      "excerpt": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T17:06:21Z",
+      "officialSource": false
+    },
+    {
+      "id": "ef465ea226bd177f6570",
+      "section": "football",
+      "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
+      "excerpt": "League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout to book their place in the second round.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T17:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "81064b9fcbba4aad83e6",
+      "section": "football",
+      "title": "Fan injured after falling through hole in stand",
+      "excerpt": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T16:53:37Z",
+      "officialSource": false
+    },
+    {
+      "id": "f659714cff086c9edd95",
+      "section": "immigration",
+      "title": "Understanding proposed changes to Optional Practical Training (OPT) - American Physical Society",
+      "excerpt": "Understanding proposed changes to Optional Practical Training (OPT) American Physical Society",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFFka01DZDJKaGJZbVg4QUxSWFFfaXMxTm1Na2ZQY0gydTN1Nzg2dFpEcF9qb19qMGpNOXB1dUx0NDk0dFNiWWtIWXlWWnpjMDZacHNZSndRUWJlY0FPVi1XZjVzYVRqNURpdU5acWpuYmMyMW9pWEJPUy1VNkNKbktmWHlOMWZveW1SVXE0STFzeWZKNkQ2Y1VNZFhSTlJCaFE?oc=5",
+      "publishedAt": "2026-11-08T16:19:35Z",
+      "officialSource": false
+    },
+    {
+      "id": "233caa5d067c81fd6240",
+      "section": "football",
+      "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
+      "excerpt": "Enzo Le Fee's penalty is the difference as Sunderland climb off the bottom of the table but how did the players rate against Chelsea?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T16:13:36Z",
+      "officialSource": false
+    },
+    {
+      "id": "f386653fd1a3aece8b3a",
+      "section": "world",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "excerpt": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T16:05:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "369ec58cd16d7976f401",
+      "section": "football",
+      "title": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
+      "excerpt": "How Crystal Palace and Liverpool's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T16:04:18Z",
+      "officialSource": false
+    },
+    {
+      "id": "4e0f599662c5ed9e9f0b",
+      "section": "immigration",
+      "title": "F1 São Paulo Grand Prix starting grid - SB Nation",
+      "excerpt": "F1 São Paulo Grand Prix starting grid SB Nation",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmZGanBGNUdKV3VaZW1qcUF5QUNzT1VPSnh5Y3hCR3NPOVpqSldic25yMnZxZldwOFFxa0x3b0g0MzFQZEVUQXFHLWRqWHdLWEdMc3U4TWJmRFhsVUlDcG5UY0lBbG1IcEpydEJnSU9Mc2huWUdVSnVUZHA5RUJWODJjampvOEg2Qmc?oc=5",
+      "publishedAt": "2026-11-08T15:40:19Z",
+      "officialSource": false
+    },
+    {
+      "id": "1fd2c4b355c27cd812da",
+      "section": "technology",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T15:37:25Z",
+      "officialSource": false
+    },
+    {
+      "id": "2fc0596ff26868c4ee06",
+      "section": "football",
+      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
+      "excerpt": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T15:31:43Z",
+      "officialSource": false
+    },
+    {
+      "id": "5792286957a87e681835",
+      "section": "football",
+      "title": "England await Guehi scan results after injury concern",
+      "excerpt": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T15:03:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "d2b9303010106a593aca",
+      "section": "india",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "excerpt": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T14:42:09Z",
+      "officialSource": false
+    },
+    {
+      "id": "3b7d7c67982095017e8e",
+      "section": "football",
+      "title": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
+      "excerpt": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T14:41:04Z",
+      "officialSource": false
+    },
+    {
+      "id": "9c63097d041d4dc54d3e",
+      "section": "immigration",
+      "title": "How to watch the F1 Brazilian Grand Prix streaming live for free today: Start time, starting grid, betting li - OregonLive.com",
+      "excerpt": "How to watch the F1 Brazilian Grand Prix streaming live for free today: Start time, starting grid, betting li OregonLive.com",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR001dnpnYWlremRudGFOcFlXVlM5SEdJZGZCVk8xVlNFNHF4LWkwckJjSkpkMDZBa2Z2SU9XUXM5U0I4NGhCMWZyU2dCcVE2Q1V0cVlPdmdQYnZDbkgxeWJSNmd1RzRxZHpodERvVG4wamZQdFg3U1Y2NXZSdGJqanJLZTFmcDhTcjF6SEVxLXdFVThXUm9VNHZjVm5qelhEUjBPdVZXdTFrVWlGUTZ4NVZoQUhXSWxEejFnOGJxcFBXdGluWmZmMXBHSzM5aklZT0UzQ3E0QTlwV2hwS2VzOU1jci13RlVDaVZncExvZ1ZhTnFYbnVSN1Y3MNIB-wFBVV95cUxQR001dnpnYWlremRudGFOcFlXVlM5SEdJZGZCVk8xVlNFNHF4LWkwckJjSkpkMDZBa2Z2SU9XUXM5U0I4NGhCMWZyU2dCcVE2Q1V0cVlPdmdQYnZDbkgxeWJSNmd1RzRxZHpodERvVG4wamZQdFg3U1Y2NXZSdGJqanJLZTFmcDhTcjF6SEVxLXdFVThXUm9VNHZjVm5qelhEUjBPdVZXdTFrVWlGUTZ4NVZoQUhXSWxEejFnOGJxcFBXdGluWmZmMXBHSzM5aklZT0UzQ3E0QTlwV2hwS2VzOU1jci13RlVDaVZncExvZ1ZhTnFYbnVSN1Y3MA?oc=5",
+      "publishedAt": "2026-11-08T13:45:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "659206a1382c32348f65",
+      "section": "world",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "excerpt": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T13:37:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "22dcf2d011e1f2654922",
+      "section": "football",
+      "title": "Shock changes & key results - Wrexham's seismic week",
+      "excerpt": "BBC Sport Wales addresses the key changes made at Wrexham in what was a seismic week for the Championship club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T13:19:22Z",
+      "officialSource": false
+    },
+    {
+      "id": "9e3feb6bb8fadf243e72",
+      "section": "technology",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "excerpt": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "publishedAt": "2026-11-08T12:15:31Z",
+      "officialSource": false
+    },
+    {
+      "id": "869a5ebaba989a92771c",
+      "section": "cricket",
+      "title": "I haven't thrown anyone under the bus - Khawaja",
+      "excerpt": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T10:04:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "e85d434e59bbd3897feb",
+      "section": "world",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "excerpt": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T09:29:24Z",
+      "officialSource": false
+    },
+    {
       "id": "d04570c52c8f8b018285",
       "section": "world",
       "title": "What we know so far after Krakow gun attack",
@@ -24,66 +294,6 @@
       "officialSource": false
     },
     {
-      "id": "c3b2da823da1c8f09c14",
-      "section": "football",
-      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-      "excerpt": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T07:30:01Z",
-      "officialSource": false
-    },
-    {
-      "id": "8ed91e2b28544b004484",
-      "section": "football",
-      "title": "Messi makes history with MLS Golden Boot",
-      "excerpt": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T07:23:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "4ff638bba5dc73140c5d",
-      "section": "football",
-      "title": "Who am I? Guess WSL star No 11",
-      "excerpt": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgqdv8lexl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T06:51:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "5f4b1ffa036c6bcfc5be",
-      "section": "football",
-      "title": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T06:47:58Z",
-      "officialSource": false
-    },
-    {
-      "id": "0d875e5649b9a165d7c8",
-      "section": "football",
-      "title": "Why unique Brighton defence is so tricky to unpick",
-      "excerpt": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T06:41:37Z",
-      "officialSource": false
-    },
-    {
-      "id": "d2e197c3a67c4a19b3c1",
-      "section": "football",
-      "title": "The oldest club in London making FA Cup history",
-      "excerpt": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T06:28:56Z",
-      "officialSource": false
-    },
-    {
       "id": "6d8a06c4630839f61739",
       "section": "world",
       "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -91,16 +301,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T04:03:12Z",
-      "officialSource": false
-    },
-    {
-      "id": "4e0f599662c5ed9e9f0b",
-      "section": "immigration",
-      "title": "F1 São Paulo Grand Prix starting grid - SB Nation",
-      "excerpt": "F1 São Paulo Grand Prix starting grid SB Nation",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmZGanBGNUdKV3VaZW1qcUF5QUNzT1VPSnh5Y3hCR3NPOVpqSldic25yMnZxZldwOFFxa0x3b0g0MzFQZEVUQXFHLWRqWHdLWEdMc3U4TWJmRFhsVUlDcG5UY0lBbG1IcEpydEJnSU9Mc2huWUdVSnVUZHA5RUJWODJjampvOEg2Qmc?oc=5",
-      "publishedAt": "2026-11-08T01:07:00Z",
       "officialSource": false
     },
     {
@@ -144,66 +344,6 @@
       "officialSource": false
     },
     {
-      "id": "3ee1d415dc067a9dccfe",
-      "section": "football",
-      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-      "excerpt": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T00:17:56Z",
-      "officialSource": false
-    },
-    {
-      "id": "f419037f24381f1dc92b",
-      "section": "football",
-      "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-      "excerpt": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T00:13:34Z",
-      "officialSource": false
-    },
-    {
-      "id": "104e580e4ce7a9ef6375",
-      "section": "football",
-      "title": "Charlie Savage shines for Reading to beat dad Robbie's Peterborough",
-      "excerpt": "Charlie Savage scores his first goal of the season and puts in a man-of-the-match performance for Reading who knock out dad Robbie's Peterborough United in the FA Cup first round.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx29ey1m9zpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T00:12:24Z",
-      "officialSource": false
-    },
-    {
-      "id": "2024e3cc40f75bd16853",
-      "section": "football",
-      "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
-      "excerpt": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T00:07:11Z",
-      "officialSource": false
-    },
-    {
-      "id": "b5fb1a610e9b6b787b65",
-      "section": "football",
-      "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
-      "excerpt": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T00:04:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "37a37d9278f5afd1e7e5",
-      "section": "football",
-      "title": "Was Leeds' Bogle lucky to escape red card?",
-      "excerpt": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T00:00:26Z",
-      "officialSource": false
-    },
-    {
       "id": "4f8deceb9ccaad3f51d4",
       "section": "cricket",
       "title": "West Indies v Bangladesh - second Test scorecard",
@@ -220,6 +360,16 @@
       "excerpt": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "0a9e28eef07442e00369",
+      "section": "cricket",
+      "title": "Perth Scorchers beat Melbourne Stars by six wickets - WBBL scorecard",
+      "excerpt": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Melbourne Stars at North Sydney Oval.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242430?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T00:00:00Z",
       "officialSource": false
     },
@@ -354,36 +504,6 @@
       "officialSource": false
     },
     {
-      "id": "c6ae51f0f919c58bd700",
-      "section": "world",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "excerpt": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T16:50:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "a3a63a91f6daf1ab8843",
-      "section": "world",
-      "title": "No clear winner after tight New Zealand general election",
-      "excerpt": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T15:56:28Z",
-      "officialSource": false
-    },
-    {
-      "id": "062a70b67af36c2c56d7",
-      "section": "world",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "excerpt": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T15:19:35Z",
-      "officialSource": false
-    },
-    {
       "id": "cf4780d2d58421a7233c",
       "section": "immigration",
       "title": "F1 Keeps The Party Going At Interlagos Through 2035 - Autoweek",
@@ -401,16 +521,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T14:41:04Z",
-      "officialSource": false
-    },
-    {
-      "id": "7bc889d73f785e593018",
-      "section": "world",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "excerpt": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T12:49:36Z",
       "officialSource": false
     },
     {
@@ -484,16 +594,6 @@
       "officialSource": false
     },
     {
-      "id": "42531dc9299c2c06d47d",
-      "section": "world",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "excerpt": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:59:48Z",
-      "officialSource": false
-    },
-    {
       "id": "9236014bbb0d62bd1985",
       "section": "immigration",
       "title": "Trump administration proposes $70,000 fee for international students applying for work experience - The Daily Tar Heel",
@@ -561,106 +661,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T23:46:08Z",
-      "officialSource": false
-    },
-    {
-      "id": "f8449fa3d9901fd85b74",
-      "section": "immigration",
-      "title": "Arizona's public universities see steep drop in international student enrollment amid federal policies - ABC15 Arizona",
-      "excerpt": "Arizona's public universities see steep drop in international student enrollment amid federal policies ABC15 Arizona",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdDhsYzRHUXJyNjB5LUdKa0J2cElJZGxTZTRhRmZudklfSWp5VVlfb2dMN3FvQ0JLdl9JbVlKVE5iM0huc1g4MVRPZnBER1psMzRQRnhGYWNCaF9jclctSlg3eDNuT3lOLTg3cnRMVUNNZi1GY05ZX2R2SDFLM25TOTFWMGpSa2NVSjFNYzI3LVp1RFA1Ui0tOUFiM3E4RU13MWZ4RWlnUUhVQ2pMVHktT1NNRXVIVjh5RExGTEt0UFdUR0w0UzB3QVFZdVFtYlM5aTgwMQ?oc=5",
-      "publishedAt": "2026-11-06T23:32:11Z",
-      "officialSource": false
-    },
-    {
-      "id": "6918e8874575f88f916b",
-      "section": "us",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "excerpt": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:24:15Z",
-      "officialSource": false
-    },
-    {
-      "id": "685de1bbdb3882dd1c10",
-      "section": "cricket",
-      "title": "Whole Australia team knew of sandpaper use - Khawaja",
-      "excerpt": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:11:56Z",
-      "officialSource": false
-    },
-    {
-      "id": "b6f2bcabcdce26e1dbb1",
-      "section": "technology",
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "excerpt": "It's the exact path, not the apparent severity that matters most, doctors say.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "publishedAt": "2026-11-06T23:09:45Z",
-      "officialSource": false
-    },
-    {
-      "id": "827c57a5298a70cbc9a0",
-      "section": "india",
-      "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
-      "excerpt": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:59:54Z",
-      "officialSource": false
-    },
-    {
-      "id": "d32ed0838d4814f2cc21",
-      "section": "cricket",
-      "title": "Anderson could be given chance to join Surrey",
-      "excerpt": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:58:58Z",
-      "officialSource": false
-    },
-    {
-      "id": "c828464b88b192e8ff6c",
-      "section": "technology",
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "excerpt": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "publishedAt": "2026-11-06T22:41:37Z",
-      "officialSource": false
-    },
-    {
-      "id": "ae4487c081c051acbdb0",
-      "section": "us",
-      "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
-      "excerpt": "Lawyers for both campaigns in Mississippi's US Senate race are preparing for a possible legal battle as the close count continues.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:22:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "aff32afb63af01e7ea9a",
-      "section": "technology",
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "excerpt": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agenti…",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "publishedAt": "2026-11-06T22:15:59Z",
-      "officialSource": false
-    },
-    {
-      "id": "59a23201da2e2512857b",
-      "section": "technology",
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "excerpt": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "publishedAt": "2026-11-06T22:08:47Z",
       "officialSource": false
     }
   ]
