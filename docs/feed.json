@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T20:53:55.001141Z",
+  "updatedAt": "2026-11-14T08:57:57.449353Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -14,13 +14,253 @@
   ],
   "articles": [
     {
+      "id": "94209688a61429d1cfa9",
+      "section": "football",
+      "title": "Clough's longevity: landmark achievement or indictment on football?",
+      "excerpt": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T08:35:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "a42c186564b74563b075",
+      "section": "football",
+      "title": "Titz and Clarke on Aberdeen shortlist - gossip",
+      "excerpt": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgre0jlw24yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T08:28:16Z",
+      "officialSource": false
+    },
+    {
+      "id": "8a2127dc8674ab6d25e0",
+      "section": "football",
+      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+      "excerpt": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T07:49:46Z",
+      "officialSource": false
+    },
+    {
+      "id": "530533c1157d7fd4c179",
+      "section": "us",
+      "title": "What we know about the US ground stop and what to do if you're flight is affected",
+      "excerpt": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T07:42:11Z",
+      "officialSource": false
+    },
+    {
+      "id": "d81d56bccbba1050e15a",
+      "section": "cricket",
+      "title": "Warner accuses Cricket Australia of 'cover-up'",
+      "excerpt": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T07:20:24Z",
+      "officialSource": false
+    },
+    {
       "id": "334ebcca23065263348a",
-      "section": "technology",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "excerpt": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "section": "world",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "excerpt": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T20:49:52Z",
+      "publishedAt": "2026-11-14T06:42:27Z",
+      "officialSource": false
+    },
+    {
+      "id": "df20d1a89b2b375d3ba2",
+      "section": "football",
+      "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+      "excerpt": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T06:37:49Z",
+      "officialSource": false
+    },
+    {
+      "id": "40009cb601487cb81880",
+      "section": "football",
+      "title": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T06:27:36Z",
+      "officialSource": false
+    },
+    {
+      "id": "c680cb902e27912f7d6a",
+      "section": "world",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "excerpt": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T05:52:31Z",
+      "officialSource": false
+    },
+    {
+      "id": "79f1de58c4924ea574b7",
+      "section": "world",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "excerpt": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T01:47:36Z",
+      "officialSource": false
+    },
+    {
+      "id": "332f7fa7e6f224cf35dc",
+      "section": "technology",
+      "title": "Tech Now",
+      "excerpt": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T01:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "7b8ef8b8b9e124b3396a",
+      "section": "technology",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "excerpt": "One way or another, the company will get some more data on Saturday.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "publishedAt": "2026-11-14T00:49:13Z",
+      "officialSource": false
+    },
+    {
+      "id": "f42c8666591c38b9d43f",
+      "section": "technology",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "excerpt": "The next title in the series is expected to be the biggest video game release ever.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T00:37:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "6caf8a684ef5c09a15d4",
+      "section": "world",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "excerpt": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T00:03:56Z",
+      "officialSource": false
+    },
+    {
+      "id": "d3ad8c146b04ab1db660",
+      "section": "world",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "excerpt": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T00:03:52Z",
+      "officialSource": false
+    },
+    {
+      "id": "8573d9e8e576a4ad4731",
+      "section": "us",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "excerpt": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T00:01:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "8bc86e752b2d05f1c5eb",
+      "section": "cricket",
+      "title": "Heat hammer hapless Hurricanes inside six overs - WBBL scorecard",
+      "excerpt": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Brisbane Heat in Hobart.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "2eafa4b1bb39d8eb3ba1",
+      "section": "us",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "excerpt": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T23:40:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "ffcde67cd55e39ddfc07",
+      "section": "technology",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "excerpt": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "publishedAt": "2026-11-13T23:17:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "27ac71ecb4e41ddaac82",
+      "section": "india",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "excerpt": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T23:11:51Z",
+      "officialSource": false
+    },
+    {
+      "id": "59d35bd98e0729bd173c",
+      "section": "world",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "excerpt": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T23:00:31Z",
+      "officialSource": false
+    },
+    {
+      "id": "e83a5a91f16bded23b99",
+      "section": "football",
+      "title": "Ferguson 'made up' with first win as Glentoran boss",
+      "excerpt": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T22:54:49Z",
+      "officialSource": false
+    },
+    {
+      "id": "01312df55683151f4295",
+      "section": "football",
+      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "excerpt": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T22:53:17Z",
+      "officialSource": false
+    },
+    {
+      "id": "9e46e1b97c8ad9401a02",
+      "section": "football",
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "excerpt": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T22:37:30Z",
+      "officialSource": false
+    },
+    {
+      "id": "739e298f83193a630564",
+      "section": "football",
+      "title": "'If that penalty is given against you, you're furious'",
+      "excerpt": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T22:34:20Z",
       "officialSource": false
     },
     {
@@ -30,7 +270,77 @@
       "excerpt": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T20:46:03Z",
+      "publishedAt": "2026-11-13T22:12:33Z",
+      "officialSource": false
+    },
+    {
+      "id": "0a0481d71a8fbde976d4",
+      "section": "football",
+      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+      "excerpt": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T22:11:27Z",
+      "officialSource": false
+    },
+    {
+      "id": "b3c4f5b3e82958509ce5",
+      "section": "football",
+      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+      "excerpt": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T22:05:14Z",
+      "officialSource": false
+    },
+    {
+      "id": "c628f8ad3420da2b0efe",
+      "section": "technology",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "excerpt": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "publishedAt": "2026-11-13T21:59:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "8e5759cc4cddca9fb434",
+      "section": "cricket",
+      "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
+      "excerpt": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T21:53:37Z",
+      "officialSource": false
+    },
+    {
+      "id": "d594c39e97738b7d880c",
+      "section": "technology",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "excerpt": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "publishedAt": "2026-11-13T21:20:47Z",
+      "officialSource": false
+    },
+    {
+      "id": "d3bc368f2c827e78ee59",
+      "section": "us",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "excerpt": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T21:15:41Z",
+      "officialSource": false
+    },
+    {
+      "id": "101d44ffbb4da315c867",
+      "section": "us",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "excerpt": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T21:15:24Z",
       "officialSource": false
     },
     {
@@ -94,16 +404,6 @@
       "officialSource": false
     },
     {
-      "id": "770b461f7327815099fc",
-      "section": "football",
-      "title": "Ronaldinho, 46, to play first game since 2015",
-      "excerpt": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T19:12:37Z",
-      "officialSource": false
-    },
-    {
       "id": "0c234907ee88f208d287",
       "section": "immigration",
       "title": "Times Higher Education: UK Student Visa Applications Fall in October - Fragomen",
@@ -135,22 +435,12 @@
     },
     {
       "id": "f83f812563eb29b623dc",
-      "section": "world",
+      "section": "technology",
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "excerpt": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T18:36:57Z",
-      "officialSource": false
-    },
-    {
-      "id": "0a0481d71a8fbde976d4",
-      "section": "football",
-      "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
-      "excerpt": "Tolu Arokodare scores twice in the second half as Nigeria claim a 3-1 win over Tanzania to bolster their hopes of reaching the 2027 Africa Cup of Nations.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T18:36:27Z",
       "officialSource": false
     },
     {
@@ -164,16 +454,6 @@
       "officialSource": false
     },
     {
-      "id": "216d1012d484e2b6ef6c",
-      "section": "football",
-      "title": "EFL warns clubs over social media posts",
-      "excerpt": "The English Football League (EFL) warns its members about their usage of posts on social media.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T18:20:17Z",
-      "officialSource": false
-    },
-    {
       "id": "d5123ee7f366d9a641ed",
       "section": "immigration",
       "title": "Malta increases cost of student visas for foreign applicants, shares new fees - Legit News",
@@ -184,23 +464,13 @@
       "officialSource": false
     },
     {
-      "id": "23983d781f8ab23059f1",
-      "section": "football",
-      "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
-      "excerpt": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T18:14:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "d3bc368f2c827e78ee59",
-      "section": "us",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "excerpt": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T17:38:19Z",
+      "id": "672e5845165008f114c2",
+      "section": "immigration",
+      "title": "OPT, STEM OPT, and I-9 Compliance: Is your Business Ready for a Government Inspection? - Chugh, LLP - Attorneys & CPAs",
+      "excerpt": "OPT, STEM OPT, and I-9 Compliance: Is your Business Ready for a Government Inspection? Chugh, LLP - Attorneys & CPAs",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0lfd0xmUTFUQ3dzbEdJZzQxZWpkLTNsVnFrMWZBczNqR2dxeUpnRWY2NzNYbXB5VFdzcGpwT2YxQzh1QXNXck0ta1M2eWFMT1A1S3NvUGxqYXFlX2NVa0RJMEFCVVU3c0VjX28yTDNrRFd5VFJuZGZIaGZ0Vm90ajdUZVl4MHN4cmsyZzhGTlhPdW5ORTM5SFotX3JacTRBUUdQZU9xSlJlQ0ZhSnc?oc=5",
+      "publishedAt": "2026-11-13T17:50:05Z",
       "officialSource": false
     },
     {
@@ -234,23 +504,13 @@
       "officialSource": false
     },
     {
-      "id": "6ebc987b073c6c2ed668",
+      "id": "4b4e88316cc177ddab1d",
       "section": "technology",
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "excerpt": "Researcher traces a path from AI reward hacking to potential human extinction.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "publishedAt": "2026-11-13T17:25:45Z",
-      "officialSource": false
-    },
-    {
-      "id": "6550a935bbe157655ff5",
-      "section": "football",
-      "title": "All done deals from September-November 2026",
-      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T17:21:23Z",
       "officialSource": false
     },
     {
@@ -264,16 +524,6 @@
       "officialSource": false
     },
     {
-      "id": "e95d1c75bd0040f4a03b",
-      "section": "us",
-      "title": "The polar vortex just broke a new record but experts aren't sure what it means for this winter's weather",
-      "excerpt": "The polar vortex has reversed direction leading to the earliest sudden stratospheric warming on record. Will this bring an early taste of winter?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cwdd8dl7830go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T16:42:18Z",
-      "officialSource": false
-    },
-    {
       "id": "b13e18c3f67ad0a38b0b",
       "section": "world",
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
@@ -284,13 +534,13 @@
       "officialSource": false
     },
     {
-      "id": "2bfc45fcc843d4c94d52",
-      "section": "football",
-      "title": "'Memories flood back' - Rochdale & York meet again after April drama",
-      "excerpt": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T16:39:00Z",
+      "id": "6a859cf7684f6048d82a",
+      "section": "immigration",
+      "title": "College Lobby Says Trump’s OPT Fee Would Invite Fraud, Not Stop It - Yahoo",
+      "excerpt": "College Lobby Says Trump’s OPT Fee Would Invite Fraud, Not Stop It Yahoo",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGJKM1QxdWI5ZEZmQ291N013ZEVycENoS2FwRmFXSkNkU0hxWC03Y2E5Y2JzOU1DWUdNZ29yUzYteGZoRXdQVEhrci1idWRnZ1FPQUJqenpJUDZWcUY2dWJpeU5Nelk5TFRVQzZnLU05enIxWHJyempITGdnMDlzNm9QSGNXS3RIVDctTzA5SU91UQ?oc=5",
+      "publishedAt": "2026-11-13T16:36:26Z",
       "officialSource": false
     },
     {
@@ -324,16 +574,6 @@
       "officialSource": false
     },
     {
-      "id": "ce0c842e69853e856dbe",
-      "section": "football",
-      "title": "Football Daily",
-      "excerpt": "The Commentators' View team describe a special night for Harry Kane at Wembley.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmwxf4?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T16:05:00Z",
-      "officialSource": false
-    },
-    {
       "id": "bbd27f699d942e666c6e",
       "section": "world",
       "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
@@ -341,26 +581,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T15:42:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "2865e7970ab09789ba16",
-      "section": "football",
-      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-      "excerpt": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T15:28:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "ff0fe521bc7a37901e91",
-      "section": "technology",
-      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-      "excerpt": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-      "publishedAt": "2026-11-13T15:26:53Z",
       "officialSource": false
     },
     {
@@ -384,46 +604,6 @@
       "officialSource": false
     },
     {
-      "id": "2cab0dde83e80826e97e",
-      "section": "technology",
-      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-      "excerpt": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-      "publishedAt": "2026-11-13T15:09:39Z",
-      "officialSource": false
-    },
-    {
-      "id": "4e81a99ee4df1e0f3135",
-      "section": "technology",
-      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-      "excerpt": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-      "publishedAt": "2026-11-13T14:45:04Z",
-      "officialSource": false
-    },
-    {
-      "id": "87debc719bf2c2f3768b",
-      "section": "technology",
-      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-      "excerpt": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-      "publishedAt": "2026-11-13T14:29:15Z",
-      "officialSource": false
-    },
-    {
-      "id": "938c3e3c199878a4ea78",
-      "section": "technology",
-      "title": "NHS, schools and police forces hit by Microsoft outage",
-      "excerpt": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T13:41:25Z",
-      "officialSource": false
-    },
-    {
       "id": "1383d3f72891184d86c0",
       "section": "world",
       "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
@@ -434,53 +614,13 @@
       "officialSource": false
     },
     {
-      "id": "c1c1878dffb4bed671cf",
-      "section": "football",
-      "title": "Odegaard backing Norway to avenge Wales defeat",
-      "excerpt": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T12:43:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "99ee9c25e89dabfafec3",
-      "section": "football",
-      "title": "Missing Israel games 'stressful' for captain Collins",
-      "excerpt": "Republic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T12:26:18Z",
-      "officialSource": false
-    },
-    {
       "id": "64838ee6839b9ce31acf",
-      "section": "us",
+      "section": "world",
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
       "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T12:22:30Z",
-      "officialSource": false
-    },
-    {
-      "id": "113581c3e4cb14291418",
-      "section": "football",
-      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-      "excerpt": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T12:09:48Z",
-      "officialSource": false
-    },
-    {
-      "id": "f3d9e76cb3a49813603b",
-      "section": "technology",
-      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-      "excerpt": "\"You can simplify it as a big tank feeding engines.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-      "publishedAt": "2026-11-13T12:00:40Z",
       "officialSource": false
     },
     {
@@ -494,16 +634,6 @@
       "officialSource": false
     },
     {
-      "id": "82c7a02c82378a75c984",
-      "section": "us",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "excerpt": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T11:43:27Z",
-      "officialSource": false
-    },
-    {
       "id": "7a6069f5bf26815e67ee",
       "section": "cricket",
       "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
@@ -511,16 +641,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T11:39:43Z",
-      "officialSource": false
-    },
-    {
-      "id": "85d70f79665c45ece79f",
-      "section": "world",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "excerpt": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T11:38:54Z",
       "officialSource": false
     },
     {
@@ -534,16 +654,6 @@
       "officialSource": false
     },
     {
-      "id": "b5309dad832b6cef49de",
-      "section": "world",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "excerpt": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T11:37:08Z",
-      "officialSource": false
-    },
-    {
       "id": "b23f34a374963fa336cf",
       "section": "f1",
       "title": "Andrew Benson Q&A: Send us your questions",
@@ -551,116 +661,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T11:30:39Z",
-      "officialSource": false
-    },
-    {
-      "id": "82d504251cd17d87035d",
-      "section": "cricket",
-      "title": "Test Match Special Podcast",
-      "excerpt": "Michael Vaughan reacts to Cummins’ press conference and England’s defeat in the first ODI",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T10:17:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "32d3d413c499b9415d16",
-      "section": "immigration",
-      "title": "UK student visa applications down 31% as Russell Group warns of volatility - The PIE News",
-      "excerpt": "UK student visa applications down 31% as Russell Group warns of volatility The PIE News",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWkwNE02RHlQQUhpYmxKTE0tMFN6S0JqSmpxZUp2UnZJaUdNVXJMWTFYbDlvSEJ2V1FQbmxtRjJrSjc5bS1SU2pTNFpSR0QycXJQbEFYRWNYaXpmNkViNl9iQU8xT09PSFNxZ1RhRnhLR2lKbWtaUllDQnhnSU1mS3BXSGwtWHBocjZRWDluZDB3N3FjTGFIS3BjS0J6Zw?oc=5",
-      "publishedAt": "2026-11-13T10:03:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "e85a42578afa965c80a2",
-      "section": "immigration",
-      "title": "Student visa applications to UK universities are on the decline - The Boar",
-      "excerpt": "Student visa applications to UK universities are on the decline The Boar",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalFnVWZKcmxUeVllVEJqN2syMWFXbHdoRnltQVVhVFNLMVFFeWJvaWw3WV91N0xfR3puQklZNGk5UnZqRU9EYXM0cE01a2wzV05xRkpxLUc3SzZuWlpHaGpXNnFERTIzQldscm94QUg4bGdXY3IxQkdVRTFCY2xSY181Qm1LS01m?oc=5",
-      "publishedAt": "2026-11-13T10:03:21Z",
-      "officialSource": false
-    },
-    {
-      "id": "dda1997d74589e3116bd",
-      "section": "cricket",
-      "title": "England thrashed by Australia in first ODI",
-      "excerpt": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T09:31:34Z",
-      "officialSource": false
-    },
-    {
-      "id": "b0dc56edb26574073cdf",
-      "section": "cricket",
-      "title": "Yorkshire re-sign paceman Ali on T20 deal",
-      "excerpt": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T09:08:46Z",
-      "officialSource": false
-    },
-    {
-      "id": "eb8a1f45cc8d6eeb3621",
-      "section": "world",
-      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-      "excerpt": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T08:20:28Z",
-      "officialSource": false
-    },
-    {
-      "id": "e3904c8d1cce30d27535",
-      "section": "immigration",
-      "title": "International student interest in US and UK falls as Asia gains appeal - IDNFinancials",
-      "excerpt": "International student interest in US and UK falls as Asia gains appeal IDNFinancials",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDBuWUV4b09VdUFkSU1tLVQ4NFkyck5RUVR4SG5Db3hTU3c0UFo2VXJraUNxdl9OSFd3SGFRdUp2Y1h0R19pWU9uQW95enF1Zm00WFRaY1ZiQzJJQlBPWDBZcjVybzlMa3JXNUFkY2EzcEZiLUNCQk1fTThROFl2RXI5SGpYbDNXTkdtUzRfNWxuSi1RdkNKN0VNcGhZZVhIY1pXSVgtR1F1MXZDbV9VUA?oc=5",
-      "publishedAt": "2026-11-13T08:20:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "c2a3ab00c0f68dfc507a",
-      "section": "cricket",
-      "title": "Scots beaten by Sri Lanka in second group fixture",
-      "excerpt": "Scotland women succumb to a four-wicket defeat by Sri Lanka in their second Emerging Nations Trophy Group A fixture.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T08:16:13Z",
-      "officialSource": false
-    },
-    {
-      "id": "99fa97186b8aa7693f49",
-      "section": "immigration",
-      "title": "Northwestern calls for withdrawal of new OPT fee proposal in Nov. 9 public comment - The Daily Northwestern",
-      "excerpt": "Northwestern calls for withdrawal of new OPT fee proposal in Nov. 9 public comment The Daily Northwestern",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSEhpM2NwaGFTMjRfdExPaXQ2WHJaWmdPQzh4WjJtTEcxOF9qcVVnNjF5eU1xYS1ERTFpd2NxcVpMX1g3Zjg3SjVZYWpZSlc1Yy12aXhVdjBoRkgwOVNSbDRBMmpXcnotWUd1TEl0dWFoMGstS2lmZDJ0WHlyUUZSYzRHNXJzLW41OVF2aXZtOHBPRE1uYkRVNFNOR0NaVmhaQ2VsWlQteVgxSmpBQnFwZ2dkOUc5QVZyWVRNMFZWc0dkWHpDQlFZQ1IzdkZETmhSS3dR?oc=5",
-      "publishedAt": "2026-11-13T07:51:13Z",
-      "officialSource": false
-    },
-    {
-      "id": "e7ab1f3dab1f8635900d",
-      "section": "immigration",
-      "title": "New F-1 Visa Restrictions: What Has Actually Changed for California Students? - Parriva",
-      "excerpt": "New F-1 Visa Restrictions: What Has Actually Changed for California Students? Parriva",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YllsMDVDeHlEZzdyb2c3NXV3cS1zYkN6RE9QZjBsY19LUkFxelRMV3dzYVpuU0tjVXhkdmR3ME9BckRHeXdOcVZEOXk4eU5kbkFYMXJkbVZfQXVfcFNHU2c2ZWVHOS13RHdONktyM1U?oc=5",
-      "publishedAt": "2026-11-13T07:04:49Z",
-      "officialSource": false
-    },
-    {
-      "id": "2699a76e030ebddc43a9",
-      "section": "world",
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "excerpt": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T07:01:43Z",
       "officialSource": false
     }
   ]
