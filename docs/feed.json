@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T19:46:06.360241Z",
+  "updatedAt": "2026-11-16T09:42:01.614203Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -14,93 +14,463 @@
   ],
   "articles": [
     {
-      "id": "d54911b81730edc65a0b",
-      "section": "football",
-      "title": "Struggling Charlton make WSL history after defeat at West Ham",
-      "excerpt": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T19:43:57Z",
-      "officialSource": false
-    },
-    {
-      "id": "7c7b29f5e4c81914defe",
-      "section": "us",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "excerpt": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "id": "ff02de9f850c3b8c8489",
+      "section": "world",
+      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+      "excerpt": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T19:32:39Z",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T09:21:31Z",
       "officialSource": false
     },
     {
-      "id": "a78d9f7dcb4e15af97f3",
-      "section": "football",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "excerpt": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "id": "9f8c1a3e0d6e0743ca06",
+      "section": "f1",
+      "title": "Camara to race again for Haas in Las Vegas",
+      "excerpt": "Rafael Camara will again race for Haas in the Las Vegas Grand Prix following the sacking of Esteban Ocon.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T19:31:48Z",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c804w7nxr61zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:35:56Z",
       "officialSource": false
     },
     {
-      "id": "04b07751ddd4f6c98ebe",
+      "id": "5cedf47ae8cc80867d6f",
       "section": "football",
-      "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
-      "excerpt": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+      "title": "More than F1 - Monza's captivating football story",
+      "excerpt": "How Serie A outfit Monza are trying to make an impact in the shadow Milan giants and fashionable Como.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T18:27:08Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:31:05Z",
       "officialSource": false
     },
     {
-      "id": "4ce7bd20ba195d309ce4",
+      "id": "9b4097e5ea60bb45cd3c",
       "section": "football",
-      "title": "Children's tournament abandoned for parents' behaviour",
-      "excerpt": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+      "title": "Every goal from the Women's Super League - matchweek 10",
+      "excerpt": "Watch every goal from across the Women's Super League in matchweek ten, from a brilliant free kick from West Ham's Viviane Asseyi to a stunning strike from Maya Le Tissier on her 150th Manchester United appearance.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T18:24:54Z",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:30:12Z",
       "officialSource": false
     },
     {
-      "id": "f8b0c501c5681caec1a5",
+      "id": "9cd0240cdc5a56017aa0",
       "section": "football",
-      "title": "Sule strikes late as Scotland U21s snatch draw against USA",
-      "excerpt": "St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain.",
+      "title": "Burnham urges caution on scrapping 3pm TV blackout",
+      "excerpt": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T18:11:08Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:18:33Z",
       "officialSource": false
     },
     {
-      "id": "18dcdfa3f25a24ab8040",
+      "id": "f8013bd5e9447e799302",
       "section": "football",
-      "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
-      "excerpt": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+      "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
+      "excerpt": "Mario Frick reportedly rejected the Wolfsburg job before becoming Aberdeen's new head coach, while Celtic are said to have no plans to sell in-form Mika Baur.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T17:56:57Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:17:46Z",
       "officialSource": false
     },
     {
-      "id": "462f751bfb016fb882cc",
+      "id": "aae3182c02cb26d117c3",
       "section": "immigration",
-      "title": "Colleges lose €8m due to rise in student visa refusals - RTE.ie",
-      "excerpt": "Colleges lose €8m due to rise in student visa refusals RTE.ie",
+      "title": "UK sees 20% drop in student visa applications as dependant numbers fall further | World News - Hindustan Times",
+      "excerpt": "UK sees 20% drop in student visa applications as dependant numbers fall further | World News Hindustan Times",
       "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVBaZjRJd2tFSk5XdzNYQjlJaVVuQk90cXVsamhJajNsS2lIUl9mc0NheHd6SDB5Mi1mN0ptcFc5bmFsbVZDaE1WdnpqTXJUcjdTWDZ0LXdoYnk2WGU2Y2tiZWppWVZzVkVGZi00V3d1dUxyWnZBZWo0cDl4T1kwTmhTR1RTejNra0UzbERnaGVIT28?oc=5",
-      "publishedAt": "2026-11-15T17:23:54Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeWlnZml3dW9TNUxTaGQwUzVQaTVZeUJwdDlIWWp4cWpZVHoyVzFfZW9XeFRlQ3B0RV9HTmI4dm10aks1ZXZlbVZ0R04xdGpyNm9waDJNNkNoZGg5blZvUGtaV0RreHR4eXZTbS1zUDJNMDhKZC16QXl2X3gweEtweEVBSlRZNUFLSTNxM0pBWjN4cjJCUkY0YUZtc2pndVROVjhTU1pKUjVKVG52LXU4UjNrZWlIZ05MRFczTVo2b1gyUWRYdVlmcG02Qzhkd2ktTml0QXJ5MzDSAd4BQVVfeXFMT0tIRlFWOHQ2UTNpQnJlakdSMzE2elRkMG9rTkV1RlRFTGpFZ3l4RkRrdHY3eExtc2s4NS1HY1YyQUw0dFpjNXlhbTBKM1lTUE5jcWRnRW85VmVEbzBET0ZMWkpPUzJrZXU2a1FmOURXcEtFNnZGcENyQVo0aWNFb1NzTW9kb09rNmx5REVJOTIyMnFSX1dQS0JkRXlNeTJGU3pkRHlLUVRCM3VYa1ZycWlNc3ctMXdXLThjQ0dwckZOa3BQajAwZWk5dXdCNUJmMWozM0tlOVVESS1DZFRn?oc=5",
+      "publishedAt": "2026-11-16T08:15:53Z",
       "officialSource": false
     },
     {
-      "id": "6f1774518d691f36cafe",
-      "section": "football",
-      "title": "AS FAR retain Women's African Champions League title",
-      "excerpt": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+      "id": "e3318224dc951e6d2c17",
+      "section": "f1",
+      "title": "How to follow Las Vegas Grand Prix on the BBC",
+      "excerpt": "All the key BBC coverage details for the Las Vegas Grand Prix, which takes place from 20-22 November.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T17:23:45Z",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:07:20Z",
+      "officialSource": false
+    },
+    {
+      "id": "58cae8f2381c65d9776e",
+      "section": "football",
+      "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
+      "excerpt": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer…",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:02:51Z",
+      "officialSource": false
+    },
+    {
+      "id": "e892c93f2f2924ff552d",
+      "section": "immigration",
+      "title": "International Student Enrollment Down 9% in Fall 2026 - Inside Higher Ed",
+      "excerpt": "International Student Enrollment Down 9% in Fall 2026 Inside Higher Ed",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOenluVDkyckc0Q3otOTVrT08zcFZLdTFmVGZQSEhUaWdKX3Y1NWJISmZFclJNRUp4ZDNTQnROQkxKMUxHUGh4TFVPbjhkN1B4dThpbndCZDVGUGFFQ0hQSkdYMXJUenZFLXRpSXZoYzFzY2lYVU8zS2JaSjRlaHkyMzA0MjJCTnl5elpuU25ab0VkVzFWR1RNTVhVblU4ZXVjSWNGamRIaUR3ZjVyVlliQ0c3MXNqZGxzUG5vOHZjN1NqN1U4Z1lrcQ?oc=5",
+      "publishedAt": "2026-11-16T08:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "de4efbb6355409b11b96",
+      "section": "football",
+      "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
+      "excerpt": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T08:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "6706be4cb146f1abbec9",
+      "section": "football",
+      "title": "Vote for the best men's European striker this century",
+      "excerpt": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:59:20Z",
+      "officialSource": false
+    },
+    {
+      "id": "2278bc039cfc249e6d49",
+      "section": "football",
+      "title": "Homophobia on the rise in football - what is your club doing about it?",
+      "excerpt": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:26:27Z",
+      "officialSource": false
+    },
+    {
+      "id": "d9e64e102dc3b49f9579",
+      "section": "us",
+      "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+      "excerpt": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:24:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "871c4bfc0c426ed1eb81",
+      "section": "world",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "excerpt": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:23:23Z",
+      "officialSource": false
+    },
+    {
+      "id": "26ca56453ab854743f60",
+      "section": "india",
+      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+      "excerpt": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:19:11Z",
+      "officialSource": false
+    },
+    {
+      "id": "51c652ead6fc65fa3daf",
+      "section": "football",
+      "title": "Is Scotland's system limiting Gannon-Doak's threat?",
+      "excerpt": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:09:40Z",
+      "officialSource": false
+    },
+    {
+      "id": "b1731894e0bd5c957dfd",
+      "section": "immigration",
+      "title": "UK student visa applications fall 20% in a year as tighter immigration rules affect overseas recruitment - The Economic Times",
+      "excerpt": "UK student visa applications fall 20% in a year as tighter immigration rules affect overseas recruitment The Economic Times",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcElXMjZIUElYNmNtdnZKY04wcDJUWHJ3WG5uZ0dUWVgxblBBci1EWmJTYm12RkFqUDNvZlU3THY2T3Y1WTBxa1dCci1yRUJmQVI3VXh3TnVPd0lYakdfcDNDSklSUGFhSFFLWlZUX1oyQS03WVpvaGlPR3JDNFJVd1U5bEt3aWNuVjhqOXRDME41T3VuMTlWZG5zR3VuSWNZMFpkOWk3MEpqZTZ5d2xhQmp5bm9sTXd3ci1iNEpQUjhSLVNrWnJKVG10VE1WNHhoQVRSbkpRbzdhMnBvNXBEMkdWSU9ORjczTWc4QnlBakNwb2htUjY0bGc1QdIBgAJBVV95cUxOQ29tM0lJOGdRVFhkUGpkejM1eWZMN1RYY01COWh4LUk3ZWtfMmUtLTY0dVlCZDFsRlVrUnZVZlBLYkl5c1ozeDdmZGZNVFRwcVVFMmZlUi1KMUZJZ1NLcFB0QjlFYmxzSW5idnRzVHE5TXBZRjNtdEhpM28waDQ2U3BDNWQxRERGc0VuQUhmbVNFWUtvRmR4MFZ0SGFUd0lCaEtrTXV5bmF6bGxzNnpBeTFtUFhIX0lQa29fVHUyc1MyZUs3V0RGbUpXVDdJSGVCQk1teXZBQ0dwOEFUS0JYLW1EZDVvNW43RWpRbjZMdmpzUExQSFpEWk5vbGVUSjZs?oc=5",
+      "publishedAt": "2026-11-16T07:06:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "c61ce8696ae8e224211c",
+      "section": "f1",
+      "title": "Formula 1's one-race wonders",
+      "excerpt": "Making it to Formula 1 is the undoubted pinnacle of any racing driver’s career – but what became of some of those who only had one shot?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqp9dr4kedd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T06:53:18Z",
+      "officialSource": false
+    },
+    {
+      "id": "c86fdeb252a0bcf2ba3e",
+      "section": "football",
+      "title": "Clyde ready for 'heavy metal football' as rock band sponsors club",
+      "excerpt": "Metalcore act Bleed From Within have also co-designed the new third kit for the Bully Wee, who now play in the band's home town of Hamilton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cx9871qeq59jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T06:48:40Z",
+      "officialSource": false
+    },
+    {
+      "id": "22140249d2d913425487",
+      "section": "football",
+      "title": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy0el2jy17ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T06:23:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "000e9b654b4deb1f566d",
+      "section": "immigration",
+      "title": "In Mass., international student population dipped 4% in 2025-26 - Axios",
+      "excerpt": "In Mass., international student population dipped 4% in 2025-26 Axios",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXJTb2pQeDBhUkxQNk9fZXRhNTNncU9rNWg4VDdfQ05iZDdoVjlsVHVpdERFTFlCSXNGSTRwemRrQTVRNkxYbTU3cUJXZENWWXR2eGFIZTJjTXBaY0F4VWttcXBkdm8xV0RMd0R2R2M5d05Jc3cyZU10Vk1hZVpFRmw5QXUySmtpbWVQcHB5TU43bTZW?oc=5",
+      "publishedAt": "2026-11-16T05:56:46Z",
+      "officialSource": false
+    },
+    {
+      "id": "0c0cfefcf103ae95a84f",
+      "section": "immigration",
+      "title": "US education groups challenge government $70,000 opt fee on colleges - NewsBytes",
+      "excerpt": "US education groups challenge government $70,000 opt fee on colleges NewsBytes",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWNoWEh6X0wyUENTVW9VUmt2eTYydEFFMWhSMXV5N3J2QWVZWlZqVEJiaWxqbGtXVjhhNjYxSFpuRld6dk1HMFpmTGJpWkZhUHVMU2kwYzlrLUxLbDYzZmE4RWNZTUJQN2htSDA1MUVwV2pTMy1UanBGcjRLaENlbS15NlVTWVZRUmp1R25qT3ZnTVduS1FBX2dWYmRuNHBZajNWT1lmMElDX0pORVJCRQ?oc=5",
+      "publishedAt": "2026-11-16T05:40:31Z",
+      "officialSource": false
+    },
+    {
+      "id": "e177084289c060536176",
+      "section": "immigration",
+      "title": "US universities oppose proposed $70,000 OPT fee: Could Indian students lose post-study work opportunities - The Times of India",
+      "excerpt": "US universities oppose proposed $70,000 OPT fee: Could Indian students lose post-study work opportunities The Times of India",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORk1hOGZHVGpEYjl4dXFveUFnWWRXZGRCT3dVNDhlUWhKX3VhdDFlWmlNTUltQ2VUc0xHWjZZU19LdVVEYjdlQVpjWDlQN09kUEpoVXR4YjJRMk04RWp3WDFEdlVtNlUwTTVOZzBMVy1JeEFpWW1Kc1B3QzAydGNCdDFSTG9TXy1kSHNsMDN0cFVtNkxrcU5qcDFUUUp6a2FmX2NJeHBLLUJEQ01oZ0RKWUIwTWF1bllKdmRGMklPSFVQazJvcTRvYXREOFRsYTFwc2hCQzVVTG5KajRITUFacVc4ekVfSjM2S1NpbGdGeUdQMlVuNGpnTVZoVUtTSnc2eFRWTGxkVFM2eFpBY0labllXOGlOQdIBmwJBVV95cUxOTHh6XzlRRE1OUnFGcEcxX0ZPX3dZNlFUbnRRVXk5cjdMS2g0WlJrQllOMzNFQ0RfVVNRWW1vdE5DaWpvLVgzcVNuNXp4MjlWV2w4M3RqRy1LLVFuVWxPalJENTVZbkJock5XTkxGa0ZVYk5VYXdreU5XY2E1UlM5RktucnJnR04yeV9icjF2NFF0VzRQakNTQWhHYUZaTlhCcFQ5bHd4aG5WQmVNNXNqUDRBUUw3SXNaNUNxZkwwUWkzeGVrSHFBY3ZjRzBoLUIyN0R0eXNNVV9fWld0ekhkbHhHblJlMThXVXV1UUFpV3VZZDhLZzNPYlBualVoTVF2QUhlMkMzTnZuSVhkS0VBVktFcmtZUFhlMTdv?oc=5",
+      "publishedAt": "2026-11-16T05:23:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "8cfd90aff3da735bd166",
+      "section": "immigration",
+      "title": "International student enrollment fell 2.7% in 2025-26 - Higher Ed Dive",
+      "excerpt": "International student enrollment fell 2.7% in 2025-26 Higher Ed Dive",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXZCWExsNDdEQ2wyVzdULXVTVkhlQ0Rmamt6LVg3cHdNWDBadE5OdXZndEp2dWR5dzZ1ekVoRkZsNkt3dmhZeDJkNU5vMjd1WFVEVE96TWY5ay1MVDUyMlBDY1ZpTkNDWE15YVBnM3VPaHFpOFZCTGc3bm1Ccl9oZWVvS3VxSFlxNVF4di1HSkdaR1RycHVTZw?oc=5",
+      "publishedAt": "2026-11-16T05:19:30Z",
+      "officialSource": false
+    },
+    {
+      "id": "3a5f36fa5039fa15e89e",
+      "section": "world",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "excerpt": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T05:06:59Z",
+      "officialSource": false
+    },
+    {
+      "id": "e58207d265fad7f64ddf",
+      "section": "immigration",
+      "title": "Visa hurdles, high tuition costs creating a 'perfect storm' for lower international student enrollment - WBUR",
+      "excerpt": "Visa hurdles, high tuition costs creating a 'perfect storm' for lower international student enrollment WBUR",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmRqOF9sVG9HVDdHTW9tS2Z4R1BRejhQcTNpcUhmMDFmMUxPR3hKY0k3YXdTSl92S1VEc3ZTNll3a2paNWhVZXRHZjY3d0FuVkxteUxfbmRSSExiUzJjU2dGRE9EeG9PVXNMLVZlT1kwZ18yblRUUlR2NDhRa3I3TkdMTmE1dTFkTU90endSR1pqYjg4ekUtNVlvb1pzV0o1QmlFNkpiZGZSOUtXSHRhMFNWbVY3QS1lTWVUdTZCQWhJaEt1dHZicGZxUWh3ZVlsVlE?oc=5",
+      "publishedAt": "2026-11-16T05:01:51Z",
+      "officialSource": false
+    },
+    {
+      "id": "209090d497c3c1f70c1b",
+      "section": "world",
+      "title": "Watch: New York teen reunites with cat missing after building collapse",
+      "excerpt": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T04:36:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "cdf05ed225a51cbf7d75",
+      "section": "world",
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+      "excerpt": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T03:21:56Z",
+      "officialSource": false
+    },
+    {
+      "id": "8d84ec1e724b09682471",
+      "section": "world",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "excerpt": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T03:09:49Z",
+      "officialSource": false
+    },
+    {
+      "id": "529dff662e5228011ef7",
+      "section": "technology",
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "excerpt": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T03:04:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "56dedeeec32c3b29b8bb",
+      "section": "world",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T01:47:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "c9c72d315c9cabc98bf2",
+      "section": "immigration",
+      "title": "US universities face international student enrollment decline as Trump tightens visa and work rules | Hindustan Times - Hindustan Times",
+      "excerpt": "US universities face international student enrollment decline as Trump tightens visa and work rules | Hindustan Times Hindustan Times",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT0h4NzhGS3htZnRVN0kxZ0plaUxCSENhWHlZeldQQ2dDOWFzV3haMGxRSTNDcFk3N2NJTUV0SUJtMkRaRmV2ajlDeGVJMGl1VUdBbDVEOVBzdF9NaFl1Q0JSMDFiMnRBdzRYLWYxZTgxWTY5eXBhbFdtMXJqNkJtUDF3WVJsR0JtTTRHT21PazNxbXFTVzJfX243dTdrR1NhMmZ3cDlBY1dINGk3cmFzSHhGQmpRZXlHSnFiWGY2clBIaGZDR3VYSTZEOWVaeWJOeWxINUQwemFybUFjdVptRW9mREZZT2NRRzFSbVl1WUstRU9wc1hraFI3QS1ZOUHSAYQCQVVfeXFMTmJHcDJKT185ZlFkbm9jdDY4RzJiR1ozTDZCNXFacVZXSFUyOFJGT2pmMVBobS0wOHlfTTUzRktlenVHaXZkd3ZqNThuT0hBZ1dEdUtDMHhmcEFoZWhOWVhISnNOLXl6SUxUUkZaT1dYS2ZVRWhWeTRuMHdrZVVIamtfbUczMVVuaV9kdlk3LWl5dXIzNFUzVzJNdEdYd194QkxVTjNXck5NMXRDSWxreFNyUjZqdjJBWHFIRjZ5WldtQVhmdHlPRnRpTzROTHFtQ0hGMDlRMGlzbjJFYkk3TkpHXzg1eVlzY3oxUDRaWXEzZXRJWmRNWlFsNkhTN0E2X2lKbFQ?oc=5",
+      "publishedAt": "2026-11-16T01:11:37Z",
+      "officialSource": false
+    },
+    {
+      "id": "bf3feafec58d8989cb0e",
+      "section": "world",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "excerpt": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T01:05:44Z",
+      "officialSource": false
+    },
+    {
+      "id": "ebbc9f2bab6c5fb89c9f",
+      "section": "immigration",
+      "title": "German embassy to introduce digital student visa process from January - The Daily Star",
+      "excerpt": "German embassy to introduce digital student visa process from January The Daily Star",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2wxc1Rnb21oajRkY1NMMF90UGljRUpOUkRwQWc4YmRGejlFMlNoWXA2SW5kQmo3VnFSNnFCeEVxeElIZ2RkdDlHRFJPcE5weG5OelJHQ3VTSnhCNnoyTEVmVlh0bzNGRzVOVWt6Tk5felI1a0ZyZld3a0U0a0ZKOVB3aDduZkRfVndwcDUyRm1TRnJiLWRYN0RDdDJyWFAybkx1U21Mdlg0TUl1ak1xZ19KeHVzcjJQaUtxTFptZ2lqRjBUMDRyag?oc=5",
+      "publishedAt": "2026-11-16T00:43:19Z",
+      "officialSource": false
+    },
+    {
+      "id": "d991ae64572f991b4550",
+      "section": "india",
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "excerpt": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:41:42Z",
+      "officialSource": false
+    },
+    {
+      "id": "7aa175f88067404d144f",
+      "section": "world",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "excerpt": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:13:14Z",
+      "officialSource": false
+    },
+    {
+      "id": "b5f9b9d8dfc20084a17c",
+      "section": "world",
+      "title": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
+      "excerpt": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:11:12Z",
+      "officialSource": false
+    },
+    {
+      "id": "6a58cdacdc1e93513920",
+      "section": "f1",
+      "title": "Much still to do on F1 diversity - Hamilton",
+      "excerpt": "British Formula 1 driver Lewis Hamilton outlines three steps the sport must take to improve its diversity.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:04:45Z",
+      "officialSource": false
+    },
+    {
+      "id": "cda11a2f408cc0701e3f",
+      "section": "us",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "excerpt": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:03:29Z",
+      "officialSource": false
+    },
+    {
+      "id": "1bffc0a8a23381b2dc09",
+      "section": "football",
+      "title": "How did England cling on against Spain and what did Tuchel do differently?",
+      "excerpt": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:02:22Z",
+      "officialSource": false
+    },
+    {
+      "id": "2337315736c494dfbe49",
+      "section": "immigration",
+      "title": "I went back to India when my H-1B was rejected. Now I have 2 public companies and am a judge on Shark Tank India. - Yahoo Finance UK",
+      "excerpt": "I went back to India when my H-1B was rejected. Now I have 2 public companies and am a judge on Shark Tank India. Yahoo Finance UK",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4SU5VTmk5QXlvcmpSSXBsWi1kVVh2NndhYUx4bTh3aW52WVFjRmo3OW1Lay03V0lRTUpMUmtCWko0RW12RmRSdTd3VlVHMURZOVEzbDRxWncwa3FYX0NvVmNXYzc5emR4bEhfSTRrLWo1V0c4ZDVxVg?oc=5",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "2bc3d8d01ae5971453ec",
+      "section": "technology",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "excerpt": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "publishedAt": "2026-11-15T23:11:54Z",
+      "officialSource": false
+    },
+    {
+      "id": "da8865ca9d259060773a",
+      "section": "us",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "excerpt": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:57:27Z",
+      "officialSource": false
+    },
+    {
+      "id": "29bc30af37c7538aca6c",
+      "section": "immigration",
+      "title": "Trump Policies Restrict F-1 Students and Disrupt US Universities - Demokratis.co.id",
+      "excerpt": "Trump Policies Restrict F-1 Students and Disrupt US Universities Demokratis.co.id",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFZmJJb18yWVFQX3M3YkpvLV9WenVnaUY1N1BYR0ZwTS1UbkM0RmxuWWkyUk1uVUU5WnQ2dVFoRmtscGIwak1YRHgwc2ItWnhxY1FERm9ua3VtUXNNdnJXYlBlYUJqNDAy?oc=5",
+      "publishedAt": "2026-11-15T22:51:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "9e2be74d107ef8c17c69",
+      "section": "us",
+      "title": "Canada bars Russia from Junior World Championships",
+      "excerpt": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:01:16Z",
       "officialSource": false
     },
     {
@@ -110,57 +480,27 @@
       "excerpt": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T17:23:40Z",
+      "publishedAt": "2026-11-15T21:03:40Z",
       "officialSource": false
     },
     {
-      "id": "8900e57b74984c03f9cf",
-      "section": "football",
-      "title": "Chapecoense crash survivor wins promotion in final game",
-      "excerpt": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T17:10:24Z",
+      "id": "7c7b29f5e4c81914defe",
+      "section": "us",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "excerpt": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T19:32:39Z",
       "officialSource": false
     },
     {
-      "id": "dfefcf04b563176672cf",
-      "section": "football",
-      "title": "Tenerife return to action after death of De Miguel",
-      "excerpt": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T16:38:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "fc9545844a8f3ccfd372",
-      "section": "immigration",
-      "title": "Germany introduces online student visa applications, scraps previous waiting list - The Bangladesh Monitor",
-      "excerpt": "Germany introduces online student visa applications, scraps previous waiting list The Bangladesh Monitor",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQW9BTmhGbHJ4RVdOc05OUVBFVjBwSy1LT2pYQXRNZ0d1WE8xdDJEQ19renJ2S2xqM2h5V041ODZBWGRzV2s0UVROaEhfcEFvZjc5R1VGSlJVMVdQcG12cGQzVHNqbmRzZTJqX201SUdzRkYwYlZrRGNsb3VxVFV4Yl9UTzNLdzFNckcxMUQ1YjMxZUFLTlR0bENJUHNPc3Jaa2w2eDBhQUZnM2JTbUJMS3pRNXg3QQ?oc=5",
-      "publishedAt": "2026-11-15T16:14:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "aafdcaebdbdacb3c763d",
-      "section": "football",
-      "title": "Why Northern Ireland won't focus on point they need in Hungary",
-      "excerpt": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T16:04:45Z",
-      "officialSource": false
-    },
-    {
-      "id": "38bcd66b353cd34e4fb2",
-      "section": "football",
-      "title": "You are Scotland boss Pocognoli - what would you do?",
-      "excerpt": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklyw2qzzd44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T15:58:56Z",
+      "id": "c27285778da4b00dd6a1",
+      "section": "world",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "excerpt": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T18:38:11Z",
       "officialSource": false
     },
     {
@@ -184,16 +524,6 @@
       "officialSource": false
     },
     {
-      "id": "56dedeeec32c3b29b8bb",
-      "section": "world",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T14:56:21Z",
-      "officialSource": false
-    },
-    {
       "id": "2a7d344b49180c070f27",
       "section": "us",
       "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
@@ -204,28 +534,8 @@
       "officialSource": false
     },
     {
-      "id": "7976e642e0535f62a743",
-      "section": "football",
-      "title": "Club's first match since player's death abandoned because of serious injury",
-      "excerpt": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T14:06:19Z",
-      "officialSource": false
-    },
-    {
-      "id": "aa8e6247d001d1219b1b",
-      "section": "world",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "excerpt": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T13:42:58Z",
-      "officialSource": false
-    },
-    {
       "id": "9a149bdd0ac60957348e",
-      "section": "world",
+      "section": "technology",
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "excerpt": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
       "source": "BBC News",
@@ -284,26 +594,6 @@
       "officialSource": false
     },
     {
-      "id": "c397a88bd18fc3c070df",
-      "section": "world",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "excerpt": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T11:06:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "c718f0631c936bbe5dfa",
-      "section": "world",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "excerpt": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T09:57:25Z",
-      "officialSource": false
-    },
-    {
       "id": "d695b4900b887176068e",
       "section": "cricket",
       "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
@@ -324,46 +614,6 @@
       "officialSource": false
     },
     {
-      "id": "6b2e3c144cb16d988b0e",
-      "section": "world",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "excerpt": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T08:17:41Z",
-      "officialSource": false
-    },
-    {
-      "id": "ebbc9f2bab6c5fb89c9f",
-      "section": "immigration",
-      "title": "German embassy to introduce digital student visa process from January - The Daily Star",
-      "excerpt": "German embassy to introduce digital student visa process from January The Daily Star",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2wxc1Rnb21oajRkY1NMMF90UGljRUpOUkRwQWc4YmRGejlFMlNoWXA2SW5kQmo3VnFSNnFCeEVxeElIZ2RkdDlHRFJPcE5weG5OelJHQ3VTSnhCNnoyTEVmVlh0bzNGRzVOVWt6Tk5felI1a0ZyZld3a0U0a0ZKOVB3aDduZkRfVndwcDUyRm1TRnJiLWRYN0RDdDJyWFAybkx1U21Mdlg0TUl1ak1xZ19KeHVzcjJQaUtxTFptZ2lqRjBUMDRyag?oc=5",
-      "publishedAt": "2026-11-15T08:07:19Z",
-      "officialSource": false
-    },
-    {
-      "id": "8989da5fae4de8eb29f5",
-      "section": "immigration",
-      "title": "German embassy to launch digital student visa application system for Bangladeshis in January - The Business Standard",
-      "excerpt": "German embassy to launch digital student visa application system for Bangladeshis in January The Business Standard",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWxMWUhlSktCN3J4YU1DemNSdlhpVkJxdEZuWjduTkhKOEpuUVlkdFdmTV9OdHNtcTVJYWNGVjBLYUpscW4wSExOTjdpT3U1RXhud3lDN1BnVHI0RGl5dGxWN0M1RGlha2hyMGNYaE41YktFNlZ1TGdnM2E4ZjdXajNkaWhTY0hrWkpzLWpIMGVNeUhPa1N6eWRXcHNTcDQ1VmZCWHBrNDRPcHJJNFF5YXFJYlVZaW9QTGlVT3dxMA?oc=5",
-      "publishedAt": "2026-11-15T07:56:02Z",
-      "officialSource": false
-    },
-    {
-      "id": "9ddcd5a2d810cd7dfe45",
-      "section": "immigration",
-      "title": "German embassy in Dhaka to introduce digital student visa applications from January - New Age BD",
-      "excerpt": "German embassy in Dhaka to introduce digital student visa applications from January New Age BD",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFZrbDRtTFZMLTJ0VUxCUktVVE9DQmhzY21jS0RNbTlDSkhXdUJfdjRBbHYzNXN4QjJZYVhGZHJMSVMtQkw0YW96TkJCc29POE91OEJMY2pzdmdEcVFPczVuNlVqaDZKSVU1VjBwbURrZjVwZmlyUlBnc0p1cFU4eTlUbUE1VWtpaUFuQnJIalFaSm82S0RMZUYwNlB3REt3cXFZOVBZd2QtZFVxbDZKbjlNU0pOTDhMUkpGNDRIWUhBMi1qcHllWUZ5WQ?oc=5",
-      "publishedAt": "2026-11-15T07:12:00Z",
-      "officialSource": false
-    },
-    {
       "id": "1e4c1fc5abc49ad27fd2",
       "section": "us",
       "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
@@ -371,46 +621,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-15T07:10:31Z",
-      "officialSource": false
-    },
-    {
-      "id": "1cb1cae86506778f8029",
-      "section": "immigration",
-      "title": "Germany introduces digital student visa application system for Bangladeshis - Jagonews24",
-      "excerpt": "Germany introduces digital student visa application system for Bangladeshis Jagonews24",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZZ2xqQV8xYUVKemI1UDdTMEo1dzEwelRWZkFjdlkxbURoSWR5bldzLWlFdzhQRE95SlJCOFcxajJCaFNCVF9JMV9rQ3hFcUJFdUtISm81aklsLTVSR2c?oc=5",
-      "publishedAt": "2026-11-15T05:17:32Z",
-      "officialSource": false
-    },
-    {
-      "id": "bf8691a50f1bccbd0cdf",
-      "section": "immigration",
-      "title": "Ricciardo ‘grateful’ Red Bull made F1 exit decision for him - Formula 1",
-      "excerpt": "Ricciardo ‘grateful’ Red Bull made F1 exit decision for him Formula 1",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNy1MS2RQbHE2cmdBdWw4a2E1SngyOG9pX1NJaGYyOU82bXBFQ0t5SjdhLXVza3BhOEp0TUhxTFN6cWFPQ0lxeHdmRm9vM0w0RG5UTU1CMi1OVHJfMzIyQUdyOHQwMWdWV2RUYVRwQVhrVUtTcHhvTXRqNUh6YmExeEtXVDdFa0NNeGZoZHdiU2VDaEdFdF90WVZQeUhGdVo0alpsVEo4VFBJVk95RnBhSGJ6RmI1cE9aeG5PYUtwb0swUzhJb2FQYWhlSk5qbTNkYmdVU1hLRHY?oc=5",
-      "publishedAt": "2026-11-15T04:41:49Z",
-      "officialSource": false
-    },
-    {
-      "id": "7572a1aa7036cc1d1e77",
-      "section": "immigration",
-      "title": "German student visa process goes digital for Bangladeshi applicants - Daily Observer",
-      "excerpt": "German student visa process goes digital for Bangladeshi applicants Daily Observer",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85UXo2aW5mRVJxU2J2TnlSUDVIUmVlZG9OalN2SkVCRWVBNWlCRThLTng0clZfTmwtRnZWRFBSczFnaUt3eUowVkVR?oc=5",
-      "publishedAt": "2026-11-15T04:25:22Z",
-      "officialSource": false
-    },
-    {
-      "id": "2e2d5271e0f038a7bc88",
-      "section": "immigration",
-      "title": "US, Canada see decline in international student enrolment amid tighter visa rules - survey - The Eastleigh Voice",
-      "excerpt": "US, Canada see decline in international student enrolment amid tighter visa rules - survey The Eastleigh Voice",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXQ2T0FVQlpQTWlTeThVY2V4ZGdxc2tvNHJqRjc1OFNnUkpVZ1JLR3RncVpFVTlISUl6a18tYVFlRm5nak5uWHdTdWgtSjBuTTlNOGhkX2RmTnZJSWRVVjcwRjNicGdCUTZMdUpLdVNKQ2Q0ZnNEUE40MGxUVl9JX2pZclZRdXhDc3J3UWpqNEdkbmxsbHZZN2Q1Z0xHSng1WmNMczZMU3V0emVJNklMT1d3YzRPN3hrNWtKaG1lellobXM3cEpTOA?oc=5",
-      "publishedAt": "2026-11-15T01:47:09Z",
       "officialSource": false
     },
     {
@@ -424,29 +634,9 @@
       "officialSource": false
     },
     {
-      "id": "a62b82539253fb0ea723",
-      "section": "world",
-      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "excerpt": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T00:06:55Z",
-      "officialSource": false
-    },
-    {
-      "id": "9c404fd939f59376d73f",
-      "section": "world",
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "excerpt": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T00:06:51Z",
-      "officialSource": false
-    },
-    {
       "id": "07c9002b78bbec3ac054",
       "section": "cricket",
-      "title": "Rabada takes five but Bangladesh have strong opening day - first Test scorecard",
+      "title": "South Africa v Bangladesh - first Test scorecard",
       "excerpt": "Latest scorecard from the first Test between South Africa and Bangladesh at the Wanderers, Johannesburg.",
       "source": "BBC Sport",
       "url": "https://bbc.co.uk/sport/cricket/scorecard/e-237000?at_medium=RSS&at_campaign=rss",
@@ -471,196 +661,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-15T00:00:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "4d3f357daa8cc28fb323",
-      "section": "world",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "excerpt": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T22:37:25Z",
-      "officialSource": false
-    },
-    {
-      "id": "8573d9e8e576a4ad4731",
-      "section": "us",
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "excerpt": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T22:15:52Z",
-      "officialSource": false
-    },
-    {
-      "id": "22f849a8a999828818db",
-      "section": "world",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "excerpt": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T22:09:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "2eafa4b1bb39d8eb3ba1",
-      "section": "us",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "excerpt": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T20:23:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "101d44ffbb4da315c867",
-      "section": "us",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "excerpt": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T19:14:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "d66099d92304cf4e8e47",
-      "section": "world",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "excerpt": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T18:28:06Z",
-      "officialSource": false
-    },
-    {
-      "id": "e35aa7ccdff70a95e0c7",
-      "section": "technology",
-      "title": "James Webb telescope finds ice older than the star it orbits",
-      "excerpt": "Radiation and collisions reshape the planetary building materials.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-      "publishedAt": "2026-11-14T12:15:48Z",
-      "officialSource": false
-    },
-    {
-      "id": "c87a05052d8238716604",
-      "section": "technology",
-      "title": "Winemakers are learning that conservation can be good for business",
-      "excerpt": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-      "publishedAt": "2026-11-14T12:05:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "923009d6a0173105f4a9",
-      "section": "india",
-      "title": "Sooryavanshi becomes youngest captain in men's T20s",
-      "excerpt": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T09:53:45Z",
-      "officialSource": false
-    },
-    {
-      "id": "d81d56bccbba1050e15a",
-      "section": "cricket",
-      "title": "Warner accuses Cricket Australia of 'cover-up'",
-      "excerpt": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T07:20:24Z",
-      "officialSource": false
-    },
-    {
-      "id": "334ebcca23065263348a",
-      "section": "technology",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "excerpt": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T06:42:27Z",
-      "officialSource": false
-    },
-    {
-      "id": "332f7fa7e6f224cf35dc",
-      "section": "technology",
-      "title": "Tech Now",
-      "excerpt": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T01:00:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "7b8ef8b8b9e124b3396a",
-      "section": "technology",
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "excerpt": "One way or another, the company will get some more data on Saturday.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "publishedAt": "2026-11-14T00:49:13Z",
-      "officialSource": false
-    },
-    {
-      "id": "f42c8666591c38b9d43f",
-      "section": "technology",
-      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "excerpt": "The next title in the series is expected to be the biggest video game release ever.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T00:37:01Z",
-      "officialSource": false
-    },
-    {
-      "id": "8bc86e752b2d05f1c5eb",
-      "section": "cricket",
-      "title": "Heat hammer hapless Hurricanes inside six overs - WBBL scorecard",
-      "excerpt": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Brisbane Heat in Hobart.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "b42409e6f157300bdf4a",
-      "section": "cricket",
-      "title": "Wolvaardt stars as Strikers beat Scorchers - WBBL scorecard",
-      "excerpt": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Adelaide Strikers at the Waca in Perth.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242436?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "ffcde67cd55e39ddfc07",
-      "section": "technology",
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "excerpt": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "publishedAt": "2026-11-13T23:17:38Z",
-      "officialSource": false
-    },
-    {
-      "id": "27ac71ecb4e41ddaac82",
-      "section": "india",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "excerpt": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T23:11:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "59d35bd98e0729bd173c",
-      "section": "technology",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "excerpt": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T23:00:31Z",
       "officialSource": false
     }
   ]
