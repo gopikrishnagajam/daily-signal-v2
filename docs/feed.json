@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T09:49:35.861380Z",
+  "updatedAt": "2026-11-21T20:31:33.282670Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -13,6 +13,286 @@
     "f1"
   ],
   "articles": [
+    {
+      "id": "c635be676fda0a05b2bb",
+      "section": "football",
+      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
+      "excerpt": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T20:07:56Z",
+      "officialSource": false
+    },
+    {
+      "id": "56dea4d369e5bbe2612d",
+      "section": "football",
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "excerpt": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:59:35Z",
+      "officialSource": false
+    },
+    {
+      "id": "a6b0c2e70569ea228074",
+      "section": "football",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "excerpt": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:59:17Z",
+      "officialSource": false
+    },
+    {
+      "id": "51c17a7be32b568a3cc5",
+      "section": "football",
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "excerpt": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:59:13Z",
+      "officialSource": false
+    },
+    {
+      "id": "10079cd5489f21714055",
+      "section": "football",
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "excerpt": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:59:08Z",
+      "officialSource": false
+    },
+    {
+      "id": "5871728cb88abe8015e4",
+      "section": "football",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "excerpt": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:59:02Z",
+      "officialSource": false
+    },
+    {
+      "id": "dd3fbfa67125581eebf3",
+      "section": "football",
+      "title": "Villa's home woes continue as Sunderland earn point",
+      "excerpt": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:58:56Z",
+      "officialSource": false
+    },
+    {
+      "id": "dc20728fc90e30af4a2e",
+      "section": "football",
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "excerpt": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:58:52Z",
+      "officialSource": false
+    },
+    {
+      "id": "e54ec07f73645f1c5748",
+      "section": "world",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "excerpt": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:33:49Z",
+      "officialSource": false
+    },
+    {
+      "id": "ee6d8dc098995ace4477",
+      "section": "football",
+      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "excerpt": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:29:48Z",
+      "officialSource": false
+    },
+    {
+      "id": "0f395160127624ccd80e",
+      "section": "football",
+      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "excerpt": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:21:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "a9bb7c6e29da205c76d2",
+      "section": "world",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "excerpt": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:20:22Z",
+      "officialSource": false
+    },
+    {
+      "id": "5d0283f56dd982a26f06",
+      "section": "football",
+      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+      "excerpt": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:04:09Z",
+      "officialSource": false
+    },
+    {
+      "id": "02f8fea97ef18001e8c0",
+      "section": "football",
+      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+      "excerpt": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T18:34:55Z",
+      "officialSource": false
+    },
+    {
+      "id": "04eb08eee3364472e6fb",
+      "section": "immigration",
+      "title": "Eva Yi Xie: DHS Gives Arrest Reason as Judge Sets Nov. 25 Deadline - immigration-analytics.com",
+      "excerpt": "Eva Yi Xie: DHS Gives Arrest Reason as Judge Sets Nov. 25 Deadline immigration-analytics.com",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHp2RDJXeUctOFl3VlBzcVZzY2F0M0R3MkVzYzhLVlZCem11YWptRXZGNUFWazdaNGtZM21rLWdmLUdxTkQ2My1TTG4yUlF5MTY0VUhocXlSWlpzbnJFZWx6TXVvWlFSbGRjYTlIMl9SSTZaQldtd2kwbnFiamZPZVFGZw?oc=5",
+      "publishedAt": "2026-11-21T17:43:50Z",
+      "officialSource": false
+    },
+    {
+      "id": "1c64d44e2f0cbfcc2335",
+      "section": "us",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "excerpt": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T16:35:15Z",
+      "officialSource": false
+    },
+    {
+      "id": "a69b1e8d9401b5b9f550",
+      "section": "immigration",
+      "title": "Irish universities report over €8m in lost fees as international student visa refusals rise - CASRAI",
+      "excerpt": "Irish universities report over €8m in lost fees as international student visa refusals rise CASRAI",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWJYVzVsdnJIRGpFZ3RoeFY1UUxMT2ZIRHh4SFlVdDY0QnZDV2J4ZzA4N2tsSDltN1BFLWlFVnM4WUdlU3NpUC00TllhZm1xVktRVFlEMlB2VkExTHFSTWpranBhVlFxLUc0MEVpQXJ1bDA4amFWU2pLVkZUbmN6SnkxQUdESVRVdmR5cjdLNkJFaHpmd3A3ZQ?oc=5",
+      "publishedAt": "2026-11-21T16:02:25Z",
+      "officialSource": false
+    },
+    {
+      "id": "ef1be76a115e82efab84",
+      "section": "us",
+      "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+      "excerpt": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T14:02:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "714dcc77cc1a9fcdd651",
+      "section": "world",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "excerpt": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T13:17:38Z",
+      "officialSource": false
+    },
+    {
+      "id": "d53e011b61eef9a5dd0f",
+      "section": "us",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T13:15:21Z",
+      "officialSource": false
+    },
+    {
+      "id": "307499cb45fecde28ce1",
+      "section": "cricket",
+      "title": "England call up McKinney for South Africa Tests",
+      "excerpt": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T13:00:06Z",
+      "officialSource": false
+    },
+    {
+      "id": "ba3f4f1c568307bbbd01",
+      "section": "cricket",
+      "title": "Australia's Chaudhary downs England in tetchy first T20",
+      "excerpt": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T12:24:33Z",
+      "officialSource": false
+    },
+    {
+      "id": "248395301e19c16d8d70",
+      "section": "technology",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "excerpt": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "publishedAt": "2026-11-21T12:01:13Z",
+      "officialSource": false
+    },
+    {
+      "id": "f291671ce03815666e88",
+      "section": "cricket",
+      "title": "Lehmann again denies knowing about sandpaper plot",
+      "excerpt": "Former Australia coach Darren Lehmann says he and his staff did not encourage players to use sandpaper on the ball in 2018 despite detailed claims by Cameron Bancroft.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T11:36:24Z",
+      "officialSource": false
+    },
+    {
+      "id": "9c916a308eba920e88ff",
+      "section": "immigration",
+      "title": "UK Student Visa: 2 Categories of International Students Exempt From Financial Requirement - Yen News",
+      "excerpt": "UK Student Visa: 2 Categories of International Students Exempt From Financial Requirement Yen News",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm90cXpKZThjQkV0NDN3T1VYVlp3TnhOWTZiTnFydnV2X3lLb2xrMEYzeXRCT1lNUHN1R3FUN01zemEyaHhPdk50TTdmc00yZjliYXgtQU5QRTZjbVVBNkhhaXNJRXc3WmV1bFBEeVB2ZEtmeEtZSl9hMS0wNXExN2k4cW1NSFVPamNtelAtWjlqMkVNOWZwU2VhZUdnSzlGaEp1MVVYRXF3ZE1ra3pKSFp6TQ?oc=5",
+      "publishedAt": "2026-11-21T11:23:35Z",
+      "officialSource": false
+    },
+    {
+      "id": "c520d2a1ddb57e76c867",
+      "section": "world",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "excerpt": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T10:26:36Z",
+      "officialSource": false
+    },
+    {
+      "id": "9686e4c61631e6b2a56f",
+      "section": "immigration",
+      "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses. - The New York Times",
+      "excerpt": "International Student Enrollment Plunged. Schools Are Bracing for More Losses. The New York Times",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2F3SHZOb2ljcEF5VFpuR25ORV9XZ2M0M1loQ2Fmc2hFZTY4R0hQaUdOM1l6TzF2SUh5ci1obTE1OENZSjN0YXpsNldDOWVwWjlfWEVZd3F4dUtKOUF5ZFgyUDZlNk04NmVCUDNxamZ0enRsdllhSl9VQlVwRVk2cFRYeHU0OGdKU0NRZkVDTjBrN2JCUTVR?oc=5",
+      "publishedAt": "2026-11-21T10:00:31Z",
+      "officialSource": false
+    },
+    {
+      "id": "45371936ef4f598d92c8",
+      "section": "immigration",
+      "title": "UK Announces Foreign Students Exempt From Showing Proof of Funds for Student Visa - Legit News",
+      "excerpt": "UK Announces Foreign Students Exempt From Showing Proof of Funds for Student Visa Legit News",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGZvWEZkeHQ3c2VNVFNhblNDalhhVThXNG5DSUxTeFhVNlU3dm9ZeFo2allMSXFlNkl3RUFpVFU5MUJVUS01MjRrSjNoRk9sT3d6WnB0Mk5yaDdjbFZvUXlhZ0l4bWtya2p2QjAzYk5JMVhCckJGcFcyQ1N4a0NrNDQxTlJYemZrT05meTR4VlBhaWQzX1N5WmJaQi1tWWl2dlp0SkNlTm0?oc=5",
+      "publishedAt": "2026-11-21T09:45:13Z",
+      "officialSource": false
+    },
     {
       "id": "8bd28aa954d3604bf83d",
       "section": "world",
@@ -36,7 +316,7 @@
     {
       "id": "48e0737234347e985a58",
       "section": "f1",
-      "title": "'Somebody has to stand up to that guy' - and Russell has his chance in Vegas",
+      "title": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
       "excerpt": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
@@ -64,26 +344,6 @@
       "officialSource": false
     },
     {
-      "id": "28e12a7fe0dde2be6355",
-      "section": "football",
-      "title": "The Chelsea loanee turning heads and Championship defenders at 17",
-      "excerpt": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T08:05:46Z",
-      "officialSource": false
-    },
-    {
-      "id": "e54ec07f73645f1c5748",
-      "section": "world",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "excerpt": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T07:31:05Z",
-      "officialSource": false
-    },
-    {
       "id": "37c378595bfcefe1a3b0",
       "section": "f1",
       "title": "F1: Chequered Flag",
@@ -104,16 +364,6 @@
       "officialSource": false
     },
     {
-      "id": "b8ea6b33ad6c3db6c511",
-      "section": "football",
-      "title": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T06:50:31Z",
-      "officialSource": false
-    },
-    {
       "id": "e3318224dc951e6d2c17",
       "section": "f1",
       "title": "How to follow Las Vegas Grand Prix on the BBC",
@@ -121,16 +371,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T06:48:42Z",
-      "officialSource": false
-    },
-    {
-      "id": "0a44deda7d54acb850d1",
-      "section": "football",
-      "title": "Jeers, injuries and doubters - White's journey back to the top",
-      "excerpt": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T06:17:32Z",
       "officialSource": false
     },
     {
@@ -151,16 +391,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T04:34:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "ef1be76a115e82efab84",
-      "section": "us",
-      "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
-      "excerpt": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T03:49:09Z",
       "officialSource": false
     },
     {
@@ -246,7 +476,7 @@
     {
       "id": "6d1f9890b97bd4e52a25",
       "section": "cricket",
-      "title": "Sixers beat Scorchers - WBBL scorecard",
+      "title": "Sixers beat Scorchers to secure knockouts spot - WBBL scorecard",
       "excerpt": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers and Perth Scorchers at North Sydney Oval.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242444?at_medium=RSS&at_campaign=rss",
@@ -261,6 +491,16 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "2cb9347c77a2ebbfe5b3",
+      "section": "immigration",
+      "title": "Colton Herta Is Disappointed After Cadillac F1 Snub - Autoweek",
+      "excerpt": "Colton Herta Is Disappointed After Cadillac F1 Snub Autoweek",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelN1a29Cd2VYZnVkemZZUmR6UkhJR29Cb1VlR0ZPUnFmdDlXVjlvOTNCRXJkY2pzRUVpTG5za2JFem55Z1JUTXhMY21JX2t3bzZYQXFQRkNmRTBLYnhVUUlfejIxR1BkWF85ZUU5ZTMxRmdqbnQxQVpBSXRhZWY4VTFkczNRRERvMFZFUi1ydVJETXk4aEdDVmlfSEVlRkZ6NmdF?oc=5",
+      "publishedAt": "2026-11-20T23:32:00Z",
       "officialSource": false
     },
     {
@@ -284,16 +524,6 @@
       "officialSource": false
     },
     {
-      "id": "00c51bf28b12843d5b88",
-      "section": "football",
-      "title": "Cost of Man Utd hiring and firing managers nears £100m",
-      "excerpt": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T23:18:16Z",
-      "officialSource": false
-    },
-    {
       "id": "2f5717862841a73e47a5",
       "section": "us",
       "title": "US declassifies more UFO footage filmed in the Middle East",
@@ -306,11 +536,21 @@
     {
       "id": "f1bb42fd1c541aea280d",
       "section": "us",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "excerpt": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T23:08:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "682e8869ba9e31ecc454",
+      "section": "immigration",
+      "title": "Why are UK student visas being refused after interview? UKVI turned down 79%, The PIE News reports - Nacionale",
+      "excerpt": "Why are UK student visas being refused after interview? UKVI turned down 79%, The PIE News reports Nacionale",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS29iQzF0bWZGY2ZVdEtJWG1Md2ZPVFRJd24xU3pXUG1fMGI5OFdvUWJqaUhwLTRzTDdHb01wVjJ5cTkzNkpyc01mU0QyNzE4XzM0SDRaWUx0SlZaUXBnTGRfWG81b1lJWU9WZG9Lc3Q1ZlRqdGFYLVE5UVpObE5hUU1OT240RFZCVWhuQU1fQUYzV0ROUnVSbnh3RkhpTk1YME54ekdGTDgzOHY4U2tkMVRNYw?oc=5",
+      "publishedAt": "2026-11-20T22:57:43Z",
       "officialSource": false
     },
     {
@@ -321,16 +561,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T22:57:26Z",
-      "officialSource": false
-    },
-    {
-      "id": "7c264085c6bf9161e75e",
-      "section": "football",
-      "title": "First defeat and first red for Ferguson as Glentoran falter",
-      "excerpt": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:54:43Z",
       "officialSource": false
     },
     {
@@ -361,16 +591,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T22:37:09Z",
-      "officialSource": false
-    },
-    {
-      "id": "990a8e53fc69d48b253e",
-      "section": "football",
-      "title": "NFL great Brady could buy Chelsea stake",
-      "excerpt": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:36:35Z",
       "officialSource": false
     },
     {
@@ -414,16 +634,6 @@
       "officialSource": false
     },
     {
-      "id": "10a65944b8359ea9b6b9",
-      "section": "football",
-      "title": "Lampard calls for fairness after Coventry penalty row",
-      "excerpt": "Coventry boss Frank Lampard wants officials to spend time ensuring they get decisions correct in the wake of his side being denied a penalty at Everton.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:04:19Z",
-      "officialSource": false
-    },
-    {
       "id": "ae5a204aaba705d52a51",
       "section": "technology",
       "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -431,36 +641,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
       "publishedAt": "2026-11-20T21:58:29Z",
-      "officialSource": false
-    },
-    {
-      "id": "c520d2a1ddb57e76c867",
-      "section": "world",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "excerpt": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T21:57:07Z",
-      "officialSource": false
-    },
-    {
-      "id": "538872688ec5862b9e02",
-      "section": "football",
-      "title": "Shevchenko lying about drugs test claims - Mudryk",
-      "excerpt": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T21:54:17Z",
-      "officialSource": false
-    },
-    {
-      "id": "ffe4fab2badb3743ecbd",
-      "section": "football",
-      "title": "Watch: Inverness and Ayr play out goalless draw",
-      "excerpt": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T21:47:58Z",
       "officialSource": false
     },
     {
@@ -474,16 +654,6 @@
       "officialSource": false
     },
     {
-      "id": "fb730324063a16cabaa2",
-      "section": "world",
-      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "excerpt": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T21:43:22Z",
-      "officialSource": false
-    },
-    {
       "id": "cc88c546d1214b6505b4",
       "section": "technology",
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -491,176 +661,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
       "publishedAt": "2026-11-20T20:59:08Z",
-      "officialSource": false
-    },
-    {
-      "id": "d020b8aa67dc21540cb4",
-      "section": "us",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "excerpt": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T20:54:12Z",
-      "officialSource": false
-    },
-    {
-      "id": "fe2d58aadc7c226193f0",
-      "section": "technology",
-      "title": "Watching as a giant star swallowed its neighbor and exploded",
-      "excerpt": "A recent brightening turned out to be from a star orbiting inside another.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-      "publishedAt": "2026-11-20T20:41:17Z",
-      "officialSource": false
-    },
-    {
-      "id": "da3aafb18139140ed8e7",
-      "section": "technology",
-      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-      "excerpt": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "publishedAt": "2026-11-20T20:26:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "749ce48f0ea329ea31ea",
-      "section": "immigration",
-      "title": "F-1 Hiring and Retention: What Recent Immigration Developments Mean for Employers - JD Supra",
-      "excerpt": "F-1 Hiring and Retention: What Recent Immigration Developments Mean for Employers JD Supra",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS3VhOVBSSU54anFvT1BZVHJPSmdheXpYTzRrak1FRkd1M0RuNl9zekE2cTdjaW9UUGM2dXY4TmxSYmVsY1h6UkxpamlWYTE3UkgyZXVtenlzbWtHTHg4bXB0SzdqZzktVlZQQ2tlVllLRGhHUXlkLVd0bXlhVm11NTltY2wyQQ?oc=5",
-      "publishedAt": "2026-11-20T20:22:15Z",
-      "officialSource": false
-    },
-    {
-      "id": "666a1cd12430761c91d0",
-      "section": "football",
-      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
-      "excerpt": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T20:06:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "0a6a674eafe176db37d8",
-      "section": "immigration",
-      "title": "BREAKING ATU Donegal faces €420k loss over international student visa refusals - Donegal Daily",
-      "excerpt": "BREAKING ATU Donegal faces €420k loss over international student visa refusals Donegal Daily",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3dlNUJFN2hWUjJxU2J5czcxeFI1b3ZEWVh2N2VzeVBhNklTcnA0UTVaaUNiUWZsN0NQVkUwOVgya2tGWGdGTy1kM3F1Vm9HYVEzWDVJV3JVYjBhZ2tZMzkxakktd3pONFJVWlRNMVFSMFY2ZVZoQlNIYlRfWWo2S1lXWnJPbmNqM1FhTGRBWU13djgxWVVpYTVWRmg0bHpZamlidG90WjRjZm5RN09JcWFBQ3RicVRlMVE?oc=5",
-      "publishedAt": "2026-11-20T20:02:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "7393f8d24cf3fb1a779a",
-      "section": "technology",
-      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "excerpt": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "publishedAt": "2026-11-20T19:52:59Z",
-      "officialSource": false
-    },
-    {
-      "id": "d88d0288efc8318ccde3",
-      "section": "world",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "excerpt": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T19:45:20Z",
-      "officialSource": false
-    },
-    {
-      "id": "96853c2bcb76b246ee84",
-      "section": "us",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "excerpt": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T19:27:49Z",
-      "officialSource": false
-    },
-    {
-      "id": "6ba744f711399033cf8e",
-      "section": "immigration",
-      "title": "Texas governor-elect Hinojosa plans to lift H-1B freeze at state agencies, universities - India Tribune - Chicago",
-      "excerpt": "Texas governor-elect Hinojosa plans to lift H-1B freeze at state agencies, universities India Tribune - Chicago",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWJCdTloWk9BLVhwNUQ5Y2pWd29vWHRFQm93VUFBbnJMQ0JBYmVsUTFDTndCcURwdTItS0VPLU00MmgtV3AxaEFkX0l6aUxya1oycU1TUnlaX1FxNzR6YldiMldzdGJvZDluR0FCZEhOeTB6aFRMV1ZnVHFqMjVfby1TbGZQbk50eTNmdXlidWFfS0RpaWZiWDBYbUdsa0t5blowNVVYNzlGSlc3M0IwU2l0Zm4xQQ?oc=5",
-      "publishedAt": "2026-11-20T19:24:56Z",
-      "officialSource": false
-    },
-    {
-      "id": "3d2e8ae68cb17a84dad8",
-      "section": "technology",
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-      "excerpt": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "publishedAt": "2026-11-20T19:21:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "25507c431b22f49c9ec6",
-      "section": "f1",
-      "title": "F1 bosses agree V8 engines deal from 2030",
-      "excerpt": "Formula 1 bosses reach a deal that means V8 turbo hybrid engines will replace the current controversial units in 2030.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T19:17:40Z",
-      "officialSource": false
-    },
-    {
-      "id": "f1db8bca064152c1ce2a",
-      "section": "football",
-      "title": "Sarr focused on Palace return after Liverpool interest",
-      "excerpt": "Crystal Palace forward Ismaila Sarr says he has moved on from Liverpool's interest in signing him and is keen for a \"fresh start\" under Thomas Frank.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T18:41:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "31e7711df1ed0342cfce",
-      "section": "football",
-      "title": "Chelsea fined £150,000 for discriminatory chanting",
-      "excerpt": "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T17:52:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "fddb106e7d1926ddb337",
-      "section": "immigration",
-      "title": "Court Vacates DHS F-1/J-1 Duration of Status Rule Nationwide - Clark Hill",
-      "excerpt": "Court Vacates DHS F-1/J-1 Duration of Status Rule Nationwide Clark Hill",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQU81WFdQN0RQMGVDODRLb0VFUkh2b1VwV054VkFfSXIwWDY5MEF0b1ExekEtQUZ1OWZka2l6TUdqU0M3eEZyTGlzYk52LXU4bHF4R2xkODhkYWRxVW16TXVVWDgxOGJySXQ2d00yV2tIcXBjZ1h0bTh6TVV4YTJ0RTV6dWUyRHcyUDdhRVk4VVM?oc=5",
-      "publishedAt": "2026-11-20T15:25:10Z",
-      "officialSource": false
-    },
-    {
-      "id": "176d5849715cc82b1ad8",
-      "section": "cricket",
-      "title": "Durham appoint Gibson as head coach",
-      "excerpt": "Durham appoint Ottis Gibson as their new head coach on a three-year deal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T13:51:27Z",
-      "officialSource": false
-    },
-    {
-      "id": "aed486491dc84761f19f",
-      "section": "cricket",
-      "title": "Cummins retains Cricket Australia support as captain",
-      "excerpt": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T10:13:23Z",
       "officialSource": false
     }
   ]
