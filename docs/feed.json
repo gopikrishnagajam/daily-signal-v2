@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T20:31:33.282670Z",
+  "updatedAt": "2026-11-22T09:46:24.987299Z",
   "retentionHours": 48,
   "sections": [
     "immigration",
@@ -14,83 +14,273 @@
   ],
   "articles": [
     {
-      "id": "c635be676fda0a05b2bb",
-      "section": "football",
-      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
-      "excerpt": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
+      "id": "6f8bb56af39d1b3d25b1",
+      "section": "f1",
+      "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
+      "excerpt": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Las Vegas Grand Prix weekend.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T20:07:56Z",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:35:05Z",
       "officialSource": false
     },
     {
-      "id": "56dea4d369e5bbe2612d",
-      "section": "football",
-      "title": "Arsenal go six points clear after lively draw at Newcastle",
-      "excerpt": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:35Z",
+      "id": "1702b449ef0b09d7ee21",
+      "section": "world",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "excerpt": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:20:45Z",
       "officialSource": false
     },
     {
-      "id": "a6b0c2e70569ea228074",
+      "id": "acb1bd58b173f080be0d",
       "section": "football",
-      "title": "Evanilson strikes again as Bournemouth beat Forest",
-      "excerpt": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
+      "title": "Armstrong plays down talk of Rangers transfer - gossip",
+      "excerpt": "Dinamo Bucharest winger Danny Armstrong says he has not talked with Rangers manager Derek McInnes about a move to Ibrox, while the chances of Jack Grealish joining Celtic are played down.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:17Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:10:02Z",
       "officialSource": false
     },
     {
-      "id": "51c17a7be32b568a3cc5",
-      "section": "football",
-      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-      "excerpt": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League.",
+      "id": "7cdcff40ed415d24b515",
+      "section": "f1",
+      "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+      "excerpt": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:13Z",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:07:15Z",
       "officialSource": false
     },
     {
-      "id": "10079cd5489f21714055",
+      "id": "0b52a4a332c60640f5d2",
       "section": "football",
-      "title": "Man City drop points to Fulham despite superb Anderson volley",
-      "excerpt": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+      "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+      "excerpt": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:08Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T08:41:20Z",
       "officialSource": false
     },
     {
-      "id": "5871728cb88abe8015e4",
+      "id": "ccc74ae7575aa1d6fcb1",
       "section": "football",
-      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-      "excerpt": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+      "title": "Scottish Football Podcast",
+      "excerpt": "Scotland head coach Mel Andreatta on Scotland, Sweden and chasing her World Cup dream.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:02Z",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp1j7j?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T08:00:00Z",
       "officialSource": false
     },
     {
-      "id": "dd3fbfa67125581eebf3",
+      "id": "b3e877699bf897c7a02a",
       "section": "football",
-      "title": "Villa's home woes continue as Sunderland earn point",
-      "excerpt": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
+      "title": "Who am I? Guess WSL star No 13",
+      "excerpt": "Work out the identity of today's player in as few attempts as possible.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:58:56Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq770yn580j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:19:58Z",
       "officialSource": false
     },
     {
-      "id": "dc20728fc90e30af4a2e",
+      "id": "e104840da107067d29c1",
       "section": "football",
-      "title": "Coventry beat Palace in Frank's first game after late own goal",
-      "excerpt": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+      "title": "Why Arsenal are behind in race for Champions League spots",
+      "excerpt": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:58:52Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:17:10Z",
+      "officialSource": false
+    },
+    {
+      "id": "45959e3c11f5ddc30676",
+      "section": "football",
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "excerpt": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:13:34Z",
+      "officialSource": false
+    },
+    {
+      "id": "1b19f15c028cca2b6775",
+      "section": "football",
+      "title": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:12:55Z",
+      "officialSource": false
+    },
+    {
+      "id": "f52c822b3d4b23835901",
+      "section": "world",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:12:41Z",
+      "officialSource": false
+    },
+    {
+      "id": "67f9c0822c32d5175807",
+      "section": "f1",
+      "title": "Verstappen wins extraordinary race as Ferraris collide",
+      "excerpt": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:27:06Z",
+      "officialSource": false
+    },
+    {
+      "id": "5abf13232bb211bae1cc",
+      "section": "immigration",
+      "title": "Cornell reopens CPT applications for international students after US court pauses tighter eligibility rules | Hindustan Times - Hindustan Times",
+      "excerpt": "Cornell reopens CPT applications for international students after US court pauses tighter eligibility rules | Hindustan Times Hindustan Times",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZDFMYTF1blJoWTdBYlZqekdTbFpOamE5RVpIdXlfdGwyazZHOUd6aWJyZ0lMRTNQRWtTdWVzV2VFYUZYVjc1YU1TaHBsZnFjQzBSRGMzS3dzd1VMSmZ5ZEM2QnNacmRPbzJvenRtUkRxZEdWdUcyRDFydExkazg0cE5Ydk84M2FxR29JaTVEV2tnQkVqSS11d3lTeUlkRklzOXIzQTYxZ3EzUVNhakJSa1ZJNmdWS0JaMURuRWZFQlY1ck1jU01vRUo2Y2U4LUQwUkdLaG9OdkQ5b0hRb0thVWVOSjBtakJZWW8tQWFRcFg5VHB2eXNyaW9xdkRZZXZmT0ozdFl2XzRaUdIBjwJBVV95cUxQZzctRWs3TjFDZGhDWTVESzNBUzUtc0dsdk9NN1puTjU5ZFVXVnBTbEFGTFUxeWFaZ21wcC1lVnhQVGdwYTNQbTFGYUxwcmkya0N0Umx6M1hEckFSLU03RW8wY0tCYzVhbU5oaFdzSnRUZFI3dEV5bWlxdDlja2Y5SWRCSHowOEVycWh4dkgybElkV3hPbzl1czlJNlVEeGE1NDFtQWJicDJ3TDRId0laUk1Hakx5UTRwYWM3TG4ybHROdWVIR21KRGU2QVZGLWM4eHlMbnJ2QTZ0dXNySlZGcDJTYWI2Y1pia09sMnY1MkhnWGRjTEFtVVRaN3pFY29Xd2JSeHNUQTU0cjR1OFlR?oc=5",
+      "publishedAt": "2026-11-22T06:26:57Z",
+      "officialSource": false
+    },
+    {
+      "id": "37de1173528ec01fe608",
+      "section": "football",
+      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "excerpt": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:21:55Z",
+      "officialSource": false
+    },
+    {
+      "id": "737a9facdd26faa14593",
+      "section": "world",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "excerpt": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:05:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "7ab78c7d451f12bc5c39",
+      "section": "football",
+      "title": "Wales boss Wilkinson rules out Fishlock return",
+      "excerpt": "Rhian Wilkinson has not considered asking Jess Fishlock to come out of retirement for the Women's World Cup play-off final against Norway.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9n5j9mj9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T05:12:04Z",
+      "officialSource": false
+    },
+    {
+      "id": "d53e011b61eef9a5dd0f",
+      "section": "us",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T01:25:03Z",
+      "officialSource": false
+    },
+    {
+      "id": "f5b504fa9b2a2de37315",
+      "section": "football",
+      "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+      "excerpt": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:13:01Z",
+      "officialSource": false
+    },
+    {
+      "id": "1c64d44e2f0cbfcc2335",
+      "section": "us",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "excerpt": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:10:44Z",
+      "officialSource": false
+    },
+    {
+      "id": "a201ec4f423e6ef281b4",
+      "section": "world",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "excerpt": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:10:37Z",
+      "officialSource": false
+    },
+    {
+      "id": "7b29528f2e14da5a0c7c",
+      "section": "world",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "excerpt": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:09:58Z",
+      "officialSource": false
+    },
+    {
+      "id": "1b11544df645a0806075",
+      "section": "football",
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "excerpt": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:08:13Z",
+      "officialSource": false
+    },
+    {
+      "id": "a57fd93f5c2b49be3177",
+      "section": "football",
+      "title": "Naderi's 'lucky punch' keeps Rangers in touch",
+      "excerpt": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:01:31Z",
+      "officialSource": false
+    },
+    {
+      "id": "43b7dc1c983dc318ad78",
+      "section": "cricket",
+      "title": "McGrath stars as Strikers beat Heat - WBBL scorecard",
+      "excerpt": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Adelaide Strikers at Brisbane's Allan Border Field.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242445?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "officialSource": false
+    },
+    {
+      "id": "080f5b44a05a8e4afe06",
+      "section": "technology",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "excerpt": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "publishedAt": "2026-11-21T22:12:41Z",
+      "officialSource": false
+    },
+    {
+      "id": "490042f26061ca852e15",
+      "section": "world",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "excerpt": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T22:01:19Z",
+      "officialSource": false
+    },
+    {
+      "id": "9686e4c61631e6b2a56f",
+      "section": "immigration",
+      "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses. - The New York Times",
+      "excerpt": "International Student Enrollment Plunged. Schools Are Bracing for More Losses. The New York Times",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2F3SHZOb2ljcEF5VFpuR25ORV9XZ2M0M1loQ2Fmc2hFZTY4R0hQaUdOM1l6TzF2SUh5ci1obTE1OENZSjN0YXpsNldDOWVwWjlfWEVZd3F4dUtKOUF5ZFgyUDZlNk04NmVCUDNxamZ0enRsdllhSl9VQlVwRVk2cFRYeHU0OGdKU0NRZkVDTjBrN2JCUTVR?oc=5",
+      "publishedAt": "2026-11-21T19:58:02Z",
       "officialSource": false
     },
     {
@@ -104,26 +294,6 @@
       "officialSource": false
     },
     {
-      "id": "ee6d8dc098995ace4477",
-      "section": "football",
-      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
-      "excerpt": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:29:48Z",
-      "officialSource": false
-    },
-    {
-      "id": "0f395160127624ccd80e",
-      "section": "football",
-      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
-      "excerpt": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:21:01Z",
-      "officialSource": false
-    },
-    {
       "id": "a9bb7c6e29da205c76d2",
       "section": "world",
       "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -134,26 +304,6 @@
       "officialSource": false
     },
     {
-      "id": "5d0283f56dd982a26f06",
-      "section": "football",
-      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
-      "excerpt": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:04:09Z",
-      "officialSource": false
-    },
-    {
-      "id": "02f8fea97ef18001e8c0",
-      "section": "football",
-      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
-      "excerpt": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T18:34:55Z",
-      "officialSource": false
-    },
-    {
       "id": "04eb08eee3364472e6fb",
       "section": "immigration",
       "title": "Eva Yi Xie: DHS Gives Arrest Reason as Judge Sets Nov. 25 Deadline - immigration-analytics.com",
@@ -161,16 +311,6 @@
       "source": "Google News (aggregator)",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHp2RDJXeUctOFl3VlBzcVZzY2F0M0R3MkVzYzhLVlZCem11YWptRXZGNUFWazdaNGtZM21rLWdmLUdxTkQ2My1TTG4yUlF5MTY0VUhocXlSWlpzbnJFZWx6TXVvWlFSbGRjYTlIMl9SSTZaQldtd2kwbnFiamZPZVFGZw?oc=5",
       "publishedAt": "2026-11-21T17:43:50Z",
-      "officialSource": false
-    },
-    {
-      "id": "1c64d44e2f0cbfcc2335",
-      "section": "us",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "excerpt": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T16:35:15Z",
       "officialSource": false
     },
     {
@@ -201,16 +341,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T13:17:38Z",
-      "officialSource": false
-    },
-    {
-      "id": "d53e011b61eef9a5dd0f",
-      "section": "us",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T13:15:21Z",
       "officialSource": false
     },
     {
@@ -264,6 +394,16 @@
       "officialSource": false
     },
     {
+      "id": "a99f537534854b0e387b",
+      "section": "immigration",
+      "title": "The F1 Las Vegas cheat sheet: Where to stay, what to pack - USA TODAY 10BEST",
+      "excerpt": "The F1 Las Vegas cheat sheet: Where to stay, what to pack USA TODAY 10BEST",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MMDlkaWlKUzl3UmcwT1BSaWE2X0dNeGcxVlFyZjdJT0E3NEJ0MlhqalVCTC1VYUdlTXg0QzUyMVE1VkY1azVxVUE3OTB4UFpINlpEQWt0NjNjd0EwS1RnNndlVQ?oc=5",
+      "publishedAt": "2026-11-21T11:00:00Z",
+      "officialSource": false
+    },
+    {
       "id": "c520d2a1ddb57e76c867",
       "section": "world",
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -271,16 +411,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T10:26:36Z",
-      "officialSource": false
-    },
-    {
-      "id": "9686e4c61631e6b2a56f",
-      "section": "immigration",
-      "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses. - The New York Times",
-      "excerpt": "International Student Enrollment Plunged. Schools Are Bracing for More Losses. The New York Times",
-      "source": "Google News (aggregator)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2F3SHZOb2ljcEF5VFpuR25ORV9XZ2M0M1loQ2Fmc2hFZTY4R0hQaUdOM1l6TzF2SUh5ci1obTE1OENZSjN0YXpsNldDOWVwWjlfWEVZd3F4dUtKOUF5ZFgyUDZlNk04NmVCUDNxamZ0enRsdllhSl9VQlVwRVk2cFRYeHU0OGdKU0NRZkVDTjBrN2JCUTVR?oc=5",
-      "publishedAt": "2026-11-21T10:00:31Z",
       "officialSource": false
     },
     {
@@ -334,16 +464,6 @@
       "officialSource": false
     },
     {
-      "id": "c04736f66c046ddc6f35",
-      "section": "world",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "excerpt": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T08:10:03Z",
-      "officialSource": false
-    },
-    {
       "id": "37c378595bfcefe1a3b0",
       "section": "f1",
       "title": "F1: Chequered Flag",
@@ -384,13 +504,13 @@
       "officialSource": false
     },
     {
-      "id": "81231055e0a0be4281ba",
-      "section": "world",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "excerpt": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T04:34:00Z",
+      "id": "84b89a502becb52d4e68",
+      "section": "immigration",
+      "title": "Boeing Layoffs: Paid Notice Period Sets H-1B Grace Period Clock - immigration-analytics.com",
+      "excerpt": "Boeing Layoffs: Paid Notice Period Sets H-1B Grace Period Clock immigration-analytics.com",
+      "source": "Google News (aggregator)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXhvQldXU1ZMRlpwNHc4LVh4ODN1dTdkeUM5V0l3d1VTdm13RUZValJJQXNUZkg0RFktSk90Y3RLWEhONjRtMTdGMUVUbE14bGRlaS1KdkZyWDFYclZuOHJLMGhWOFI0WUZobDNXV2szREJxaVFVRnlqN1JONFRfNXE1VFA?oc=5",
+      "publishedAt": "2026-11-21T05:18:50Z",
       "officialSource": false
     },
     {
@@ -441,16 +561,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T01:00:00Z",
-      "officialSource": false
-    },
-    {
-      "id": "2bf653dff003324e7835",
-      "section": "world",
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "excerpt": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T00:34:51Z",
       "officialSource": false
     },
     {
@@ -514,16 +624,6 @@
       "officialSource": false
     },
     {
-      "id": "bf4f3af21c1c32eadf50",
-      "section": "world",
-      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-      "excerpt": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T23:20:33Z",
-      "officialSource": false
-    },
-    {
       "id": "2f5717862841a73e47a5",
       "section": "us",
       "title": "US declassifies more UFO footage filmed in the Middle East",
@@ -561,106 +661,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T22:57:26Z",
-      "officialSource": false
-    },
-    {
-      "id": "5ef06037f3faa4d55810",
-      "section": "technology",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "excerpt": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:53:24Z",
-      "officialSource": false
-    },
-    {
-      "id": "53ba164e0140f69fcddb",
-      "section": "us",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "excerpt": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:42:47Z",
-      "officialSource": false
-    },
-    {
-      "id": "397265b10097e3d946f7",
-      "section": "world",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "excerpt": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:37:09Z",
-      "officialSource": false
-    },
-    {
-      "id": "d1a52d7504aa62549ed8",
-      "section": "technology",
-      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-      "excerpt": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-      "publishedAt": "2026-11-20T22:28:24Z",
-      "officialSource": false
-    },
-    {
-      "id": "9cc228f9e09fc4158be6",
-      "section": "technology",
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "excerpt": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "publishedAt": "2026-11-20T22:16:51Z",
-      "officialSource": false
-    },
-    {
-      "id": "25118528a8d8aa2c6bf6",
-      "section": "us",
-      "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
-      "excerpt": "The location of the hat and the 2,400-pound animal's anatomy made removal unfeasible, the zoo said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwly43km54n6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:14:33Z",
-      "officialSource": false
-    },
-    {
-      "id": "923a007fa0f3d1a776a4",
-      "section": "world",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "excerpt": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:14:17Z",
-      "officialSource": false
-    },
-    {
-      "id": "ae5a204aaba705d52a51",
-      "section": "technology",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "excerpt": "Google search is making it even easier to access AI tools on the search page.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "publishedAt": "2026-11-20T21:58:29Z",
-      "officialSource": false
-    },
-    {
-      "id": "85d0c5a4a983edfbbc04",
-      "section": "technology",
-      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-      "excerpt": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-      "publishedAt": "2026-11-20T21:47:10Z",
-      "officialSource": false
-    },
-    {
-      "id": "cc88c546d1214b6505b4",
-      "section": "technology",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "excerpt": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "publishedAt": "2026-11-20T20:59:08Z",
       "officialSource": false
     }
   ]
